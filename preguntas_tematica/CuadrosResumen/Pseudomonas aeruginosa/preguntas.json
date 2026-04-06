@@ -1,0 +1,202 @@
+[
+  {
+    "pregunta": "¿Qué tipo de morfología presenta Pseudomonas aeruginosa?",
+    "opciones": ["Bacilo gramnegativo", "Coco grampositivo", "Coco gramnegativo", "Bacilo grampositivo"],
+    "respuesta": "Bacilo gramnegativo"
+  },
+  {
+    "pregunta": "¿Cómo suele disponerse Pseudomonas aeruginosa?",
+    "opciones": ["En cadenas", "En racimos", "En parejas", "Aislada"],
+    "respuesta": "En parejas"
+  },
+  {
+    "pregunta": "¿Pseudomonas aeruginosa forma esporas?",
+    "opciones": ["Sí", "No", "Solo en ambientes hostiles", "Solo en cultivo"],
+    "respuesta": "No"
+  },
+  {
+    "pregunta": "¿Qué tipo de metabolismo puede presentar Pseudomonas aeruginosa?",
+    "opciones": ["Aerobio estricto", "Anaerobio estricto", "Aerobio o anaerobio facultativo", "Microaerófilo"],
+    "respuesta": "Aerobio o anaerobio facultativo"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes pigmentos es producido por Pseudomonas aeruginosa?",
+    "opciones": ["Hemolisina", "Piocianina", "Prodigiosina", "Melanina"],
+    "respuesta": "Piocianina"
+  },
+  {
+    "pregunta": "¿Qué estructura le confiere resistencia a la fagocitosis a Pseudomonas aeruginosa?",
+    "opciones": ["Flagelos", "Pili", "Cápsula de alginato", "Lipopolisacáridos"],
+    "respuesta": "Cápsula de alginato"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los principales factores de virulencia regulados por quorum sensing?",
+    "opciones": ["Formación de esporas", "Expresión de toxinas y enzimas", "Resistencia a antibióticos", "Tolerancia al frío"],
+    "respuesta": "Expresión de toxinas y enzimas"
+  },
+  {
+    "pregunta": "¿Qué función tienen los flagelos y pili en Pseudomonas aeruginosa?",
+    "opciones": ["Producción de toxinas", "Adherencia y colonización", "Formación de cápsula", "Resistencia a antibióticos"],
+    "respuesta": "Adherencia y colonización"
+  },
+  {
+    "pregunta": "¿Qué toxina inhibe la elongación de la cadena peptídica y altera la síntesis de proteínas?",
+    "opciones": ["Exoenzima S", "Exoenzima T", "Exotoxina A (ETA)", "Fosfolipasa C"],
+    "respuesta": "Exotoxina A (ETA)"
+  },
+  {
+    "pregunta": "¿Qué toxina facilita la diseminación bacteriana al dañar células epiteliales?",
+    "opciones": ["Exotoxina A", "Exoenzima S", "Elastasa LasA", "Proteasa alcalina"],
+    "respuesta": "Exoenzima S"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes componentes contribuye a la necrosis tisular?",
+    "opciones": ["Exoenzima T", "Piocianina", "LPS", "Pioverdina"],
+    "respuesta": "Exoenzima T"
+  },
+  {
+    "pregunta": "¿Qué enzimas degradan elastina causando daño pulmonar?",
+    "opciones": ["LasA y LasB", "Fosfolipasa C", "Proteasa alcalina", "Exoenzima S"],
+    "respuesta": "LasA y LasB"
+  },
+  {
+    "pregunta": "¿Qué enzima actúa como hemolisina y degrada lípidos y lecitina?",
+    "opciones": ["Elastasa LasA", "Exoenzima T", "Fosfolipasa C", "Proteasa alcalina"],
+    "respuesta": "Fosfolipasa C"
+  },
+  {
+    "pregunta": "¿Dónde suele encontrarse Pseudomonas aeruginosa en el entorno hospitalario?",
+    "opciones": ["Solo en salas de cirugía", "En alimentos, flores, lavabos y equipos médicos", "Únicamente en agua potable", "Solo en superficies secas"],
+    "respuesta": "En alimentos, flores, lavabos y equipos médicos"
+  },
+  {
+    "pregunta": "¿Qué temperatura puede tolerar Pseudomonas aeruginosa?",
+    "opciones": ["20-30°C", "0-10°C", "4-42°C", "50-60°C"],
+    "respuesta": "4-42°C"
+  },
+  {
+    "pregunta": "¿A qué es resistente Pseudomonas aeruginosa?",
+    "opciones": ["A la humedad", "A múltiples antibióticos y desinfectantes", "A las radiaciones UV", "A temperaturas mayores a 60°C"],
+    "respuesta": "A múltiples antibióticos y desinfectantes"
+  },
+  {
+    "pregunta": "¿Qué población es especialmente susceptible por colonización crónica de vías respiratorias?",
+    "opciones": ["Pacientes con diabetes", "Personas mayores", "Pacientes con fibrosis quística", "Recién nacidos sanos"],
+    "respuesta": "Pacientes con fibrosis quística"
+  },
+  {
+    "pregunta": "¿Qué población tiene mayor riesgo por pérdida de barrera cutánea?",
+    "opciones": ["Pacientes quemados", "Pacientes asmáticos", "Personas con alergias", "Pacientes con migraña"],
+    "respuesta": "Pacientes quemados"
+  },
+  {
+    "pregunta": "¿Qué factor aumenta la susceptibilidad al alterar la flora normal?",
+    "opciones": ["Ejercicio intenso", "Tratamiento antibiótico prolongado", "Consumo de alcohol", "Inmunización"],
+    "respuesta": "Tratamiento antibiótico prolongado"
+  },
+  {
+    "pregunta": "¿Cómo se clasifica Pseudomonas aeruginosa en términos de patogenicidad?",
+    "opciones": ["Patógeno primario altamente contagioso", "Patógeno oportunista", "Comensal inofensivo", "Virus intracelular"],
+    "respuesta": "Patógeno oportunista"
+  },
+  {
+    "pregunta": "¿Qué caracteriza a la traqueobronquitis por Pseudomonas aeruginosa?",
+    "opciones": ["Infección grave con necrosis pulmonar", "Infección de vías respiratorias superiores con irritación bronquial leve", "Infección sistémica con sepsis", "Inflamación del hueso y cartílago"],
+    "respuesta": "Infección de vías respiratorias superiores con irritación bronquial leve"
+  },
+  {
+    "pregunta": "¿Qué manifestación clínica implica destrucción del tejido pulmonar y alta mortalidad?",
+    "opciones": ["Traqueobronquitis", "Bronconeumonía necrosante", "Foliculitis", "Otitis externa"],
+    "respuesta": "Bronconeumonía necrosante"
+  },
+  {
+    "pregunta": "En pacientes con fibrosis quística, P. aeruginosa causa principalmente:",
+    "opciones": ["Infección aguda autolimitada", "Colonización crónica", "Osteocondritis", "Otitis externa maligna"],
+    "respuesta": "Colonización crónica"
+  },
+  {
+    "pregunta": "¿Qué infección se asocia a quemaduras?",
+    "opciones": ["Foliculitis", "Colonización de tejidos quemados que puede progresar a sepsis", "Endoftalmitis", "Meningitis"],
+    "respuesta": "Colonización de tejidos quemados que puede progresar a sepsis"
+  },
+  {
+    "pregunta": "¿Qué infección se relaciona con piscinas y jacuzzis contaminados?",
+    "opciones": ["Otitis externa", "Foliculitis", "Meningitis", "Bronconeumonía"],
+    "respuesta": "Foliculitis"
+  },
+  {
+    "pregunta": "¿Qué manifestación puede implicar alta mortalidad en inmunodeprimidos?",
+    "opciones": ["Osteocondritis", "Bacteriemia y endocarditis", "Otitis media crónica", "Infección urinaria"],
+    "respuesta": "Bacteriemia y endocarditis"
+  },
+  {
+    "pregunta": "¿Qué condición afecta el hueso y cartílago del pie tras una herida penetrante?",
+    "opciones": ["Bronconeumonía", "Foliculitis", "Osteocondritis", "Traqueobronquitis"],
+    "respuesta": "Osteocondritis"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes infecciones es más frecuente en diabéticos?",
+    "opciones": ["Otitis externa maligna", "Endoftalmitis", "Meningitis", "Osteocondritis"],
+    "respuesta": "Otitis externa maligna"
+  },
+  {
+    "pregunta": "¿Qué infección ocular puede relacionarse con el uso de lentes de contacto?",
+    "opciones": ["Otitis media crónica", "Queratitis y úlceras corneales", "Meningitis", "Foliculitis"],
+    "respuesta": "Queratitis y úlceras corneales"
+  },
+  {
+    "pregunta": "¿En qué pacientes son frecuentes las infecciones urinarias por P. aeruginosa?",
+    "opciones": ["Pacientes sin factores de riesgo", "Pacientes con sondaje vesical prolongado", "Niños sanos", "Deportistas"],
+    "respuesta": "Pacientes con sondaje vesical prolongado"
+  },
+  {
+    "pregunta": "¿La meningitis por P. aeruginosa suele asociarse a?",
+    "opciones": ["Baños termales", "Traumatismos o procedimientos neuroquirúrgicos", "Uso de antibióticos", "Fibrosis quística"],
+    "respuesta": "Traumatismos o procedimientos neuroquirúrgicos"
+  },
+  {
+    "pregunta": "¿Qué característica microscópica ayuda al diagnóstico de P. aeruginosa?",
+    "opciones": ["Cocos grampositivos en racimos", "Bacilos gramnegativos delgados dispuestos sueltos o en parejas", "Células levaduriformes", "Bacilos grampositivos en cadenas"],
+    "respuesta": "Bacilos gramnegativos delgados dispuestos sueltos o en parejas"
+  },
+  {
+    "pregunta": "¿Qué aspecto presentan las colonias de P. aeruginosa en cultivo?",
+    "opciones": ["Colonias blancas sin pigmento", "Colonias planas con pigmentación verdeazulada", "Colonias mucosas amarillas", "Colonias negras con olor fuerte"],
+    "respuesta": "Colonias planas con pigmentación verdeazulada"
+  },
+  {
+    "pregunta": "¿Qué prueba bioquímica confirma la identificación de P. aeruginosa?",
+    "opciones": ["Catalasa negativa", "Oxidasa positiva", "Coagulasa positiva", "Ureasa positiva"],
+    "respuesta": "Oxidasa positiva"
+  },
+  {
+    "pregunta": "¿Qué olor característico puede presentar P. aeruginosa?",
+    "opciones": ["A vainilla", "A pescado", "A uvas", "A tierra mojada"],
+    "respuesta": "A uvas"
+  },
+  {
+    "pregunta": "¿Cuál es el primer paso fundamental en el tratamiento de P. aeruginosa?",
+    "opciones": ["Administrar antibióticos al azar", "Realizar cultivo y antibiograma", "Suspender toda terapia", "Uso de antivirales"],
+    "respuesta": "Realizar cultivo y antibiograma"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de la terapia combinada?",
+    "opciones": ["Reducir el costo del tratamiento", "Aumentar la toxicidad", "Reducir el desarrollo de resistencias", "Evitar el crecimiento de hongos"],
+    "respuesta": "Reducir el desarrollo de resistencias"
+  },
+  {
+    "pregunta": "¿Qué busca la optimización de dosis?",
+    "opciones": ["Maximizar eficacia y minimizar toxicidad", "Disminuir la absorción", "Evitar la acción del fármaco", "Aumentar los efectos adversos"],
+    "respuesta": "Maximizar eficacia y minimizar toxicidad"
+  },
+  {
+    "pregunta": "¿Qué medida preventiva evita la transmisión cruzada en hospitales?",
+    "opciones": ["Aumento de visitas familiares", "Lavado correcto de manos", "Uso indiscriminado de antibióticos", "No usar guantes"],
+    "respuesta": "Lavado correcto de manos"
+  },
+  {
+    "pregunta": "¿Qué estrategia ayuda a prevenir la aparición de cepas resistentes?",
+    "opciones": ["Uso racional de antibióticos", "No realizar cultivos", "Reducir la higiene hospitalaria", "Evitar el aislamiento de pacientes"],
+    "respuesta": "Uso racional de antibióticos"
+  }
+]

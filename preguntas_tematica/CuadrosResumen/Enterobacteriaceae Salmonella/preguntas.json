@@ -1,0 +1,147 @@
+[
+  {
+    "pregunta": "¿A qué parte del intestino se unen las salmonelas al llegar al estómago?",
+    "opciones": ["Intestino delgado", "Estómago", "Intestino grueso", "Duodeno"],
+    "respuesta": "Intestino delgado"
+  },
+  {
+    "pregunta": "¿Qué células invaden las salmonelas en las placas de Peyer?",
+    "opciones": ["Células M y enterocitos", "Células epiteliales", "Células musculares", "Células sanguíneas"],
+    "respuesta": "Células M y enterocitos"
+  },
+  {
+    "pregunta": "¿En qué tipo de vacuolas se replican las salmonelas?",
+    "opciones": ["Vacuolas endocíticas", "Vacuolas mitocondriales", "Vacuolas nucleares", "Vacuolas lisosómicas"],
+    "respuesta": "Vacuolas endocíticas"
+  },
+  {
+    "pregunta": "¿Cómo pueden diseminarse las salmonelas hacia otras partes del cuerpo?",
+    "opciones": ["Hacia la sangre o circulación linfática", "Por los nervios", "A través de las mucosas", "Por vía respiratoria"],
+    "respuesta": "Hacia la sangre o circulación linfática"
+  },
+  {
+    "pregunta": "¿Qué tipo de adaptación presenta *Salmonella Typhi*?",
+    "opciones": ["Adaptación al ser humano", "Adaptación a los roedores", "Adaptación a las aves", "Adaptación a los reptiles"],
+    "respuesta": "Adaptación al ser humano"
+  },
+  {
+    "pregunta": "¿Cuáles son las fuentes principales de infección por salmonella?",
+    "opciones": ["Aves de corral, huevos, productos lácteos y superficies contaminadas", "Carne de res, verduras, agua contaminada", "Frutas, agua y pescado", "Leche cruda, jugos y mariscos"],
+    "respuesta": "Aves de corral, huevos, productos lácteos y superficies contaminadas"
+  },
+  {
+    "pregunta": "¿Quiénes son más vulnerables a las infecciones por *Salmonella*?",
+    "opciones": ["Niños menores de 5 años y adultos mayores de 60 años", "Adolescentes y adultos jóvenes", "Hombres entre 30 y 40 años", "Mujeres embarazadas"],
+    "respuesta": "Niños menores de 5 años y adultos mayores de 60 años"
+  },
+  {
+    "pregunta": "¿En qué temporada del año suele haber mayor incidencia de *Salmonella*?",
+    "opciones": ["Durante los meses de verano", "Durante el invierno", "Durante la primavera", "Durante el otoño"],
+    "respuesta": "Durante los meses de verano"
+  },
+  {
+    "pregunta": "¿Cuál es la principal causa de las infecciones por *Salmonella* en manipuladores de alimentos?",
+    "opciones": ["Contaminación de productos alimentarios por un manipulador infectado", "Comer alimentos crudos", "El consumo de agua no potable", "El contacto con animales infectados"],
+    "respuesta": "Contaminación de productos alimentarios por un manipulador infectado"
+  },
+  {
+    "pregunta": "¿Cómo suele transmitirse *Salmonella* en los niños?",
+    "opciones": ["Por vía fecal-oral", "Por vía aérea", "Por contacto con animales", "Por contacto con superficies contaminadas"],
+    "respuesta": "Por vía fecal-oral"
+  },
+  {
+    "pregunta": "¿En qué tipo de países es mayor el riesgo de infecciones por *Salmonella* en niños desfavorecidos?",
+    "opciones": ["En países en desarrollo", "En países industrializados", "En países tropicales", "En países europeos"],
+    "respuesta": "En países en desarrollo"
+  },
+  {
+    "pregunta": "¿Qué estado puede establecer *Salmonella* en la vesícula biliar?",
+    "opciones": ["Estado de portador crónico", "Estado de resistencia", "Estado infeccioso agudo", "Estado inactivo"],
+    "respuesta": "Estado de portador crónico"
+  },
+  {
+    "pregunta": "¿Qué síntoma se presenta durante la exposición a *Salmonella*?",
+    "opciones": ["Ingestión de agua o alimentos contaminados", "Fiebre", "Mialgias", "Vómitos"],
+    "respuesta": "Ingestión de agua o alimentos contaminados"
+  },
+  {
+    "pregunta": "¿Cuál es el periodo de incubación de la gastroenteritis por *Salmonella*?",
+    "opciones": ["6-48 horas", "2-4 horas", "48-72 horas", "1-2 semanas"],
+    "respuesta": "6-48 horas"
+  },
+  {
+    "pregunta": "¿Cuáles son los síntomas iniciales más comunes de la gastroenteritis por *Salmonella*?",
+    "opciones": ["Náuseas, vómitos y diarrea no sanguinolenta", "Dolor abdominal y fiebre", "Cefalea y mialgias", "Diarrea sanguinolenta y fiebre alta"],
+    "respuesta": "Náuseas, vómitos y diarrea no sanguinolenta"
+  },
+  {
+    "pregunta": "¿Qué síntomas adicionales pueden aparecer durante la gastroenteritis por *Salmonella*?",
+    "opciones": ["Fiebre, espasmos abdominales, mialgias y cefalea", "Sangrado intestinal y pérdida de apetito", "Tos, fiebre y dificultad para respirar", "Náuseas, vómitos y diarrea sanguinolenta"],
+    "respuesta": "Fiebre, espasmos abdominales, mialgias y cefalea"
+  },
+  {
+    "pregunta": "¿Cuánto tiempo suelen persistir los síntomas de la gastroenteritis por *Salmonella* antes de resolverse espontáneamente?",
+    "opciones": ["2-7 días", "1-2 semanas", "Más de 3 semanas", "Menos de 48 horas"],
+    "respuesta": "2-7 días"
+  },
+  {
+    "pregunta": "¿Qué condición puede desarrollarse como resultado de *Salmonella Typhi*?",
+    "opciones": ["Bacteriemia", "Neumonía", "Meningitis", "Enfermedad pulmonar"],
+    "respuesta": "Bacteriemia"
+  },
+  {
+    "pregunta": "¿Cuáles son los grupos de riesgo más elevados para desarrollar septicemia por *Salmonella*?",
+    "opciones": ["Pediátricos, geriátricos e inmunodeprimidos", "Niños mayores de 5 años y adultos jóvenes", "Mujeres embarazadas y ancianos", "Adultos saludables y atletas"],
+    "respuesta": "Pediátricos, geriátricos e inmunodeprimidos"
+  },
+  {
+    "pregunta": "¿Cómo se presentan las bacteriemias por *Salmonella Typhi*?",
+    "opciones": ["Idénticas a otras bacteriemias por gramnegativos", "Con dolor de cabeza severo y fiebre alta", "Con diarrea y vómitos constantes", "Con síntomas respiratorios predominantes"],
+    "respuesta": "Idénticas a otras bacteriemias por gramnegativos"
+  },
+  {
+    "pregunta": "¿Qué complicaciones pueden surgir en pacientes con septicemia por *Salmonella*?",
+    "opciones": ["Infecciones supurativas localizadas", "Hemorragias cerebrales", "Insuficiencia renal", "Fiebre prolongada sin otros síntomas"],
+    "respuesta": "Infecciones supurativas localizadas"
+  },
+  {
+    "pregunta": "¿Cuánto tiempo después de la ingestión de *Salmonella* aparece la fiebre en la fiebre entérica (tifoidea)?",
+    "opciones": ["10-14 días", "3-5 días", "1-3 días", "2 semanas"],
+    "respuesta": "10-14 días"
+  },
+  {
+    "pregunta": "¿Qué síntomas aparecen durante la fase bacteriémica inicial de la fiebre entérica?",
+    "opciones": ["Fiebre progresiva, cefalea, mialgias, malestar general y anorexia", "Diarrea sanguinolenta y fiebre alta", "Dolor abdominal y vómitos", "Fiebre y sangrado intestinal"],
+    "respuesta": "Fiebre progresiva, cefalea, mialgias, malestar general y anorexia"
+  },
+  {
+    "pregunta": "¿Qué ocurre después de una semana o más en la fiebre entérica?",
+    "opciones": ["Aparecen síntomas gastrointestinales", "Desaparecen los síntomas", "Se desarrolla septicemia", "Aparecen síntomas respiratorios"],
+    "respuesta": "Aparecen síntomas gastrointestinales"
+  },
+  {
+    "pregunta": "¿Qué completa el ciclo de la fiebre entérica?",
+    "opciones": ["Reinfección intestinal", "Bacteriemia", "Diseminación linfática", "Desarrollo de septicemia"],
+    "respuesta": "Reinfección intestinal"
+  },
+  {
+    "pregunta": "¿Cómo se clasifica la fiebre entérica en términos de gravedad?",
+    "opciones": ["Es una enfermedad grave", "Es una enfermedad leve", "Es una infección autolimitada", "Es una enfermedad sin complicaciones"],
+    "respuesta": "Es una enfermedad grave"
+  },
+  {
+    "pregunta": "¿En qué tipo de pacientes se debe sospechar de fiebre entérica si han viajado recientemente?",
+    "opciones": ["Pacientes febriles con viajes recientes a países en desarrollo", "Pacientes con infección respiratoria", "Pacientes con diarrea crónica", "Pacientes sin antecedentes de viaje"],
+    "respuesta": "Pacientes febriles con viajes recientes a países en desarrollo"
+  },
+  {
+    "pregunta": "¿Dónde es endémica la fiebre entérica (tifoidea)?",
+    "opciones": ["En muchos países en vías de desarrollo", "En países con clima frío", "En países con alta higiene", "En países con sistemas de salud avanzados"],
+    "respuesta": "En muchos países en vías de desarrollo"
+  },
+  {
+    "pregunta": "¿Qué debe considerarse en el diagnóstico diferencial de cuadros febriles de origen desconocido?",
+    "opciones": ["Fiebre entérica (tifoidea)", "Malaria", "Tuberculosis", "Neumonía viral"],
+    "respuesta": "Fiebre entérica (tifoidea)"
+  }
+]

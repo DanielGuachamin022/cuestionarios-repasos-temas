@@ -1,0 +1,222 @@
+[
+    {
+        "pregunta": "¿Qué tipo de bacilos son característicos de *Haemophilus influenzae*?",
+        "opciones": ["Cocobacilos grampositivos", "Bacilos gramnegativos pequeños y pleomórficos", "Cocos gramnegativos", "Bacilos grampositivos grandes"],
+        "respuesta": "Bacilos gramnegativos pequeños y pleomórficos"
+    },
+    {
+        "pregunta": "¿Cuál es la principal característica de la morfología de *Haemophilus influenzae*?",
+        "opciones": ["Forman esporas", "Varían desde cocobacilos hasta filamentos largos y delgados", "Son esféricos y grandes", "Son exclusivamente cocobacilos"],
+        "respuesta": "Varían desde cocobacilos hasta filamentos largos y delgados"
+    },
+    {
+        "pregunta": "¿Qué factor de virulencia de *Haemophilus influenzae* es antifagocítico?",
+        "opciones": ["Pili", "Cápsula", "Proteasas IgA1", "Adhesinas"],
+        "respuesta": "Cápsula"
+    },
+    {
+        "pregunta": "¿Cuál es la función principal de los pili y adhesinas de *Haemophilus influenzae*?",
+        "opciones": ["Facilitan la translocación a través de células epiteliales", "Facilitan la colonización de la bucofaringe", "Inducen inflamación meníngea", "Provocan daño en el sistema respiratorio"],
+        "respuesta": "Facilitan la colonización de la bucofaringe"
+    },
+    {
+        "pregunta": "¿Cómo se transmite *Haemophilus influenzae*?",
+        "opciones": ["Por contacto directo con la piel", "Por gotitas respiratorias entre personas", "Por contacto con superficies contaminadas", "Por contacto con alimentos infectados"],
+        "respuesta": "Por gotitas respiratorias entre personas"
+    },
+    {
+        "pregunta": "¿Qué provoca el daño respiratorio asociado a *Haemophilus influenzae*?",
+        "opciones": ["Infección directa en los pulmones", "Componentes de la pared celular alteran la función ciliar", "Destrucción del tejido pulmonar", "Liberación de toxinas que afectan el tejido respiratorio"],
+        "respuesta": "Componentes de la pared celular alteran la función ciliar"
+    },
+    {
+        "pregunta": "¿Qué induce la inflamación meníngea en la infección por *Haemophilus influenzae*?",
+        "opciones": ["La cápsula bacteriana", "El lipopolisacárido", "Las proteasas IgA1", "Los pili"],
+        "respuesta": "El lipopolisacárido"
+    },
+    {
+        "pregunta": "¿Cuál es el único hospedero natural de *Haemophilus influenzae*?",
+        "opciones": ["Animales salvajes", "Seres humanos", "Aves migratorias", "Perros domésticos"],
+        "respuesta": "Seres humanos"
+    },
+    {
+        "pregunta": "¿Cuándo comienza la colonización de *Haemophilus influenzae* en los seres humanos?",
+        "opciones": ["Al nacer", "Después de los 2 años", "Durante la adolescencia", "En la vida adulta"],
+        "respuesta": "Al nacer"
+    },
+    {
+        "pregunta": "¿Qué población es más vulnerable a la infección por *Haemophilus influenzae*?",
+        "opciones": ["Adultos mayores con inmunidad disminuida", "Niños no vacunados y ancianos con inmunidad disminuida", "Mujeres embarazadas", "Personas inmunocompetentes"],
+        "respuesta": "Niños no vacunados y ancianos con inmunidad disminuida"
+    },
+    {
+        "pregunta": "¿Cuántos casos anuales de enfermedad invasiva por *Haemophilus influenzae* había en niños menores de 5 años antes de la introducción de las vacunas?",
+        "opciones": ["10.000 casos", "50.000 casos", "20.000 casos", "100.000 casos"],
+        "respuesta": "20.000 casos"
+    },
+    {
+        "pregunta": "¿Qué efecto tuvo la introducción de las vacunas conjugadas contra *Haemophilus influenzae* tipo b?",
+        "opciones": ["No hubo cambios en la epidemiología", "Disminuyó la incidencia de la enfermedad", "Aumentó la mortalidad infantil", "Propició la aparición de nuevas cepas"],
+        "respuesta": "Disminuyó la incidencia de la enfermedad"
+    },
+    {
+        "pregunta": "¿Cuál es la situación actual de la enfermedad invasiva por *Haemophilus influenzae* en países con programas de vacunación?",
+        "opciones": ["Aumento significativo de casos", "Reducción significativa de casos", "No ha cambiado", "Incremento de casos en adultos"],
+        "respuesta": "Reducción significativa de casos"
+    },
+    {
+        "pregunta": "¿Cuántos casos graves de *Haemophilus influenzae* se reportan anualmente a nivel mundial?",
+        "opciones": ["1 millón de casos", "3 millones de casos", "500.000 casos", "10 millones de casos"],
+        "respuesta": "3 millones de casos"
+    },
+    {
+        "pregunta": "¿Cuántas muertes infantiles ocurren anualmente debido a *Haemophilus influenzae* a nivel mundial?",
+        "opciones": ["100.000 muertes", "500.000 muertes", "700.000 muertes", "1 millón de muertes"],
+        "respuesta": "700.000 muertes"
+    },
+    {
+        "pregunta": "¿Qué porcentaje de los casos de *Haemophilus influenzae* podría evitarse con una vacunación adecuada?",
+        "opciones": ["50%", "75%", "90%", "100%"],
+        "respuesta": "100%"
+    },
+    {
+        "pregunta": "¿Qué tipo de bacteria es *Haemophilus influenzae* en términos de formación de esporas?",
+        "opciones": ["Forma esporas", "No forma esporas", "Forma esporas solo en condiciones extremas", "Forma esporas en cultivos especiales"],
+        "respuesta": "No forma esporas"
+    },
+    {
+        "pregunta": "¿Cuál es la principal función de las proteasas IgA1 en la virulencia de *Haemophilus influenzae*?",
+        "opciones": ["Inducir inflamación", "Facilitar la colonización de superficies mucosas", "Destruir las células epiteliales", "Prevenir la fagocitosis"],
+        "respuesta": "Facilitar la colonización de superficies mucosas"
+    },
+    {
+        "pregunta": "¿Qué tipo de células atraviesa *Haemophilus influenzae* durante la invasión?",
+        "opciones": ["Células musculares", "Células epiteliales y endoteliales", "Células sanguíneas", "Células nerviosas"],
+        "respuesta": "Células epiteliales y endoteliales"
+    },
+    {
+        "pregunta": "¿En qué parte del cuerpo comienza la colonización de *Haemophilus influenzae* en el recién nacido?",
+        "opciones": ["En los pulmones", "En las mucosas respiratorias", "En la piel", "En el sistema digestivo"],
+        "respuesta": "En las mucosas respiratorias"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes es un factor de virulencia importante en *Haemophilus influenzae*?",
+        "opciones": ["Proteínas de choque térmico", "Pili y adhesinas", "Cápsulas que inhiben la respuesta inmune", "Enzimas de destrucción celular"],
+        "respuesta": "Pili y adhesinas"
+    },
+    {
+        "pregunta": "¿Qué tipo de infección es la otitis media?",
+        "opciones": ["Infección del oído interno", "Infección del oído medio", "Infección del oído externo", "Infección de los senos paranasales"],
+        "respuesta": "Infección del oído medio"
+    },
+    {
+        "pregunta": "¿Qué caracteriza a la sinusitis?",
+        "opciones": ["Inflamación del oído medio", "Inflamación de los senos paranasales", "Inflamación de la faringe", "Inflamación del parénquima pulmonar"],
+        "respuesta": "Inflamación de los senos paranasales"
+    },
+    {
+        "pregunta": "¿Qué tipo de infección es la neumonía?",
+        "opciones": ["Infección de las vías respiratorias altas", "Infección del parénquima pulmonar", "Infección del sistema nervioso central", "Infección de la piel"],
+        "respuesta": "Infección del parénquima pulmonar"
+    },
+    {
+        "pregunta": "¿Qué es la epiglotitis?",
+        "opciones": ["Inflamación de la faringe", "Inflamación de los tejidos supraglóticos", "Inflamación de los senos paranasales", "Inflamación de las meninges"],
+        "respuesta": "Inflamación de los tejidos supraglóticos"
+    },
+    {
+        "pregunta": "¿Qué manifestaciones clínicas presenta la epiglotitis?",
+        "opciones": ["Faringitis, fiebre y dificultad respiratoria", "Dolor en las articulaciones y fiebre", "Placas azul-rojizas en las mejillas", "Meningitis y fiebre"],
+        "respuesta": "Faringitis, fiebre y dificultad respiratoria"
+    },
+    {
+        "pregunta": "¿Qué es la celulitis?",
+        "opciones": ["Inflamación de la faringe", "Fiebre y aparición de placas azul-rojizas en las mejillas o zonas periorbitarias", "Infección de las articulaciones", "Infección del parénquima pulmonar"],
+        "respuesta": "Fiebre y aparición de placas azul-rojizas en las mejillas o zonas periorbitarias"
+    },
+    {
+        "pregunta": "¿Qué caracteriza a la artritis por *Haemophilus influenzae*?",
+        "opciones": ["Infección de múltiples articulaciones", "Infección de una sola gran articulación", "Fiebre y dificultad respiratoria", "Infección del oído medio"],
+        "respuesta": "Infección de una sola gran articulación"
+    },
+    {
+        "pregunta": "¿Qué causa la meningitis por *Haemophilus influenzae*?",
+        "opciones": ["Infección respiratoria grave", "Cuadro respiratorio leve seguido de inflamación de las meninges", "Infección en las articulaciones", "Infección de los senos paranasales"],
+        "respuesta": "Cuadro respiratorio leve seguido de inflamación de las meninges"
+    },
+    {
+        "pregunta": "¿Qué debe evitarse al recoger muestras de vías respiratorias para diagnóstico de *Haemophilus influenzae*?",
+        "opciones": ["Contaminación con secreciones orales", "Contaminación con sangre", "Contaminación con esputo", "Contaminación con secreciones nasales"],
+        "respuesta": "Contaminación con secreciones orales"
+    },
+    {
+        "pregunta": "¿Cómo se obtiene la muestra para el diagnóstico microbiológico de otitis y sinusitis?",
+        "opciones": ["A través de un hisopado de la garganta", "Realizando una punción-aspiración directa con aguja", "Recogiendo esputo", "Extraer líquido cefalorraquídeo"],
+        "respuesta": "Realizando una punción-aspiración directa con aguja"
+    },
+    {
+        "pregunta": "¿Qué muestra se debe obtener para el diagnóstico de meningitis por *Haemophilus influenzae*?",
+        "opciones": ["Muestra de sangre y líquido cefalorraquídeo", "Muestra de esputo", "Muestra de secreciones nasales", "Muestra de orina"],
+        "respuesta": "Muestra de sangre y líquido cefalorraquídeo"
+    },
+    {
+        "pregunta": "¿Por qué no se deben obtener muestras faríngeas en casos de epiglotitis?",
+        "opciones": ["Porque el paciente puede vomitar", "Porque puede haber una obstrucción respiratoria", "Porque la muestra es innecesaria", "Porque puede contaminarse con bacterias"],
+        "respuesta": "Porque puede haber una obstrucción respiratoria"
+    },
+    {
+        "pregunta": "¿Qué tipo de bacilos son los *Haemophilus influenzae* en la tinción de Gram?",
+        "opciones": ["Cocobacilos grampositivos", "Bacilos gramnegativos con morfología variable", "Cocos gramnegativos", "Bacilos grandes y esporulados"],
+        "respuesta": "Bacilos gramnegativos con morfología variable"
+    },
+    {
+        "pregunta": "¿Cuál es el medio de cultivo ideal para *Haemophilus influenzae*?",
+        "opciones": ["Agar MacConkey", "Agar Chocolate", "Agar Sabouraud", "Agar sangre"],
+        "respuesta": "Agar Chocolate"
+    },
+    {
+        "pregunta": "¿Qué factores de crecimiento contiene el agar chocolate que favorecen el desarrollo de *Haemophilus influenzae*?",
+        "opciones": ["Factor X y V", "Factor A y B", "Factor X y Z", "Factor C y D"],
+        "respuesta": "Factor X y V"
+    },
+    {
+        "pregunta": "¿Qué método rápido se utiliza para detectar *Haemophilus influenzae* tipo b?",
+        "opciones": ["Tinción de Gram", "Cultivo en agar chocolate", "Detección de antígenos", "Prueba de PCR"],
+        "respuesta": "Detección de antígenos"
+    },
+    {
+        "pregunta": "¿Qué antígeno se reconoce en la detección de antígenos de *Haemophilus influenzae* tipo b?",
+        "opciones": ["Antígeno capsular PRP", "Antígeno lipopolisacárido", "Antígeno proteico", "Antígeno de membrana externa"],
+        "respuesta": "Antígeno capsular PRP"
+    },
+    {
+        "pregunta": "¿Qué antibióticos se utilizan para tratar infecciones sistémicas graves por *Haemophilus influenzae*?",
+        "opciones": ["Amoxicilina y cefalosporinas", "Ceftriaxona o cefotaxima", "Azitromicina y doxiciclina", "Fluoroquinolonas y rifampicina"],
+        "respuesta": "Ceftriaxona o cefotaxima"
+    },
+    {
+        "pregunta": "¿Cuál es el tratamiento esencial para la meningitis y epiglotitis por *Haemophilus influenzae*?",
+        "opciones": ["Tratamiento con antibióticos de amplio espectro", "Tratamiento precoz con cefalosporinas", "Tratamiento con analgésicos", "Tratamiento con antivirales"],
+        "respuesta": "Tratamiento precoz con cefalosporinas"
+    },
+    {
+        "pregunta": "¿Cuál es el principal método preventivo contra *Haemophilus influenzae*?",
+        "opciones": ["Uso de antibióticos", "Inmunización activa con antígeno PRP", "Profilaxis con rifampicina", "Uso de medidas de aislamiento"],
+        "respuesta": "Inmunización activa con antígeno PRP"
+    },
+    {
+        "pregunta": "¿Cuál es la población más susceptible para la vacunación contra *Haemophilus influenzae* tipo b?",
+        "opciones": ["Niños menores de 5 años", "Adolescentes de 10-15 años", "Personas mayores de 60 años", "Adultos con enfermedades crónicas"],
+        "respuesta": "Niños menores de 5 años"
+    },
+    {
+        "pregunta": "¿Qué efecto ha tenido la vacunación en la incidencia de *Haemophilus influenzae* tipo b?",
+        "opciones": ["Ha aumentado la incidencia", "No ha cambiado la incidencia", "Ha reducido drásticamente la incidencia", "Ha hecho que la bacteria se vuelva más resistente"],
+        "respuesta": "Ha reducido drásticamente la incidencia"
+    },
+    {
+        "pregunta": "¿Qué medida se toma para prevenir la propagación de *Haemophilus influenzae* en contactos cercanos?",
+        "opciones": ["Profilaxis con rifampicina", "Aislamiento de los pacientes", "Uso de antibióticos orales", "Vacunación inmediata"],
+        "respuesta": "Profilaxis con rifampicina"
+    }
+]

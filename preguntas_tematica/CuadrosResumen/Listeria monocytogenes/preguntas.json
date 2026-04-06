@@ -1,0 +1,207 @@
+[
+  {
+    "pregunta": "¿Qué tipo de bacilos son los responsables de la Listeriosis?",
+    "opciones": ["Bacilos Grampositivos", "Bacilos Gramnegativos", "Cocos Grampositivos", "Cocos Gramnegativos"],
+    "respuesta": "Bacilos Grampositivos"
+  },
+  {
+    "pregunta": "¿Cómo se presentan los bacilos de Listeria en su morfología?",
+    "opciones": ["Cadenas largas", "Diplobacilos o cadenas cortas", "Cápsulas esféricas", "Células filamentosas"],
+    "respuesta": "Diplobacilos o cadenas cortas"
+  },
+  {
+    "pregunta": "¿Las bacterias de Listeria forman esporas?",
+    "opciones": ["Sí", "No", "A veces", "Solo en condiciones extremas"],
+    "respuesta": "No"
+  },
+  {
+    "pregunta": "¿Las bacterias de Listeria son positivas para la catalasa?",
+    "opciones": ["Sí", "No", "Solo en condiciones anaeróbicas", "Solo en condiciones de estrés"],
+    "respuesta": "Sí"
+  },
+  {
+    "pregunta": "¿Cuál es la principal vía de transmisión de Listeria entre humanos?",
+    "opciones": ["A través del aire", "De madre a feto", "Por contacto directo", "Por picaduras de insectos"],
+    "respuesta": "De madre a feto"
+  },
+  {
+    "pregunta": "¿En qué porcentaje de los casos en embarazadas la infección por Listeria resulta en muerte fetal?",
+    "opciones": ["5-10%", "15-20%", "25%", "50%"],
+    "respuesta": "25%"
+  },
+  {
+    "pregunta": "¿Qué tipo de medio de cultivo se utiliza para el crecimiento de Listeria?",
+    "opciones": ["Anaerobio con beta hemólisis débil", "Aerobio con hemólisis total", "Anaerobio sin hemólisis", "Aerobio con hemólisis parcial"],
+    "respuesta": "Anaerobio con beta hemólisis débil"
+  },
+  {
+    "pregunta": "¿Qué mecanismos utiliza Listeria para sobrevivir en el tracto digestivo?",
+    "opciones": ["Producción de esporas", "Resistencia al ácido gástrico y sales biliares", "Inmunización con anticuerpos", "Uso de antibióticos"],
+    "respuesta": "Resistencia al ácido gástrico y sales biliares"
+  },
+  {
+    "pregunta": "¿Cómo se adhiere Listeria a las células huésped?",
+    "opciones": ["Mediante fimbrias", "Mediante proteínas de superficie bacteriana", "A través de cápsulas", "Por endocitosis"],
+    "respuesta": "Mediante proteínas de superficie bacteriana"
+  },
+  {
+    "pregunta": "¿Qué enzima activa Listeria para penetrar las células huésped?",
+    "opciones": ["Listeriolisina O", "Lipasa", "Colagenasa", "Amilasa"],
+    "respuesta": "Listeriolisina O"
+  },
+  {
+    "pregunta": "¿Cómo se propaga Listeria en el cuerpo humano?",
+    "opciones": ["A través del sistema linfático", "Por el torrente sanguíneo", "De célula a célula", "A través de los nervios"],
+    "respuesta": "De célula a célula"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de productos lácteos procesados pueden estar contaminados con Listeria?",
+    "opciones": ["0-1%", "2-3%", "10-15%", "30%"],
+    "respuesta": "2-3%"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de carnes molidas están contaminadas con Listeria?",
+    "opciones": ["5-10%", "10-15%", "20-30%", "40-50%"],
+    "respuesta": "20-30%"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de personas sanas son portadores intestinales asintomáticos de Listeria?",
+    "opciones": ["1-5%", "5-10%", "1-15%", "20-25%"],
+    "respuesta": "1-15%"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de aves de corral al por menor están contaminadas con Listeria?",
+    "opciones": ["30-40%", "50-60%", "La mayoría de las muestras", "20%"],
+    "respuesta": "La mayoría de las muestras"
+  },
+  {
+    "pregunta": "¿Qué grupo de personas tiene mayor riesgo de infecciones por Listeria?",
+    "opciones": ["Personas jóvenes", "Mujeres embarazadas y neonatos", "Personas con alergias", "Niños mayores"],
+    "respuesta": "Mujeres embarazadas y neonatos"
+  },
+  {
+    "pregunta": "¿Qué grupo tiene el sistema inmune debilitado y es más susceptible a Listeria?",
+    "opciones": ["Personas mayores", "Personas con diabetes", "Adultos mayores", "Niños pequeños"],
+    "respuesta": "Adultos mayores"
+  },
+  {
+    "pregunta": "¿Qué tipo de pacientes son inmunocomprometidos y tienen mayor riesgo de infección por Listeria?",
+    "opciones": ["Pacientes con diabetes", "Pacientes con cáncer o trasplantes de órganos", "Personas con gripe", "Personas que usan medicamentos antivirales"],
+    "respuesta": "Pacientes con cáncer o trasplantes de órganos"
+  },
+  {
+    "pregunta": "¿Qué condición favorece la proliferación de Listeria en los alimentos?",
+    "opciones": ["Temperaturas altas", "Temperaturas bajas", "Condiciones de alta humedad", "Condiciones anaeróbicas"],
+    "respuesta": "Temperaturas bajas"
+  },
+  {
+    "pregunta": "¿Cuál es el principal mecanismo de defensa de Listeria frente al ácido gástrico?",
+    "opciones": ["Producción de ácidos", "Uso de proteínas de choque térmico", "Resistencia genética a ambientes ácidos", "Inactivación de los ácidos gástricos"],
+    "respuesta": "Resistencia genética a ambientes ácidos"
+  },
+  {
+    "pregunta": "¿Qué productos son más susceptibles a la contaminación por Listeria?",
+    "opciones": ["Verduras", "Frutas", "Lácteos y carnes", "Cereales"],
+    "respuesta": "Lácteos y carnes"
+  },
+  {
+    "pregunta": "¿Cuál es una de las manifestaciones clínicas más comunes en las infecciones neonatales por Listeria?",
+    "opciones": ["Granulomatosis infantiséptica", "Fiebre alta", "Cefalea", "Dolor abdominal"],
+    "respuesta": "Granulomatosis infantiséptica"
+  },
+  {
+    "pregunta": "¿Qué condición es característica de las infecciones neonatales graves por Listeria?",
+    "opciones": ["Meningitis neonatal", "Neumonía severa", "Infección urinaria", "Infección cutánea"],
+    "respuesta": "Meningitis neonatal"
+  },
+  {
+    "pregunta": "¿Qué cuadro clínico puede causar una infección leve por Listeria?",
+    "opciones": ["Gastroenteritis aguda", "Neumonía", "Infección renal", "Abscesos multiorgánicos"],
+    "respuesta": "Gastroenteritis aguda"
+  },
+  {
+    "pregunta": "¿Cuál es una manifestación grave de la infección por Listeria?",
+    "opciones": ["Meningitis", "Faringitis", "Dermatitis", "Asma"],
+    "respuesta": "Meningitis"
+  },
+  {
+    "pregunta": "¿Qué tipo de muestras se utilizan para diagnosticar una infección por *Listeria monocytogenes*?",
+    "opciones": ["Sangre y líquido cefalorraquídeo", "Orina y esputo", "Sangre y saliva", "Heces y orina"],
+    "respuesta": "Sangre y líquido cefalorraquídeo"
+  },
+  {
+    "pregunta": "¿Cómo se observa el crecimiento de *Listeria monocytogenes* en un cultivo de agar sangre?",
+    "opciones": ["Colonias con beta hemólisis débil", "Colonias con alfa hemólisis fuerte", "Colonias sin hemólisis", "Colonias con hemólisis completa"],
+    "respuesta": "Colonias con beta hemólisis débil"
+  },
+  {
+    "pregunta": "¿Qué prueba se usa para identificar *Listeria monocytogenes* en el laboratorio?",
+    "opciones": ["Prueba de motilidad en agar semisólido y prueba de catalasa positiva", "Prueba de gram y prueba de oxidasa", "Prueba de aglutinación con anticuerpos", "Prueba de fermentación de azúcares"],
+    "respuesta": "Prueba de motilidad en agar semisólido y prueba de catalasa positiva"
+  },
+  {
+    "pregunta": "¿Cuál es el tratamiento de primera línea para infecciones leves por Listeria?",
+    "opciones": ["Ampicilina y trimetoprima-sulfametoxazol", "Amoxicilina y eritromicina", "Gentamicina y ciprofloxacino", "Vancomicina y penicilina"],
+    "respuesta": "Ampicilina y trimetoprima-sulfametoxazol"
+  },
+  {
+    "pregunta": "¿Qué tratamiento se utiliza para infecciones graves por *Listeria monocytogenes*?",
+    "opciones": ["Combinación de gentamicina con penicilina o ampicilina", "Uso exclusivo de penicilina", "Terapia con antivirales", "Combinación de ceftriaxona y clindamicina"],
+    "respuesta": "Combinación de gentamicina con penicilina o ampicilina"
+  },
+  {
+    "pregunta": "¿Qué tipo de seguimiento se recomienda para pacientes con infección por *Listeria monocytogenes*?",
+    "opciones": ["Monitorización de la respuesta al tratamiento y ajuste según evolución clínica", "Repetición de las pruebas de diagnóstico cada semana", "Solo monitorización de la fiebre", "Seguimiento con radiografías"],
+    "respuesta": "Monitorización de la respuesta al tratamiento y ajuste según evolución clínica"
+  },
+  {
+    "pregunta": "¿Qué medida preventiva es importante para evitar la infección por Listeria en alimentos vegetales?",
+    "opciones": ["Lavar bien los vegetales crudos", "Cocinar los vegetales en horno microondas", "Congelar los vegetales antes de comerlos", "Exponerlos a la luz solar"],
+    "respuesta": "Lavar bien los vegetales crudos"
+  },
+  {
+    "pregunta": "¿Cuál es la medida más efectiva para prevenir la infección por Listeria en productos de origen animal?",
+    "opciones": ["Cocinar completamente los alimentos de origen animal", "Congelar los alimentos de origen animal", "Refrigerar los alimentos de origen animal sin cocinarlos", "Dejar reposar los alimentos a temperatura ambiente"],
+    "respuesta": "Cocinar completamente los alimentos de origen animal"
+  },
+  {
+    "pregunta": "¿Qué temperatura es recomendable para mantener los alimentos y evitar la infección por Listeria?",
+    "opciones": ["Mantenerlos a temperaturas adecuadas en refrigeración", "Dejarlos a temperatura ambiente", "Congelarlos a temperaturas muy bajas", "Cocinarlos y mantenerlos calientes todo el tiempo"],
+    "respuesta": "Mantenerlos a temperaturas adecuadas en refrigeración"
+  },
+  {
+    "pregunta": "¿Qué hábito de higiene es clave para prevenir la infección por Listeria?",
+    "opciones": ["Limpiar superficies y utensilios de cocina regularmente", "Solo lavar los platos después de usarlos", "No usar detergentes en la cocina", "Dejar los utensilios sin lavar por algunas horas"],
+    "respuesta": "Limpiar superficies y utensilios de cocina regularmente"
+  },
+  {
+    "pregunta": "¿Qué alimentos deben evitar las personas con alto riesgo de infección por Listeria?",
+    "opciones": ["Alimentos crudos o parcialmente cocinados de origen animal, quesos no curados y vegetales sin lavar", "Frutas frescas y cereales", "Productos lácteos pasteurizados", "Carnes cocidas y vegetales cocidos"],
+    "respuesta": "Alimentos crudos o parcialmente cocinados de origen animal, quesos no curados y vegetales sin lavar"
+  },
+  {
+    "pregunta": "¿En qué consiste la granulomatosis infantiséptica, una manifestación de la infección neonatal por Listeria?",
+    "opciones": ["Abscesos multiorgánicos", "Fiebre sin causa aparente", "Dificultad respiratoria", "Deshidratación severa"],
+    "respuesta": "Abscesos multiorgánicos"
+  },
+  {
+    "pregunta": "¿Qué síntomas se presentan en una infección leve por Listeria?",
+    "opciones": ["Cuadro seudogripal", "Cefalea intensa", "Erupción cutánea", "Dolor torácico"],
+    "respuesta": "Cuadro seudogripal"
+  },
+  {
+    "pregunta": "¿Qué grupo de pacientes es más vulnerable a infecciones graves por Listeria?",
+    "opciones": ["Mujeres embarazadas y neonatos", "Adultos jóvenes sanos", "Personas con gripe común", "Niños saludables"],
+    "respuesta": "Mujeres embarazadas y neonatos"
+  },
+  {
+    "pregunta": "¿Qué colonias produce *Listeria monocytogenes* en un cultivo en agar sangre?",
+    "opciones": ["Beta hemólisis débil", "Alfa hemólisis fuerte", "Gamma hemólisis", "Hemólisis completa"],
+    "respuesta": "Beta hemólisis débil"
+  },
+  {
+    "pregunta": "¿Qué bacterias pueden causar meningitis neonatal?",
+    "opciones": ["*Listeria monocytogenes*", "*Streptococcus pneumoniae*", "*E. coli*", "*Salmonella enterica*"],
+    "respuesta": "*Listeria monocytogenes*"
+  }
+]

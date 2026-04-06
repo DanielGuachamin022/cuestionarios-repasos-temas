@@ -1,0 +1,207 @@
+[
+    {
+        "pregunta": "¿Qué tipo de bacterias son los bacilos gramnegativos mencionados?",
+        "opciones": ["Móviles y productores de ureasa", "Inmóviles y no productores de ureasa", "Móviles pero no productores de ureasa", "Inmóviles y productores de ureasa"],
+        "respuesta": "Móviles y productores de ureasa"
+    },
+    {
+        "pregunta": "¿Qué características bioquímicas tienen estas bacterias?",
+        "opciones": ["Catalasa y oxidasapositivos", "Catalasa y oxidasa negativos", "Catalasa negativa y oxidasa positiva", "Catalasa y oxidasa negativos"],
+        "respuesta": "Catalasa y oxidasapositivos"
+    },
+    {
+        "pregunta": "¿Cómo se comportan estas bacterias respecto a los carbohidratos?",
+        "opciones": ["Fermentan carbohidratos", "No fermentan carbohidratos", "Fermentan algunos carbohidratos", "No pueden metabolizar carbohidratos"],
+        "respuesta": "No fermentan carbohidratos"
+    },
+    {
+        "pregunta": "¿Qué tipo de medio de cultivo requiere estas bacterias?",
+        "opciones": ["Medio complejo con sangre", "Medio simple con agua", "Medio básico con glucosa", "Medio con solo sal"],
+        "respuesta": "Medio complejo con sangre"
+    },
+    {
+        "pregunta": "¿En qué tipo de ambiente crecen estas bacterias?",
+        "opciones": ["Ambiente aeróbico", "Ambiente microaerofílico", "Ambiente anaeróbico", "Ambiente con alto nivel de oxígeno"],
+        "respuesta": "Ambiente microaerofílico"
+    },
+    {
+        "pregunta": "¿A qué temperatura crecen mejor estas bacterias?",
+        "opciones": ["30°C a 37°C", "37°C a 45°C", "15°C a 25°C", "10°C a 20°C"],
+        "respuesta": "30°C a 37°C"
+    },
+    {
+        "pregunta": "¿Qué función tienen las proteínas de superficie en estas bacterias?",
+        "opciones": ["Evadir la detección inmunitaria", "Ayudar a la absorción de nutrientes", "Producir energía", "Facilitar la división celular"],
+        "respuesta": "Evadir la detección inmunitaria"
+    },
+    {
+        "pregunta": "¿Qué generan las bacterias para neutralizar el ácido gástrico?",
+        "opciones": ["Ácido láctico", "Amoníaco", "Sodio", "Bicarbonato"],
+        "respuesta": "Amoníaco"
+    },
+    {
+        "pregunta": "¿Qué proteína inhibe la producción de ácido gástrico?",
+        "opciones": ["Proteína inhibidora del ácido", "Proteína estimulante del ácido", "Proteína de adhesión", "Proteína neutralizante"],
+        "respuesta": "Proteína inhibidora del ácido"
+    },
+    {
+        "pregunta": "¿Cómo atraviesa el moco gástrico esta bacteria?",
+        "opciones": ["Por su capacidad de movimiento", "Por su capacidad de fermentación", "Por su capacidad de generar calor", "Por su capacidad de secretar ácido"],
+        "respuesta": "Por su capacidad de movimiento"
+    },
+    {
+        "pregunta": "¿Cómo se adhiere esta bacteria a las células epiteliales?",
+        "opciones": ["Mediante proteínas específicas de adhesión", "Mediante flagelos", "Mediante la producción de toxinas", "Mediante la producción de ácido"],
+        "respuesta": "Mediante proteínas específicas de adhesión"
+    },
+    {
+        "pregunta": "¿En qué porcentaje la población de países en desarrollo está colonizada por H. pylori?",
+        "opciones": ["70 – 90%", "40 – 50%", "20 – 30%", "10 – 20%"],
+        "respuesta": "70 – 90%"
+    },
+    {
+        "pregunta": "¿Qué porcentaje de pacientes con úlceras está infectado por H. pylori?",
+        "opciones": ["70 – 100%", "50 – 60%", "30 – 40%", "10 – 20%"],
+        "respuesta": "70 – 100%"
+    },
+    {
+        "pregunta": "¿En qué año se logró el primer aislamiento exitoso de H. pylori?",
+        "opciones": ["1984", "1975", "1990", "2000"],
+        "respuesta": "1984"
+    },
+    {
+        "pregunta": "¿Qué tipo de inflamación causa la colonización de H. pylori?",
+        "opciones": ["Inflamación por infiltración de neutrófilos y células mononucleares", "Inflamación por la producción de ácido", "Inflamación por alergias", "Inflamación por infecciones virales"],
+        "respuesta": "Inflamación por infiltración de neutrófilos y células mononucleares"
+    },
+    {
+        "pregunta": "¿Cómo se llama la condición cuando H. pylori afecta todo el estómago?",
+        "opciones": ["Pangastritis", "Gastritis aguda", "Úlceras gástricas", "Gastritis crónica focal"],
+        "respuesta": "Pangastritis"
+    },
+    {
+        "pregunta": "¿Qué síntomas pueden estar presentes en la gastritis aguda causada por H. pylori?",
+        "opciones": ["Plenitud, náuseas, vómitos e hipoclorhidria", "Dolor abdominal crónico", "Fiebre y pérdida de apetito", "Aumento de la acidez gástrica"],
+        "respuesta": "Plenitud, náuseas, vómitos e hipoclorhidria"
+    },
+    {
+        "pregunta": "¿Qué parte de la mucosa gástrica puede verse afectada por la gastritis crónica?",
+        "opciones": ["El antro o todo el estómago", "Solo la región del esófago", "Solo el duodeno", "Solo la capa interna del estómago"],
+        "respuesta": "El antro o todo el estómago"
+    },
+    {
+        "pregunta": "¿Qué tipo de bacterias son responsables de la gastritis crónica y úlceras gástricas?",
+        "opciones": ["Helicobacter pylori", "Escherichia coli", "Streptococcus pneumoniae", "Salmonella typhi"],
+        "respuesta": "Helicobacter pylori"
+    },
+    {
+        "pregunta": "¿Qué mecanismos utiliza H. pylori para colonizar el estómago?",
+        "opciones": ["Bloqueo de ácido, neutralización y movilidad", "Fermentación de carbohidratos y secreción de toxinas", "Adhesión a la piel y secreción de proteínas", "Reproducción a alta temperatura y presión"],
+        "respuesta": "Bloqueo de ácido, neutralización y movilidad"
+    },
+    {
+        "pregunta": "¿Qué tipo de bacteria es Helicobacter pylori?",
+        "opciones": ["Un bacilo gramnegativo", "Un cocobacilo grampositivo", "Un diplococo gramnegativo", "Un bacilo grampositivo"],
+        "respuesta": "Un bacilo gramnegativo"
+    },
+    {
+        "pregunta": "¿Qué caracteriza a la gastritis crónica?",
+        "opciones": ["Inflamación persistente de la mucosa gástrica", "Dolor abdominal episódico", "Aumento de la producción de ácido", "Úlceras en el duodeno"],
+        "respuesta": "Inflamación persistente de la mucosa gástrica"
+    },
+    {
+        "pregunta": "¿Qué porcentaje de pacientes con gastritis crónica desarrollan úlceras pépticas?",
+        "opciones": ["10-15%", "20-25%", "30-40%", "5-10%"],
+        "respuesta": "10-15%"
+    },
+    {
+        "pregunta": "¿Qué riesgo aumenta casi 100 veces debido a la infección por H. pylori?",
+        "opciones": ["Carcinoma gástrico", "Gastritis crónica", "Úlceras gástricas", "Cáncer de colon"],
+        "respuesta": "Carcinoma gástrico"
+    },
+    {
+        "pregunta": "¿Cuál es el método de tinción más sensible para visualizar H. pylori?",
+        "opciones": ["Tinción de Warthin-Starry", "Tinción de Gram", "Hematoxilina-eosina", "Tinción de Ziehl-Neelsen"],
+        "respuesta": "Tinción de Warthin-Starry"
+    },
+    {
+        "pregunta": "¿Qué tinción habitual puede mostrar la presencia de H. pylori?",
+        "opciones": ["Hematoxilina-eosina", "Tinción de Warthin-Starry", "Tinción de Gram", "Tinción de Giemsa"],
+        "respuesta": "Hematoxilina-eosina"
+    },
+    {
+        "pregunta": "¿Qué muestra la tinción de Gram en el diagnóstico de H. pylori?",
+        "opciones": ["Bacilos gramnegativos curvados", "Cocobacilos grampositivos", "Células epiteliales", "Leucocitos"],
+        "respuesta": "Bacilos gramnegativos curvados"
+    },
+    {
+        "pregunta": "¿Cómo se obtiene la muestra para el cultivo de H. pylori?",
+        "opciones": ["Biopsia gástrica", "Muestra de heces", "Muestra de sangre", "Muestra de saliva"],
+        "respuesta": "Biopsia gástrica"
+    },
+    {
+        "pregunta": "¿Qué tipo de medio se utiliza en el cultivo especializado de H. pylori?",
+        "opciones": ["Medio enriquecido con sangre o hemina", "Medio simple con glucosa", "Medio con agar almidón", "Medio enriquecido con urea"],
+        "respuesta": "Medio enriquecido con sangre o hemina"
+    },
+    {
+        "pregunta": "¿Qué tipo de atmósfera es necesaria para cultivar H. pylori?",
+        "opciones": ["Atmósfera microaerófila", "Atmósfera anaeróbica", "Atmósfera hiperbárica", "Atmósfera aeróbica"],
+        "respuesta": "Atmósfera microaerófila"
+    },
+    {
+        "pregunta": "¿Qué pruebas bioquímicas se realizan para identificar H. pylori?",
+        "opciones": ["Detección de actividad oxidasa, ureasa y catalasa", "Detección de glucosa y lactosa", "Detección de ácido láctico y amoníaco", "Detección de hemoglobina y albúmina"],
+        "respuesta": "Detección de actividad oxidasa, ureasa y catalasa"
+    },
+    {
+        "pregunta": "¿Cuál es la prueba de diagnóstico no invasiva que detecta anticuerpos IgG e IgA?",
+        "opciones": ["Serología", "Prueba del aliento con urea", "Antígeno en heces", "Cultivo en medio enriquecido"],
+        "respuesta": "Serología"
+    },
+    {
+        "pregunta": "¿Qué prueba no invasiva detecta la actividad de ureasa de H. pylori?",
+        "opciones": ["Prueba del aliento con urea", "Antígeno en heces", "Serología", "Cultivo"],
+        "respuesta": "Prueba del aliento con urea"
+    },
+    {
+        "pregunta": "¿Qué detecta la prueba de antígeno en heces?",
+        "opciones": ["Proteínas de H. pylori en muestras fecales", "Presencia de bacterias en sangre", "Presencia de leucocitos en heces", "Niveles de acidez gástrica"],
+        "respuesta": "Proteínas de H. pylori en muestras fecales"
+    },
+    {
+        "pregunta": "¿Qué medicamento reduce la acidez gástrica en el tratamiento de H. pylori?",
+        "opciones": ["Omeprazol", "Amoxicilina", "Claritromicina", "Metronidazol"],
+        "respuesta": "Omeprazol"
+    },
+    {
+        "pregunta": "¿Qué tipo de antibiótico se utiliza como segundo tratamiento para H. pylori?",
+        "opciones": ["Claritromicina", "Amoxicilina", "Ciprofloxacino", "Penicilina"],
+        "respuesta": "Claritromicina"
+    },
+    {
+        "pregunta": "¿Qué antibiótico β-lactámico se utiliza en el tratamiento de H. pylori?",
+        "opciones": ["Amoxicilina", "Ceftriaxona", "Vancomicina", "Metronidazol"],
+        "respuesta": "Amoxicilina"
+    },
+    {
+        "pregunta": "¿Cuánto tiempo dura el tratamiento estándar para erradicar H. pylori?",
+        "opciones": ["7-10 días", "10-14 días", "14-21 días", "3-5 días"],
+        "respuesta": "7-10 días"
+    },
+    {
+        "pregunta": "¿Cuál es la principal causa de fracaso terapéutico en el tratamiento de H. pylori?",
+        "opciones": ["Resistencia antibiótica", "Falta de diagnóstico temprano", "Deficiencia en el sistema inmunológico", "Baja adherencia al tratamiento"],
+        "respuesta": "Resistencia antibiótica"
+    },
+    {
+        "pregunta": "¿Qué se recomienda hacer cuando un paciente no responde al tratamiento inicial para H. pylori?",
+        "opciones": ["Realizar pruebas de sensibilidad antibiótica", "Aumentar la dosis de antibióticos", "Cambiar el tipo de antibiótico sin pruebas previas", "Realizar una endoscopia inmediatamente"],
+        "respuesta": "Realizar pruebas de sensibilidad antibiótica"
+    },
+    {
+        "pregunta": "¿Qué complicación puede ocurrir en el 10-15% de los pacientes con gastritis crónica?",
+        "opciones": ["Úlceras pépticas", "Cáncer de esófago", "Hepatitis crónica", "Gastritis aguda"],
+        "respuesta": "Úlceras pépticas"
+    }
+]

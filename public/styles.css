@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+}
+
+.pregunta {
+  margin-bottom: 1rem;
+}
+
+.resultado {
+  margin-top: 2rem;
+  background-color: #f8f8f8;
+  padding: 1rem;
+  border: 1px solid #ccc;
+}

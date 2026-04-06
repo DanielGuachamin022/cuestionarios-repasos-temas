@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": "¿Quién descubrió las penicilinas en 1928?",
+    "opciones": ["Alexander Fleming", "Louis Pasteur", "Robert Koch", "Joseph Lister"],
+    "respuesta": "Alexander Fleming"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de las penicilinas?",
+    "opciones": [
+      "Inhibir la síntesis de la pared celular bacteriana",
+      "Inhibir la síntesis proteica",
+      "Alterar la membrana plasmática",
+      "Interferir en la replicación del ADN"
+    ],
+    "respuesta": "Inhibir la síntesis de la pared celular bacteriana"
+  },
+  {
+    "pregunta": "¿Qué tipo de acción tienen las penicilinas sobre las bacterias?",
+    "opciones": ["Bactericida", "Bacteriostática", "Antiviral", "Antifúngica"],
+    "respuesta": "Bactericida"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes penicilinas se administra por vía oral y es más estable en ácido?",
+    "opciones": ["Penicilina G", "Penicilina V", "Ampicilina", "Amoxicilina"],
+    "respuesta": "Penicilina V"
+  },
+  {
+    "pregunta": "¿Qué tipo de penicilina se utiliza comúnmente para tratar infecciones respiratorias y del oído?",
+    "opciones": ["Penicilina G", "Amoxicilina", "Ampicilina", "Penicilina V"],
+    "respuesta": "Amoxicilina"
+  },
+  {
+    "pregunta": "¿Qué enzima pueden producir las bacterias para inactivar las penicilinas?",
+    "opciones": ["Betalactamasas", "Transpeptidasas", "Helicasas", "Lipoxigenasas"],
+    "respuesta": "Betalactamasas"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un efecto secundario común de las penicilinas?",
+    "opciones": ["Candidiasis", "Náuseas", "Hepatitis", "Erupción cutánea"],
+    "respuesta": "Hepatitis"
+  },
+  {
+    "pregunta": "Las penicilinas son efectivas únicamente contra:",
+    "opciones": ["Bacterias", "Virus", "Hongos", "Parásitos"],
+    "respuesta": "Bacterias"
+  },
+  {
+    "pregunta": "¿A partir de qué organismo fueron descubiertas las cefalosporinas?",
+    "opciones": ["Acremonium", "Penicillium", "Streptomyces", "Aspergillus"],
+    "respuesta": "Acremonium"
+  },
+  {
+    "pregunta": "¿Cuál es el mecanismo de acción de las cefalosporinas?",
+    "opciones": [
+      "Inhiben la síntesis de la pared celular bacteriana",
+      "Inhiben la síntesis de proteínas",
+      "Bloquean la replicación del ADN",
+      "Alteran la permeabilidad de la membrana"
+    ],
+    "respuesta": "Inhiben la síntesis de la pared celular bacteriana"
+  },
+  {
+    "pregunta": "¿Qué generación de cefalosporinas tiene actividad contra Staphylococcus aureus resistente a la meticilina (SARM)?",
+    "opciones": [
+      "Primera generación",
+      "Tercera generación",
+      "Quinta generación",
+      "Segunda generación"
+    ],
+    "respuesta": "Quinta generación"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un efecto secundario frecuente de las cefalosporinas?",
+    "opciones": ["Diarrea", "Hipertensión", "Anemia", "Alopecia"],
+    "respuesta": "Diarrea"
+  },
+  {
+    "pregunta": "¿Cuál es una indicación común para el uso de cefalosporinas?",
+    "opciones": [
+      "Infecciones del tracto respiratorio",
+      "Resfriado común",
+      "Gripe",
+      "Infecciones virales"
+    ],
+    "respuesta": "Infecciones del tracto respiratorio"
+  },
+  {
+    "pregunta": "¿Qué característica aumenta en las generaciones posteriores de cefalosporinas?",
+    "opciones": [
+      "Actividad contra bacterias gramnegativas",
+      "Toxicidad hepática",
+      "Duración del efecto",
+      "Costo del tratamiento"
+    ],
+    "respuesta": "Actividad contra bacterias gramnegativas"
+  },
+  {
+    "pregunta": "¿Cuál es la principal preocupación relacionada con las cefalosporinas en la actualidad?",
+    "opciones": [
+      "Resistencia bacteriana",
+      "Costo elevado",
+      "Dificultad de administración",
+      "Efectos virales secundarios"
+    ],
+    "respuesta": "Resistencia bacteriana"
+  },
+  {
+    "pregunta": "¿A qué grupo pertenecen los carbapenémicos?",
+    "opciones": ["Antibióticos betalactámicos", "Macrólidos", "Aminoglucósidos", "Tetraciclinas"],
+    "respuesta": "Antibióticos betalactámicos"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un carbapenémico?",
+    "opciones": ["Imipenem", "Cefalexina", "Amoxicilina", "Eritromicina"],
+    "respuesta": "Imipenem"
+  },
+  {
+    "pregunta": "¿Qué tipo de espectro poseen los carbapenémicos?",
+    "opciones": ["Muy amplio", "Reducido", "Solo grampositivos", "Solo anaerobios"],
+    "respuesta": "Muy amplio"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un efecto secundario frecuente de los carbapenémicos?",
+    "opciones": ["Convulsiones", "Náuseas", "Diarrea", "Hipotermia"],
+    "respuesta": "Hipotermia"
+  },
+  {
+    "pregunta": "¿Qué enzimas pueden producir las bacterias para desarrollar resistencia a los carbapenémicos?",
+    "opciones": ["Carbapenemasas", "Betalactamasas", "Proteasas", "Amilasas"],
+    "respuesta": "Carbapenemasas"
+  }
+]

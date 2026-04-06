@@ -1,0 +1,642 @@
+[
+    {
+        "pregunta": "¿Qué tipo de bacteria es Chlamydia trachomatis?",
+        "opciones": [
+            "Grampositiva",
+            "Gramnegativa",
+            "Acido-alcohol resistente",
+            "Esporulada"
+        ],
+        "respuesta": "Gramnegativa"
+    },
+    {
+        "pregunta": "¿Qué tipo de infección causa Chlamydia trachomatis?",
+        "opciones": [
+            "Infección intracelular obligada",
+            "Infección superficial",
+            "Infección sistémica",
+            "Infección aérea"
+        ],
+        "respuesta": "Infección intracelular obligada"
+    },
+    {
+        "pregunta": "¿En qué tipo de células se replica Chlamydia trachomatis?",
+        "opciones": [
+            "Células musculares",
+            "Células epiteliales o fagocitos mononucleares",
+            "Células nerviosas",
+            "Células sanguíneas"
+        ],
+        "respuesta": "Células epiteliales o fagocitos mononucleares"
+    },
+    {
+        "pregunta": "¿Cuál es la principal vía de entrada de Chlamydia trachomatis al huésped?",
+        "opciones": [
+            "A través de las vías respiratorias",
+            "A través de abrasiones o laceraciones",
+            "Por contacto con sangre infectada",
+            "Por picaduras de insectos"
+        ],
+        "respuesta": "A través de abrasiones o laceraciones"
+    },
+    {
+        "pregunta": "¿Cuál es el daño principal que causa Chlamydia trachomatis durante su replicación?",
+        "opciones": [
+            "Destrucción celular directa",
+            "Inflamación moderada",
+            "Formación de abscesos",
+            "Formación de granulomas"
+        ],
+        "respuesta": "Destrucción celular directa"
+    },
+    {
+        "pregunta": "¿Qué tipo de respuesta inmune estimula la infección por Chlamydia trachomatis?",
+        "opciones": [
+            "Respuesta humoral",
+            "Respuesta de citocinas proinflamatorias",
+            "Inmunidad pasiva",
+            "Inmunidad celular inhibida"
+        ],
+        "respuesta": "Respuesta de citocinas proinflamatorias"
+    },
+    {
+        "pregunta": "¿Qué tipo de células son las principales afectadas por la infección inicial de Chlamydia trachomatis?",
+        "opciones": [
+            "Células epiteliales",
+            "Células nerviosas",
+            "Células musculares",
+            "Células sanguíneas"
+        ],
+        "respuesta": "Células epiteliales"
+    },
+    {
+        "pregunta": "¿Qué ocurre durante la inflamación causada por Chlamydia trachomatis?",
+        "opciones": [
+            "Destrucción del tejido epitelial",
+            "Estimula la respuesta inflamatoria con neutrófilos y linfocitos",
+            "Bloqueo de la respuesta inmune",
+            "Inhibición de la replicación celular"
+        ],
+        "respuesta": "Estimula la respuesta inflamatoria con neutrófilos y linfocitos"
+    },
+    {
+        "pregunta": "¿Qué complicación puede ocurrir debido a la infección por Chlamydia trachomatis?",
+        "opciones": [
+            "Ceguera permanente",
+            "Necrosis, abscesos o fístulas por rotura de ganglios linfáticos",
+            "Deshidratación",
+            "Enfermedad renal"
+        ],
+        "respuesta": "Necrosis, abscesos o fístulas por rotura de ganglios linfáticos"
+    },
+    {
+        "pregunta": "¿Qué es característico en el LGV causado por Chlamydia trachomatis?",
+        "opciones": [
+            "Lesiones en la piel",
+            "Formación de granulomas en ganglios linfáticos",
+            "Infección pulmonar",
+            "Formación de abscesos cerebrales"
+        ],
+        "respuesta": "Formación de granulomas en ganglios linfáticos"
+    },
+    {
+        "pregunta": "¿En qué región del mundo es más común la infección por Chlamydia trachomatis?",
+        "opciones": [
+            "Norte de África, África subsahariana, Oriente Medio y Sudeste Asiático",
+            "Europa del Este",
+            "Estados Unidos",
+            "Sudeste de Asia y Oceanía"
+        ],
+        "respuesta": "Norte de África, África subsahariana, Oriente Medio y Sudeste Asiático"
+    },
+    {
+        "pregunta": "¿Cuántas personas, según la OMS, son ciegas debido al tracoma?",
+        "opciones": [
+            "1 millón",
+            "3 millones",
+            "6 millones",
+            "10 millones"
+        ],
+        "respuesta": "6 millones"
+    },
+    {
+        "pregunta": "¿Cuántas personas necesitan tratamiento por tracoma según la OMS?",
+        "opciones": [
+            "150 millones",
+            "250 millones",
+            "500 millones",
+            "1 billón"
+        ],
+        "respuesta": "150 millones"
+    },
+    {
+        "pregunta": "¿Qué porcentaje de infecciones por Chlamydia trachomatis en mujeres son asintomáticas?",
+        "opciones": [
+            "50%",
+            "60%",
+            "80%",
+            "90%"
+        ],
+        "respuesta": "80%"
+    },
+    {
+        "pregunta": "¿Cuál es la principal causa de ceguera evitable en el mundo?",
+        "opciones": [
+            "Glaucoma",
+            "Cataratas",
+            "Tracoma",
+            "Degeneración macular"
+        ],
+        "respuesta": "Tracoma"
+    },
+    {
+        "pregunta": "¿Cuántos casos de Chlamydia trachomatis fueron reportados en Estados Unidos en 2017?",
+        "opciones": [
+            "500,000",
+            "1.7 millones",
+            "3 millones",
+            "5 millones"
+        ],
+        "respuesta": "1.7 millones"
+    },
+    {
+        "pregunta": "¿Cuál es la estimación de nuevas infecciones de Chlamydia trachomatis anuales en todo el mundo?",
+        "opciones": [
+            "30 millones",
+            "50 millones",
+            "70 millones",
+            "100 millones"
+        ],
+        "respuesta": "50 millones"
+    },
+    {
+        "pregunta": "¿Cómo se transmite Chlamydia trachomatis entre personas?",
+        "opciones": [
+            "Solo por contacto sexual",
+            "Por contacto directo, fómites y vectores",
+            "Solo por gotitas respiratorias",
+            "Solo por transfusiones de sangre"
+        ],
+        "respuesta": "Por contacto directo, fómites y vectores"
+    },
+    {
+        "pregunta": "¿Qué es un fómite en la transmisión de Chlamydia trachomatis?",
+        "opciones": [
+            "Un insecto que transporta el patógeno",
+            "Ropa infectada que transporta secreciones oculares",
+            "Un objeto usado en cirugía",
+            "Un tipo de bacteria"
+        ],
+        "respuesta": "Ropa infectada que transporta secreciones oculares"
+    },
+    {
+        "pregunta": "¿Qué tipo de insecto es un vector para Chlamydia trachomatis?",
+        "opciones": [
+            "Moscas",
+            "Mosquitos",
+            "Abejas",
+            "Cucarachas"
+        ],
+        "respuesta": "Moscas"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes no es una vía de transmisión de Chlamydia trachomatis?",
+        "opciones": [
+            "Contacto directo",
+            "Fómites",
+            "Vectores",
+            "Por sangre infectada"
+        ],
+        "respuesta": "Por sangre infectada"
+    },
+    {
+        "pregunta": "¿Qué puede ocurrir si los ganglios linfáticos se rompen debido a la infección por Chlamydia trachomatis?",
+        "opciones": [
+            "Formación de abscesos y necrosis",
+            "Mejoría de la infección",
+            "Desaparición de los síntomas",
+            "Inmunidad a largo plazo"
+        ],
+        "respuesta": "Formación de abscesos y necrosis"
+    },
+    {
+        "pregunta": "¿Qué característica tiene la fase inicial de la conjuntivitis por Chlamydia trachomatis?",
+        "opciones": [
+            "Conjuntivitis folicular con inflamación difusa",
+            "Conjuntivitis hemorrágica",
+            "Conjuntivitis purulenta",
+            "Ojo seco y enrojecido"
+        ],
+        "respuesta": "Conjuntivitis folicular con inflamación difusa"
+    },
+    {
+        "pregunta": "¿Qué ocurre en la progresión de la conjuntivitis por Chlamydia trachomatis?",
+        "opciones": [
+            "Cicatrización conjuntival con retracción del párpado",
+            "Formación de úlceras en la córnea",
+            "Ceguera irreversible",
+            "Desaparición de la inflamación"
+        ],
+        "respuesta": "Cicatrización conjuntival con retracción del párpado"
+    },
+    {
+        "pregunta": "¿Qué complicación puede ocurrir debido a la conjuntivitis por Chlamydia trachomatis?",
+        "opciones": [
+            "Pestañas crecen hacia dentro, produciendo excoriaciones en la córnea",
+            "Opacidad corneal reversible",
+            "Enrojecimiento ocular moderado",
+            "Ceguera temporal"
+        ],
+        "respuesta": "Pestañas crecen hacia dentro, produciendo excoriaciones en la córnea"
+    },
+    {
+        "pregunta": "¿Cuál es la manifestación clínica en la fase avanzada de la conjuntivitis por Chlamydia trachomatis?",
+        "opciones": [
+            "Ulceración corneal, cicatrización y pérdida de visión",
+            "Secreciones mucosas y picazón",
+            "Enrojecimiento sin dolor",
+            "Aumento de la presión intraocular"
+        ],
+        "respuesta": "Ulceración corneal, cicatrización y pérdida de visión"
+    },
+    {
+        "pregunta": "¿Cómo se caracteriza la conjuntivitis de inclusión en adultos?",
+        "opciones": [
+            "Conjuntivitis aguda folicular con secreciones mucopurulentas",
+            "Ojo seco y fotofobia",
+            "Conjuntivitis hemorrágica",
+            "Enrojecimiento sin secreciones"
+        ],
+        "respuesta": "Conjuntivitis aguda folicular con secreciones mucopurulentas"
+    },
+    {
+        "pregunta": "¿Qué puede ocurrir en la conjuntivitis de inclusión en adultos si no se trata?",
+        "opciones": [
+            "Queratitis e infiltrados corneales",
+            "Recuperación sin complicaciones",
+            "Aumento de la visión",
+            "Desaparición de secreciones"
+        ],
+        "respuesta": "Queratitis e infiltrados corneales"
+    },
+    {
+        "pregunta": "¿Cómo se presenta la conjuntivitis neonatal por C. trachomatis?",
+        "opciones": [
+            "Hinchazón de párpados, hiperemia y secreciones purulentas",
+            "Ojo rojo sin secreciones",
+            "Fotofobia sin secreciones",
+            "Cicatrización rápida de la conjuntiva"
+        ],
+        "respuesta": "Hinchazón de párpados, hiperemia y secreciones purulentas"
+    },
+    {
+        "pregunta": "¿Qué complicación grave puede surgir en los recién nacidos con conjuntivitis neonatal?",
+        "opciones": [
+            "Riesgo de neumonía si no se trata",
+            "Deshidratación grave",
+            "Ceguera irreversible",
+            "Dificultad para respirar"
+        ],
+        "respuesta": "Riesgo de neumonía si no se trata"
+    },
+    {
+        "pregunta": "¿Cuándo suelen comenzar los síntomas de la neumonía del lactante por C. trachomatis?",
+        "opciones": [
+            "2-3 semanas después del nacimiento",
+            "Inmediatamente después del nacimiento",
+            "Entre 1-2 meses de vida",
+            "A los 6 meses de vida"
+        ],
+        "respuesta": "2-3 semanas después del nacimiento"
+    },
+    {
+        "pregunta": "¿Cuál es uno de los síntomas iniciales de la neumonía del lactante?",
+        "opciones": [
+            "Rinitis seguida de tos en staccato",
+            "Fiebre alta",
+            "Dificultad respiratoria aguda",
+            "Cianosis"
+        ],
+        "respuesta": "Rinitis seguida de tos en staccato"
+    },
+    {
+        "pregunta": "¿Cómo se caracteriza la progresión de la neumonía del lactante?",
+        "opciones": [
+            "Enfermedad afebril que se prolonga varias semanas",
+            "Fiebre elevada con deterioro rápido",
+            "Mejoría en pocos días",
+            "Cianosis severa y shock"
+        ],
+        "respuesta": "Enfermedad afebril que se prolonga varias semanas"
+    },
+    {
+        "pregunta": "¿Cómo pueden durar los signos radiológicos de la neumonía por C. trachomatis?",
+        "opciones": [
+            "Varios meses",
+            "Un par de días",
+            "Una semana",
+            "Unos pocos días"
+        ],
+        "respuesta": "Varios meses"
+    },
+    {
+        "pregunta": "¿Cuál es una complicación grave de las infecciones urogenitales por Chlamydia trachomatis?",
+        "opciones": [
+            "Salpingitis, endometritis, perihepatitis",
+            "Cistitis aguda",
+            "Epididimitis",
+            "Neumonía crónica"
+        ],
+        "respuesta": "Salpingitis, endometritis, perihepatitis"
+    },
+    {
+        "pregunta": "¿Qué secreciones se presentan en las infecciones urogenitales por Chlamydia trachomatis?",
+        "opciones": [
+            "Secreciones mucopurulentas",
+            "Secreciones acuosas",
+            "No hay secreciones",
+            "Secreciones serosas"
+        ],
+        "respuesta": "Secreciones mucopurulentas"
+    },
+    {
+        "pregunta": "¿Qué porcentaje de infecciones urogenitales por Chlamydia trachomatis son asintomáticas en mujeres?",
+        "opciones": [
+            "80%",
+            "50%",
+            "60%",
+            "90%"
+        ],
+        "respuesta": "80%"
+    },
+    {
+        "pregunta": "¿Qué porcentaje de infecciones urogenitales por Chlamydia trachomatis son asintomáticas en hombres?",
+        "opciones": [
+            "25%",
+            "50%",
+            "10%",
+            "40%"
+        ],
+        "respuesta": "25%"
+    },
+    {
+        "pregunta": "¿Por qué las infecciones asintomáticas por Chlamydia trachomatis son importantes?",
+        "opciones": [
+            "Son un importante reservorio para la diseminación de la bacteria",
+            "No tienen importancia clínica",
+            "Aceleran la curación del paciente",
+            "Son más fáciles de tratar"
+        ],
+        "respuesta": "Son un importante reservorio para la diseminación de la bacteria"
+    },
+    {
+        "pregunta": "¿Qué infección mixta es frecuente con las infecciones por Chlamydia trachomatis?",
+        "opciones": [
+            "Neisseria gonorrhoeae",
+            "Streptococcus pneumoniae",
+            "Mycoplasma pneumoniae",
+            "Vibrio cholerae"
+        ],
+        "respuesta": "Neisseria gonorrhoeae"
+    },
+    {
+        "pregunta": "¿Qué puede causar la cicatrización conjuntival por Chlamydia trachomatis?",
+        "opciones": [
+            "Retracción del párpado",
+            "Enrojecimiento del ojo",
+            "Aumento de la secreción ocular",
+            "Opacidad de la córnea"
+        ],
+        "respuesta": "Retracción del párpado"
+    },
+    {
+        "pregunta": "¿Qué forma de conjuntivitis presenta secreciones mucopurulentas, queratitis e infiltrados corneales?",
+        "opciones": [
+            "Conjuntivitis de inclusión en adultos",
+            "Conjuntivitis neonatal",
+            "Conjuntivitis viral",
+            "Conjuntivitis bacteriana común"
+        ],
+        "respuesta": "Conjuntivitis de inclusión en adultos"
+    },
+    {
+        "pregunta": "¿Cuál es el tratamiento más urgente para prevenir complicaciones graves en la conjuntivitis neonatal?",
+        "opciones": [
+            "Antibióticos sistémicos",
+            "Antibióticos tópicos",
+            "Analgésicos",
+            "Cirugía ocular"
+        ],
+        "respuesta": "Antibióticos tópicos"
+    },
+    {
+        "pregunta": "¿Qué ocurre en la lesión inicial del Linfogranuloma Venéreo (LGV)?",
+        "opciones": [
+            "Aparece una úlcera pequeña e indolora que remite rápidamente",
+            "Aparece una erupción cutánea dolorosa",
+            "Desarrollo de fístulas inmediatamente",
+            "Inflamación grave en los ganglios linfáticos"
+        ],
+        "respuesta": "Aparece una úlcera pequeña e indolora que remite rápidamente"
+    },
+    {
+        "pregunta": "¿Cuánto tiempo después de la incubación aparece la lesión inicial en el LGV?",
+        "opciones": [
+            "1-2 semanas",
+            "1-4 semanas",
+            "5-6 semanas",
+            "1-2 días"
+        ],
+        "respuesta": "1-4 semanas"
+    },
+    {
+        "pregunta": "¿Qué ocurre durante la fase ganglionar del LGV?",
+        "opciones": [
+            "Inflamación y tumefacción de ganglios linfáticos",
+            "Desarrollo de úlceras en la piel",
+            "Formación de pápulas dolorosas",
+            "Pérdida de visión"
+        ],
+        "respuesta": "Inflamación y tumefacción de ganglios linfáticos"
+    },
+    {
+        "pregunta": "¿Qué es un síntoma característico de los bubones en LGV?",
+        "opciones": [
+            "Son fluctuantes, dolorosos y pueden romperse",
+            "Son duros y no dolorosos",
+            "Son pequeños y desaparecen rápidamente",
+            "Son siempre indoloros"
+        ],
+        "respuesta": "Son fluctuantes, dolorosos y pueden romperse"
+    },
+    {
+        "pregunta": "¿Qué puede ocurrir si los bubones de LGV no se tratan?",
+        "opciones": [
+            "Formación de fístulas",
+            "Mejoría sin tratamiento",
+            "Desaparición de los ganglios linfáticos",
+            "Formación de abscesos sin complicaciones"
+        ],
+        "respuesta": "Formación de fístulas"
+    },
+    {
+        "pregunta": "¿Cuáles son algunas manifestaciones sistémicas del LGV?",
+        "opciones": [
+            "Fiebre, escalofríos, anorexia, cefalea",
+            "Erupción cutánea generalizada",
+            "Solo fiebre alta",
+            "Úlceras genitales dolorosas"
+        ],
+        "respuesta": "Fiebre, escalofríos, anorexia, cefalea"
+    },
+    {
+        "pregunta": "¿Qué otro síntoma puede estar presente en las manifestaciones sistémicas del LGV?",
+        "opciones": [
+            "Meningismo, mialgias y artralgias",
+            "Pérdida de apetito sin fiebre",
+            "Náuseas sin dolor abdominal",
+            "Solo dolor de garganta"
+        ],
+        "respuesta": "Meningismo, mialgias y artralgias"
+    },
+    {
+        "pregunta": "¿Qué pruebas son más sensibles para el diagnóstico de LGV?",
+        "opciones": [
+            "Pruebas de ácidos nucleicos (NAAT)",
+            "Cultivo",
+            "Serología",
+            "Detección antigénica"
+        ],
+        "respuesta": "Pruebas de ácidos nucleicos (NAAT)"
+    },
+    {
+        "pregunta": "¿Cuál es una ventaja del método NAAT en el diagnóstico de LGV?",
+        "opciones": [
+            "Alta sensibilidad y especificidad",
+            "Es económico y rápido",
+            "No requiere equipo especializado",
+            "Se puede realizar en casa"
+        ],
+        "respuesta": "Alta sensibilidad y especificidad"
+    },
+    {
+        "pregunta": "¿Cuál es una limitación del método NAAT para el diagnóstico de LGV?",
+        "opciones": [
+            "Coste elevado",
+            "Requiere menos tiempo que otros métodos",
+            "Alta tasa de falsos negativos",
+            "No es accesible en todos los laboratorios"
+        ],
+        "respuesta": "Coste elevado"
+    },
+    {
+        "pregunta": "¿Qué ventaja tiene el cultivo en el diagnóstico del LGV?",
+        "opciones": [
+            "Es el método más específico",
+            "Es económico",
+            "Es rápido y fácil de realizar",
+            "Requiere menos tiempo que NAAT"
+        ],
+        "respuesta": "Es el método más específico"
+    },
+    {
+        "pregunta": "¿Qué desventaja tiene el cultivo en el diagnóstico de LGV?",
+        "opciones": [
+            "Baja sensibilidad comparado con NAAT",
+            "Es demasiado rápido",
+            "Requiere solo un equipo básico",
+            "No es útil para infecciones actuales"
+        ],
+        "respuesta": "Baja sensibilidad comparado con NAAT"
+    },
+    {
+        "pregunta": "¿Por qué la detección antigénica es útil para el diagnóstico de LGV?",
+        "opciones": [
+            "Es rápida y económica",
+            "Es altamente sensible",
+            "Puede realizarse en cualquier centro de salud",
+            "Es más precisa que las pruebas de ácidos nucleicos"
+        ],
+        "respuesta": "Es rápida y económica"
+    },
+    {
+        "pregunta": "¿Qué limitación tiene la detección antigénica en el diagnóstico del LGV?",
+        "opciones": [
+            "Menor sensibilidad",
+            "Es cara y poco accesible",
+            "No detecta infecciones recientes",
+            "Requiere análisis en laboratorio especializado"
+        ],
+        "respuesta": "Menor sensibilidad"
+    },
+    {
+        "pregunta": "¿Qué utilidad tiene la serología en el diagnóstico de LGV?",
+        "opciones": [
+            "Es útil en infecciones sistémicas",
+            "Es el método más rápido",
+            "Detecta la infección en las primeras fases",
+            "Es económica y precisa"
+        ],
+        "respuesta": "Es útil en infecciones sistémicas"
+    },
+    {
+        "pregunta": "¿Cuál es la limitación principal de la serología en el diagnóstico de LGV?",
+        "opciones": [
+            "No distingue infecciones actuales de pasadas",
+            "Es muy cara",
+            "Solo detecta infecciones en hombres",
+            "No es efectiva para infecciones sistémicas"
+        ],
+        "respuesta": "No distingue infecciones actuales de pasadas"
+    },
+    {
+        "pregunta": "¿Cuál es el tratamiento recomendado para el LGV?",
+        "opciones": [
+            "Doxiciclina durante 21 días",
+            "Amoxicilina durante 7 días",
+            "Ciprofloxacino durante 14 días",
+            "Azitromicina durante 5 días"
+        ],
+        "respuesta": "Doxiciclina durante 21 días"
+    },
+    {
+        "pregunta": "¿Qué tratamiento se recomienda para las lesiones oculares y genitales causadas por LGV?",
+        "opciones": [
+            "Azitromicina o doxiciclina durante 7 días",
+            "Solo antibióticos tópicos",
+            "Penicilina durante 14 días",
+            "Ciprofloxacino durante 21 días"
+        ],
+        "respuesta": "Azitromicina o doxiciclina durante 7 días"
+    },
+    {
+        "pregunta": "¿Qué práctica ayuda a prevenir el LGV?",
+        "opciones": [
+            "Prácticas sexuales seguras",
+            "Uso exclusivo de antibióticos",
+            "Aislamiento de los infectados",
+            "Vacunación universal"
+        ],
+        "respuesta": "Prácticas sexuales seguras"
+    },
+    {
+        "pregunta": "¿Cómo se puede prevenir la reexposición al tracoma?",
+        "opciones": [
+            "Mejorando las condiciones sanitarias y tratamiento precoz",
+            "Solo con la vacunación",
+            "Evitar la exposición a superficies contaminadas",
+            "Evitar el contacto con moscas"
+        ],
+        "respuesta": "Mejorando las condiciones sanitarias y tratamiento precoz"
+    },
+    {
+        "pregunta": "¿Cuál es el tratamiento preventivo más eficaz contra el tracoma?",
+        "opciones": [
+            "Mejorar las condiciones sanitarias",
+            "Uso de antibióticos tópicos",
+            "Vacunación masiva",
+            "Evitar el contacto con personas infectadas"
+        ],
+        "respuesta": "Mejorar las condiciones sanitarias"
+    }
+]

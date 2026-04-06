@@ -1,0 +1,202 @@
+[
+  {
+    "pregunta": "¿Cómo es la morfología de este microorganismo?",
+    "opciones": ["Coco Grampositivo", "Bacilo Grampositivo rectangular de gran tamaño", "Coco Gramnegativo", "Bacilo Gramnegativo curvo"],
+    "respuesta": "Bacilo Grampositivo rectangular de gran tamaño"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes estructuras posee este microorganismo?",
+    "opciones": ["No posee cápsula", "Es esporulado y encapsulado", "Tiene flagelos peritricos", "Posee fimbrias"],
+    "respuesta": "Es esporulado y encapsulado"
+  },
+  {
+    "pregunta": "¿Cuál es su tipo de metabolismo?",
+    "opciones": ["Aerobio estricto", "Anaerobio estricto e inmóvil", "Anaerobio facultativo", "Microaerófilo"],
+    "respuesta": "Anaerobio estricto e inmóvil"
+  },
+  {
+    "pregunta": "¿Qué tipo de hemólisis produce en agar sangre?",
+    "opciones": ["Alfa hemólisis", "Beta hemólisis", "Gamma hemólisis", "No produce hemólisis"],
+    "respuesta": "Beta hemólisis"
+  },
+  {
+    "pregunta": "¿Qué células destruye la toxina alfa?",
+    "opciones": ["Solo eritrocitos", "Solo células endoteliales", "Eritrocitos, plaquetas, leucocitos y células endoteliales", "Solo leucocitos"],
+    "respuesta": "Eritrocitos, plaquetas, leucocitos y células endoteliales"
+  },
+  {
+    "pregunta": "¿Qué provoca la toxina beta?",
+    "opciones": ["Hemólisis masiva", "Pérdida de líquidos intestinales", "Estasis intestinal y lesiones necróticas", "Fallo cardíaco directo"],
+    "respuesta": "Estasis intestinal y lesiones necróticas"
+  },
+  {
+    "pregunta": "¿Dónde actúa la enterotoxina?",
+    "opciones": ["Estómago", "Colon", "Porción inferior del intestino delgado", "Hígado"],
+    "respuesta": "Porción inferior del intestino delgado"
+  },
+  {
+    "pregunta": "¿Qué efecto genera la enterotoxina?",
+    "opciones": ["Disminución de líquidos intestinales", "Pérdida de líquidos intestinales", "Aumento de la presión arterial", "Destrucción tisular masiva"],
+    "respuesta": "Pérdida de líquidos intestinales"
+  },
+  {
+    "pregunta": "¿Qué enzimas degradativas produce este microorganismo?",
+    "opciones": ["Lipasas y proteasas", "Hialuronidasas y colagenasas", "Oxidasas y catalasas", "DNasas y fosfatasas"],
+    "respuesta": "Hialuronidasas y colagenasas"
+  },
+  {
+    "pregunta": "¿Qué ocasiona la toxina alfa a nivel vascular?",
+    "opciones": ["Vasoconstricción severa", "Aumento de permeabilidad vascular", "Disminución del flujo sanguíneo", "Formación de trombos"],
+    "respuesta": "Aumento de permeabilidad vascular"
+  },
+  {
+    "pregunta": "¿Qué tipo de daño tisular produce la toxina alfa?",
+    "opciones": ["Regeneración de tejidos", "Destrucción de tejidos y toxicidad hepática", "Mejora del metabolismo celular", "Solo inflamación leve"],
+    "respuesta": "Destrucción de tejidos y toxicidad hepática"
+  },
+  {
+    "pregunta": "¿En qué lugares se encuentra ampliamente este microorganismo?",
+    "opciones": ["Aire y superficies metálicas", "Suelo y agua contaminados por heces", "Agua potable tratada", "Ambientes estériles hospitalarios"],
+    "respuesta": "Suelo y agua contaminados por heces"
+  },
+  {
+    "pregunta": "¿Cuál es el tipo predominante asociado a infecciones humanas?",
+    "opciones": ["Tipo B", "Tipo C", "Tipo A", "Tipo D"],
+    "respuesta": "Tipo A"
+  },
+  {
+    "pregunta": "¿Qué característica aumenta su persistencia en el ambiente?",
+    "opciones": ["Formación de biopelículas", "Esporas resistentes", "Alta movilidad", "Dependencia del hospedero"],
+    "respuesta": "Esporas resistentes"
+  },
+  {
+    "pregunta": "¿Cuál es la tasa de mortalidad reportada?",
+    "opciones": ["5–10%", "20–40%", "40–100%", "0–1%"],
+    "respuesta": "40–100%"
+  },
+  {
+    "pregunta": "¿Cuál es la ventana crítica para el tratamiento?",
+    "opciones": ["6 horas", "12 horas", "24 horas", "48 horas"],
+    "respuesta": "24 horas"
+  },
+  {
+    "pregunta": "¿Cuál NO es un factor de riesgo?",
+    "opciones": ["Trauma", "Cirugía", "Compromiso vascular", "Diabetes tipo I sin complicaciones"],
+    "respuesta": "Diabetes tipo I sin complicaciones"
+  },
+  {
+    "pregunta": "¿Cómo se caracteriza la celulitis por este microorganismo?",
+    "opciones": ["Dolor intenso y sin gas", "Edema y eritema con gas, generalmente indolora", "Úlceras profundas y dolorosas", "Ausencia total de inflamación"],
+    "respuesta": "Edema y eritema con gas, generalmente indolora"
+  },
+  {
+    "pregunta": "¿Qué ocurre en la miositis supurativa?",
+    "opciones": ["Necrosis muscular rápida", "Acumulación de pus sin necrosis muscular", "Diseminación sistémica inmediata", "Ausencia de síntomas locales"],
+    "respuesta": "Acumulación de pus sin necrosis muscular"
+  },
+  {
+    "pregunta": "¿Qué caracteriza a la mionecrosis (gangrena gaseosa)?",
+    "opciones": ["Dolor leve y progresión lenta", "Destrucción rápida y dolorosa del tejido muscular", "Ausencia de síntomas sistémicos", "Baja mortalidad"],
+    "respuesta": "Destrucción rápida y dolorosa del tejido muscular"
+  },
+  {
+    "pregunta": "¿Cuál es el inicio típico de la intoxicación alimentaria por este microorganismo?",
+    "opciones": ["1-2 horas", "8-24 horas", "24-48 horas", "Más de 72 horas"],
+    "respuesta": "8-24 horas"
+  },
+  {
+    "pregunta": "¿Cuál es una característica clave de la intoxicación alimentaria?",
+    "opciones": ["Fiebre alta", "Náuseas intensas", "Diarrea acuosa sin fiebre, náuseas o vómitos", "Vómitos frecuentes"],
+    "respuesta": "Diarrea acuosa sin fiebre, náuseas o vómitos"
+  },
+  {
+    "pregunta": "¿Cómo es la duración de la intoxicación alimentaria?",
+    "opciones": ["Crónica", "Prolongada y grave", "Corta y de resolución espontánea", "Recurrente"],
+    "respuesta": "Corta y de resolución espontánea"
+  },
+  {
+    "pregunta": "¿Cuál es un síntoma común de la intoxicación alimentaria?",
+    "opciones": ["Dolor abdominal", "Fiebre persistente", "Vómitos severos", "Sangrado rectal"],
+    "respuesta": "Dolor abdominal"
+  },
+  {
+    "pregunta": "¿Qué describe la enteritis necrosante?",
+    "opciones": ["Infección leve del colon", "Infección intestinal grave con necrosis aguda del yeyuno", "Inflamación gástrica superficial", "Alteración de la flora intestinal"],
+    "respuesta": "Infección intestinal grave con necrosis aguda del yeyuno"
+  },
+  {
+    "pregunta": "¿Qué nivel de mortalidad tiene la enteritis necrosante?",
+    "opciones": ["Baja", "Moderada", "Alta", "Nula"],
+    "respuesta": "Alta"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un síntoma de enteritis necrosante?",
+    "opciones": ["Diarrea acuosa sin dolor", "Diarrea sanguinolenta", "Estreñimiento crónico", "Ausencia de dolor"],
+    "respuesta": "Diarrea sanguinolenta"
+  },
+  {
+    "pregunta": "¿Qué hallazgo microscópico es típico en el diagnóstico?",
+    "opciones": ["Cocos gramnegativos", "Bacilos grampositivos grandes sin leucocitos", "Bacilos gramnegativos móviles", "Abundantes leucocitos en todas las muestras"],
+    "respuesta": "Bacilos grampositivos grandes sin leucocitos"
+  },
+  {
+    "pregunta": "¿Qué característica presenta el cultivo en agar sangre?",
+    "opciones": ["Crecimiento lento sin hemólisis", "Crecimiento rápido con doble zona de hemólisis", "Ausencia de crecimiento", "Hemólisis alfa únicamente"],
+    "respuesta": "Crecimiento rápido con doble zona de hemólisis"
+  },
+  {
+    "pregunta": "¿Qué técnica molecular puede utilizarse en el diagnóstico?",
+    "opciones": ["Secuenciación de proteínas", "PCR para genes de toxinas", "Electroforesis en gel", "Inmunohistoquímica"],
+    "respuesta": "PCR para genes de toxinas"
+  },
+  {
+    "pregunta": "¿Cuál es el antibiótico de primera elección?",
+    "opciones": ["Ciprofloxacino", "Ceftriaxona", "Penicilina", "Doxiciclina"],
+    "respuesta": "Penicilina"
+  },
+  {
+    "pregunta": "¿Cuándo debe iniciarse el tratamiento antimicrobiano?",
+    "opciones": ["Después de la confirmación por laboratorio", "Al aparecer fiebre", "Inmediatamente ante la sospecha clínica", "Tras 24 horas de evolución"],
+    "respuesta": "Inmediatamente ante la sospecha clínica"
+  },
+  {
+    "pregunta": "¿Qué implica el desbridamiento quirúrgico?",
+    "opciones": ["Lavado superficial", "Resección inmediata de material extraño y tejido desvitalizado", "Solo drenaje de líquidos", "Administración de antibióticos localmente"],
+    "respuesta": "Resección inmediata de material extraño y tejido desvitalizado"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de la oxigenoterapia hiperbárica?",
+    "opciones": ["Reemplazar al tratamiento antibiótico", "Actuar como tratamiento complementario", "Servir como diagnóstico", "Evitar la necesidad de cirugía"],
+    "respuesta": "Actuar como tratamiento complementario"
+  },
+  {
+    "pregunta": "¿Cuándo es necesaria la amputación?",
+    "opciones": ["Siempre desde el inicio", "Si el paciente presenta fiebre", "Si el desbridamiento no controla la progresión", "Si hay diarrea sanguinolenta"],
+    "respuesta": "Si el desbridamiento no controla la progresión"
+  },
+  {
+    "pregunta": "¿Cuál es el primer paso en el tratamiento de la gastroenteritis leve a moderada?",
+    "opciones": ["Antibióticos de amplio espectro", "Rehidratación oral", "Oxigenoterapia", "Amputación"],
+    "respuesta": "Rehidratación oral"
+  },
+  {
+    "pregunta": "¿Cuándo se utiliza la terapia intravenosa en gastroenteritis?",
+    "opciones": ["En casos leves", "Solamente en adultos mayores", "En casos graves", "Cuando no hay diarrea"],
+    "respuesta": "En casos graves"
+  },
+  {
+    "pregunta": "¿Qué parámetro debe monitorizarse en la gastroenteritis?",
+    "opciones": ["Niveles de glucosa exclusivamente", "Signos vitales y balance hidroelectrolítico", "Solo temperatura corporal", "Reflejos neurológicos"],
+    "respuesta": "Signos vitales y balance hidroelectrolítico"
+  },
+  {
+    "pregunta": "¿Cuál es un síntoma de enteritis necrosante que indica gravedad?",
+    "opciones": ["Dolor leve", "Ausencia de diarrea", "Peritonitis", "Cefalea"],
+    "respuesta": "Peritonitis"
+  },
+  {
+    "pregunta": "¿Qué síntoma acompaña frecuentemente a la enteritis necrosante además del dolor abdominal severo?",
+    "opciones": ["Estreñimiento", "Vómitos", "Ausencia de gases", "Fiebre alta sin diarrea"],
+    "respuesta": "Vómitos"
+  }
+]

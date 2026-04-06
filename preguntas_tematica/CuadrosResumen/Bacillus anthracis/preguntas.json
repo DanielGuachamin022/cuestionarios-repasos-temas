@@ -1,0 +1,222 @@
+[
+  {
+    "pregunta": "¿Cuál es la morfología de Bacillus anthracis?",
+    "opciones": ["Cocos grampositivos", "Bacilos grampositivos", "Bacilos gramnegativos", "Cocos gramnegativos"],
+    "respuesta": "Bacilos grampositivos"
+  },
+  {
+    "pregunta": "¿Cómo se disponen las células de Bacillus anthracis en los cultivos?",
+    "opciones": ["En parejas o cadenas largas", "En parejas o grupos de 4", "Individualmente", "En racimos"],
+    "respuesta": "En parejas o cadenas largas"
+  },
+  {
+    "pregunta": "¿Qué característica permite distinguir a Bacillus anthracis bajo el microscopio?",
+    "opciones": ["Formación de esporas", "Forma de coco", "Tamaño pequeño", "Coloración en verde"],
+    "respuesta": "Formación de esporas"
+  },
+  {
+    "pregunta": "¿Cuánto tiempo se necesitan los cultivos para observar esporas de Bacillus anthracis?",
+    "opciones": ["24 horas", "48-72 horas", "1 semana", "3-4 días"],
+    "respuesta": "48-72 horas"
+  },
+  {
+    "pregunta": "¿Qué tipo de bacteria es Bacillus anthracis en cuanto a oxígeno?",
+    "opciones": ["Anaerobio", "Facultativo", "Aerobio", "Microaerófilo"],
+    "respuesta": "Aerobio"
+  },
+  {
+    "pregunta": "¿Cómo se describe el movimiento de Bacillus anthracis?",
+    "opciones": ["Movible", "Inmóvil", "Lento", "Rápido"],
+    "respuesta": "Inmóvil"
+  },
+  {
+    "pregunta": "¿Cuál es la principal exotoxina producida por Bacillus anthracis?",
+    "opciones": ["Exotoxina de edema", "Exotoxina letal", "Toxina botulínica", "Toxina colérica"],
+    "respuesta": "Exotoxina letal"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene la exotoxina letal de Bacillus anthracis?",
+    "opciones": ["Aumenta la producción de pus", "Estimula la liberación del factor de necrosis tumoral", "Provoca hemorragias internas", "Destruye los glóbulos rojos"],
+    "respuesta": "Estimula la liberación del factor de necrosis tumoral"
+  },
+  {
+    "pregunta": "¿Qué ocasiona la exotoxina de edema de Bacillus anthracis?",
+    "opciones": ["Destrucción celular", "Acumulación de líquidos", "Cáncer", "Aumento de la fiebre"],
+    "respuesta": "Acumulación de líquidos"
+  },
+  {
+    "pregunta": "¿Qué función cumple la cápsula de Bacillus anthracis?",
+    "opciones": ["Acelera la replicación", "Inhibe la fagocitosis", "Genera toxicidad", "Protege de antibióticos"],
+    "respuesta": "Inhibe la fagocitosis"
+  },
+  {
+    "pregunta": "¿A qué animales afecta principalmente Bacillus anthracis?",
+    "opciones": ["Carnívoros", "Omnívoros", "Herbívoros", "Aves"],
+    "respuesta": "Herbívoros"
+  },
+  {
+    "pregunta": "¿Cuál es el reservorio natural de Bacillus anthracis?",
+    "opciones": ["Humanos", "Insectos", "Herbívoros", "Aves"],
+    "respuesta": "Herbívoros"
+  },
+  {
+    "pregunta": "¿Por qué es un problema grave el carbunco en países sin vacunación animal?",
+    "opciones": ["Por la alta mortalidad en humanos", "Por la rápida propagación de las esporas", "Por la resistencia a los antibióticos", "Por el impacto económico en la agricultura"],
+    "respuesta": "Por el impacto económico en la agricultura"
+  },
+  {
+    "pregunta": "¿Qué hace que Bacillus anthracis sea un posible agente de bioterrorismo?",
+    "opciones": ["Es fácil de cultivar y tiene esporas resistentes", "Produce una toxina mortal rápidamente", "Tiene una alta tasa de mutación", "Es fácilmente transmisible por aire"],
+    "respuesta": "Es fácil de cultivar y tiene esporas resistentes"
+  },
+  {
+    "pregunta": "¿Cuánto tiempo pueden permanecer viables las esporas de Bacillus anthracis en el ambiente?",
+    "opciones": ["Días", "Meses", "Años", "Décadas"],
+    "respuesta": "Años"
+  },
+  {
+    "pregunta": "¿Cómo se transmiten principalmente las esporas de Bacillus anthracis en los humanos?",
+    "opciones": ["Inhalación", "Inoculación", "Ingestión", "Transmisión sexual"],
+    "respuesta": "Inoculación"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de infecciones de Bacillus anthracis en humanos es por inoculación?",
+    "opciones": ["90%", "75%", "95%", "50%"],
+    "respuesta": "95%"
+  },
+  {
+    "pregunta": "¿Cuál es la forma más común de carbunco en humanos?",
+    "opciones": ["Carbunco digestivo", "Carbunco cutáneo", "Carbunco por inhalación", "Carbunco ocular"],
+    "respuesta": "Carbunco cutáneo"
+  },
+  {
+    "pregunta": "¿Cómo comienza el carbunco cutáneo en los humanos?",
+    "opciones": ["Como una úlcera dolorosa", "Como una pápula indolora", "Como un dolor muscular generalizado", "Con fiebre y sudoración"],
+    "respuesta": "Como una pápula indolora"
+  },
+  {
+    "pregunta": "¿Qué característica es común en las úlceras del carbunco cutáneo?",
+    "opciones": ["Escara negra", "Costra amarilla", "Formación de ampollas", "Enrojecimiento local"],
+    "respuesta": "Escara negra"
+  },
+  {
+    "pregunta": "¿Qué síntomas presenta el carbunco por inhalación en sus primeras etapas?",
+    "opciones": ["Dolor abdominal", "Síntomas gripales", "Dolor en el pecho", "Cianosis severa"],
+    "respuesta": "Síntomas gripales"
+  },
+  {
+    "pregunta": "¿Cuál es la complicación más grave del carbunco por inhalación?",
+    "opciones": ["Edema en los pulmones", "Sepsis de rápida aparición", "Pérdida de visión", "Deshidratación severa"],
+    "respuesta": "Sepsis de rápida aparición"
+  },
+  {
+    "pregunta": "¿Qué manifestación clínica está asociada al carbunco digestivo?",
+    "opciones": ["Úlceras en la piel", "Edema en el cuello", "Úlceras en el esófago y intestino", "Dolor abdominal grave"],
+    "respuesta": "Úlceras en el esófago y intestino"
+  },
+  {
+    "pregunta": "¿Cómo se describen las colonias de Bacillus anthracis en un cultivo en agar sangre?",
+    "opciones": ["Pequeñas y hemolíticas", "Grandes, grisáceas y no hemolíticas", "Pequeñas y hemolíticas con borde regular", "Grandes y de color amarillo"],
+    "respuesta": "Grandes, grisáceas y no hemolíticas"
+  },
+  {
+    "pregunta": "¿Cómo se presentan los bacilos de Bacillus anthracis bajo examen microscópico?",
+    "opciones": ["Cocos grampositivos", "Bacilos gramnegativos", "Bacilos grampositivos delgados y largos", "Bacilos grampositivos gruesos y cortos"],
+    "respuesta": "Bacilos grampositivos delgados y largos"
+  },
+  {
+    "pregunta": "¿En qué condiciones se identifican las esporas de Bacillus anthracis en los cultivos?",
+    "opciones": ["En muestras clínicas", "En cultivos incubados en atmósfera con CO₂", "En cultivos incubados en atmósfera pobre en CO₂", "En cultivos en medios líquidos"],
+    "respuesta": "En cultivos incubados en atmósfera pobre en CO₂"
+  },
+  {
+    "pregunta": "¿Cuál es el antibiótico de primera línea para el tratamiento de Bacillus anthracis?",
+    "opciones": ["Ciprofloxacino o doxiciclina", "Penicilina", "Rifampicina", "Vancomicina"],
+    "respuesta": "Ciprofloxacino o doxiciclina"
+  },
+  {
+    "pregunta": "¿Qué se recomienda en el tratamiento de Bacillus anthracis además de la primera línea de antibióticos?",
+    "opciones": ["No se recomienda ninguna terapia adicional", "Combinar con uno o dos antibióticos adicionales", "Usar solo antibióticos orales", "Aplicar solo terapia tópica"],
+    "respuesta": "Combinar con uno o dos antibióticos adicionales"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes antibióticos es una opción adicional para tratar Bacillus anthracis?",
+    "opciones": ["Clindamicina", "Aciclovir", "Amoxicilina", "Ciprofloxacino"],
+    "respuesta": "Clindamicina"
+  },
+  {
+    "pregunta": "¿A qué antibióticos se ha observado resistencia en Bacillus anthracis?",
+    "opciones": ["Ciprofloxacino y doxiciclina", "Penicilina, sulfamidas y cefalosporinas de espectro extendido", "Vancomicina y rifampicina", "Imipenem y claritromicina"],
+    "respuesta": "Penicilina, sulfamidas y cefalosporinas de espectro extendido"
+  },
+  {
+    "pregunta": "¿Qué estrategia se recomienda para el control de Bacillus anthracis en animales?",
+    "opciones": ["Inmunización del ganado en regiones endémicas", "Inmunización masiva de animales en zonas urbanas", "Cuarentena de animales importados", "Destrucción de todas las vacunas"],
+    "respuesta": "Inmunización del ganado en regiones endémicas"
+  },
+  {
+    "pregunta": "¿Qué medida se debe tomar con los cadáveres de animales muertos por carbunco?",
+    "opciones": ["Enterrarlos en zanjas comunes", "Incinerarlos o enterrarlos", "Dejarlos en el campo para descomposición", "Esterilizarlos en autoclave"],
+    "respuesta": "Incinerarlos o enterrarlos"
+  },
+  {
+    "pregunta": "¿Qué tipo de vigilancia es importante en áreas de riesgo de Bacillus anthracis?",
+    "opciones": ["Monitoreo continuo", "Vigilancia solo en hospitales", "Vigilancia de la población por medios de comunicación", "Monitoreo en zonas urbanas"],
+    "respuesta": "Monitoreo continuo"
+  },
+  {
+    "pregunta": "¿Qué regulación se implementa para el control de Bacillus anthracis en productos animales?",
+    "opciones": ["Control de productos animales importados de zonas endémicas", "Restricción de productos animales locales", "Prohibición de carne de animales locales", "Examen obligatorio de todas las carnes en el mercado"],
+    "respuesta": "Control de productos animales importados de zonas endémicas"
+  },
+  {
+    "pregunta": "¿Para qué población está disponible la vacuna acelular contra Bacillus anthracis?",
+    "opciones": ["Solo para niños menores de 5 años", "Poblaciones en riesgo y personal militar", "Solo para veterinarios", "Para todas las personas en zonas endémicas"],
+    "respuesta": "Poblaciones en riesgo y personal militar"
+  },
+  {
+    "pregunta": "¿Quiénes deberían recibir la vacuna contra Bacillus anthracis en zonas endémicas?",
+    "opciones": ["Los turistas", "Los residentes y trabajadores en estas áreas", "Solo los niños menores de 5 años", "Solo los soldados"],
+    "respuesta": "Los residentes y trabajadores en estas áreas"
+  },
+  {
+    "pregunta": "¿Qué tipo de exposición laboral requiere protección contra Bacillus anthracis?",
+    "opciones": ["Exposición a químicos industriales", "Exposición a productos animales importados", "Exposición a ratas", "Exposición a trabajadores de la salud"],
+    "respuesta": "Exposición a productos animales importados"
+  },
+  {
+    "pregunta": "¿Quiénes deben ser inmunizados preventivamente contra Bacillus anthracis en el ámbito laboral?",
+    "opciones": ["Trabajadores de la construcción", "Personal militar", "Empleados en tiendas de animales", "Agricultores"],
+    "respuesta": "Personal militar"
+  },
+  {
+    "pregunta": "¿Por qué Bacillus anthracis es considerado un agente de bioterrorismo?",
+    "opciones": ["Porque es fácil de cultivar en grandes cantidades", "Porque es altamente infeccioso", "Porque es rápidamente letal en todos los casos", "Porque afecta principalmente a la piel"],
+    "respuesta": "Porque es fácil de cultivar en grandes cantidades"
+  },
+  {
+    "pregunta": "¿Qué característica de las esporas de Bacillus anthracis contribuye a su potencial de bioterrorismo?",
+    "opciones": ["Baja resistencia a condiciones ambientales", "Alta resistencia a condiciones ambientales adversas", "Alta tasa de mutación", "Alta tasa de reproducción en el aire"],
+    "respuesta": "Alta resistencia a condiciones ambientales adversas"
+  },
+  {
+    "pregunta": "¿Cómo se puede diseminar Bacillus anthracis para causar un brote amplio?",
+    "opciones": ["Por contacto directo con animales infectados", "En aerosol para amplia distribución", "A través del agua potable", "Por medios de transporte no controlados"],
+    "respuesta": "En aerosol para amplia distribución"
+  },
+  {
+    "pregunta": "¿Qué medida es esencial para el control del carbunco en áreas endémicas?",
+    "opciones": ["Educación a la población", "Vacunación del ganado", "Destrucción de todas las plantas", "Cuarentena de todos los animales"],
+    "respuesta": "Vacunación del ganado"
+  },
+  {
+    "pregunta": "¿Cuál es el principal factor que hace a Bacillus anthracis un riesgo para la seguridad nacional?",
+    "opciones": ["Su capacidad para producir esporas resistentes", "Su alta mortalidad", "Su facilidad de transmisión por contacto directo", "Su capacidad para causar epidemias en humanos"],
+    "respuesta": "Su capacidad para producir esporas resistentes"
+  },
+  {
+    "pregunta": "¿Qué medida se recomienda en la prevención de Bacillus anthracis para el personal militar?",
+    "opciones": ["Evitar el contacto con animales", "Vacunación preventiva", "Uso de guantes de látex", "Monitoreo constante de salud"],
+    "respuesta": "Vacunación preventiva"
+  }
+]

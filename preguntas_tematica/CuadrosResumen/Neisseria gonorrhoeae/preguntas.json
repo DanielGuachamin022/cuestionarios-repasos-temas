@@ -1,0 +1,222 @@
+[
+  {
+    "pregunta": "¿Cómo se disponen los cocos gramnegativos aerobios de Neisseria?",
+    "opciones": ["En cadenas", "En parejas", "En racimos", "En esporas"],
+    "respuesta": "En parejas"
+  },
+  {
+    "pregunta": "¿Qué forma tienen los cocos gramnegativos de Neisseria?",
+    "opciones": ["Esférica", "Cilíndrica", "De grano de café", "Alargada"],
+    "respuesta": "De grano de café"
+  },
+  {
+    "pregunta": "¿Qué características bioquímicas presentan los cocos de Neisseria?",
+    "opciones": ["Oxidasa-negativos y catalasa-negativos", "Oxidasa-positivos y catalasa-positivos", "Oxidasa-positivos y catalasa-negativos", "Oxidasa-negativos y catalasa-positivos"],
+    "respuesta": "Oxidasa-positivos y catalasa-positivos"
+  },
+  {
+    "pregunta": "¿Qué técnica se utiliza para identificar especies de Neisseria?",
+    "opciones": ["PCR", "Espectrometría de masas", "Cultivo en medio sólido", "Microscopía electrónica"],
+    "respuesta": "Espectrometría de masas"
+  },
+  {
+    "pregunta": "¿Qué nutrientes son esenciales para el crecimiento de Neisseria?",
+    "opciones": ["Glucosa y sal", "Cistina y glucosa", "Piruvato y lactato", "Cistina y fuente de energía"],
+    "respuesta": "Cistina y fuente de energía"
+  },
+  {
+    "pregunta": "¿En qué tipo de medio crece Neisseria?",
+    "opciones": ["Agar maconkey", "Agar chocolate y medios enriquecidos", "Agar sabouraud", "Agar sangre"],
+    "respuesta": "Agar chocolate y medios enriquecidos"
+  },
+  {
+    "pregunta": "¿A qué temperatura óptima crece Neisseria?",
+    "opciones": ["25°C", "30°C", "35-37°C", "40°C"],
+    "respuesta": "35-37°C"
+  },
+  {
+    "pregunta": "¿Qué tipo de atmósfera requiere Neisseria para crecer?",
+    "opciones": ["Sin oxígeno", "Con 5% de CO₂", "Con 10% de oxígeno", "Con 20% de oxígeno"],
+    "respuesta": "Con 5% de CO₂"
+  },
+  {
+    "pregunta": "¿Qué función tienen los pili en los gonococos de Neisseria?",
+    "opciones": ["Formación de esporas", "Adhesión y transferencia genética", "Destrucción de células", "Replicación celular"],
+    "respuesta": "Adhesión y transferencia genética"
+  },
+  {
+    "pregunta": "¿Qué hacen las proteínas PorA y PorB en Neisseria?",
+    "opciones": ["Promueven la fagocitosis", "Interfieren en la desgranulación de neutrófilos", "Favorecen la replicación", "Inhiben la producción de ácido"],
+    "respuesta": "Interfieren en la desgranulación de neutrófilos"
+  },
+  {
+    "pregunta": "¿Qué función tienen las proteínas Opa en Neisseria?",
+    "opciones": ["Bloquean la respuesta inmune", "Inhiben la adhesión a células epiteliales", "Unen a células epiteliales y fagocíticas", "Destruyen la membrana celular"],
+    "respuesta": "Unen a células epiteliales y fagocíticas"
+  },
+  {
+    "pregunta": "¿Qué estimulan las proteínas Rmp de Neisseria?",
+    "opciones": ["Respuesta inflamatoria", "Fagocitosis", "Producción de anticuerpos bloqueantes", "Liberación de TNF-α"],
+    "respuesta": "Producción de anticuerpos bloqueantes"
+  },
+  {
+    "pregunta": "¿Cómo se adhieren los gonococos a las células mucosas?",
+    "opciones": ["Por su cápsula", "Mediante pili y proteínas de superficie", "Por difusión", "Por intercambio genético"],
+    "respuesta": "Mediante pili y proteínas de superficie"
+  },
+  {
+    "pregunta": "¿Cómo penetran los gonococos en las células epiteliales?",
+    "opciones": ["Por exocitosis", "Mediante proteínas PorB y Opa", "Por endocitosis", "Por acción de cistina"],
+    "respuesta": "Mediante proteínas PorB y Opa"
+  },
+  {
+    "pregunta": "¿Qué ocurre después de que los gonococos penetran en las células epiteliales?",
+    "opciones": ["Se multiplican en el espacio subepitelial", "Mueren en el interior celular", "Son expulsados por las células", "Generan una cápsula"],
+    "respuesta": "Se multiplican en el espacio subepitelial"
+  },
+  {
+    "pregunta": "¿Qué sustancia estimula la respuesta inflamatoria en las infecciones por Neisseria?",
+    "opciones": ["Acido láctico", "LOS", "ATP", "Glucosa"],
+    "respuesta": "LOS"
+  },
+  {
+    "pregunta": "¿Cuál es el reservorio exclusivo de Neisseria gonorrhoeae?",
+    "opciones": ["Animales", "El agua", "El aire", "El ser humano"],
+    "respuesta": "El ser humano"
+  },
+  {
+    "pregunta": "¿Cuál es la segunda enfermedad de transmisión sexual más frecuente en Estados Unidos?",
+    "opciones": ["Sífilis", "Clamidia", "Gonorrea", "Herpes genital"],
+    "respuesta": "Gonorrea"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de mujeres infectadas con Neisseria gonorrhoeae son portadoras asintomáticas?",
+    "opciones": ["25%", "50%", "75%", "10%"],
+    "respuesta": "50%"
+  },
+  {
+    "pregunta": "¿Cuál es la edad de mayor incidencia de gonorrea?",
+    "opciones": ["30-40 años", "15-24 años", "25-35 años", "10-20 años"],
+    "respuesta": "15-24 años"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de probabilidad tienen las mujeres de infectarse tras un único contacto sexual con un hombre infectado?",
+    "opciones": ["10%", "50%", "70%", "90%"],
+    "respuesta": "50%"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de probabilidad tienen los hombres de infectarse tras un único contacto sexual con una mujer infectada?",
+    "opciones": ["5%", "10%", "20%", "50%"],
+    "respuesta": "20%"
+  },
+  {
+    "pregunta": "¿Por qué vía se transmite principalmente la gonorrea?",
+    "opciones": ["Aérea", "Por agua", "Por contacto sexual", "Por contacto de piel"],
+    "respuesta": "Por contacto sexual"
+  },
+  {
+    "pregunta": "¿Cuál es el período de incubación de la gonorrea en hombres?",
+    "opciones": ["1-2 días", "2-5 días", "5-7 días", "7-10 días"],
+    "respuesta": "2-5 días"
+  },
+  {
+    "pregunta": "¿Cuáles son los síntomas agudos más comunes de la gonorrea en hombres?",
+    "opciones": ["Fiebre y dolor abdominal", "Exudado uretral purulento y disuria", "Dolor en las articulaciones", "Faringitis y dolor de garganta"],
+    "respuesta": "Exudado uretral purulento y disuria"
+  },
+  {
+    "pregunta": "¿Qué complicaciones pueden surgir en los hombres infectados por gonorrea?",
+    "opciones": ["Epididimitis, prostatitis y abscesos periuretrales", "Faringitis y conjuntivitis", "Infertilidad y salpingitis", "Artritis y dermatitis"],
+    "respuesta": "Epididimitis, prostatitis y abscesos periuretrales"
+  },
+  {
+    "pregunta": "¿En qué parte del cuerpo se localiza principalmente la gonorrea en mujeres?",
+    "opciones": ["Vagina", "Cuello uterino (endocérvix)", "Vejiga", "Trompas de Falopio"],
+    "respuesta": "Cuello uterino (endocérvix)"
+  },
+  {
+    "pregunta": "¿Cuáles son los síntomas más comunes de la gonorrea en mujeres?",
+    "opciones": ["Flujo vaginal, disuria y dolor abdominal", "Fiebre y vómitos", "Artralgia y exantema", "Dolor de cabeza y secreción ocular"],
+    "respuesta": "Flujo vaginal, disuria y dolor abdominal"
+  },
+  {
+    "pregunta": "¿Qué complicaciones pueden surgir en mujeres infectadas con gonorrea?",
+    "opciones": ["Salpingitis, EPI, infertilidad", "Conjuntivitis y faringitis", "Artritis y dermatitis", "Cáncer cervical"],
+    "respuesta": "Salpingitis, EPI, infertilidad"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de mujeres infectadas por gonorrea desarrollan gonococcemia?",
+    "opciones": ["Menos del 1%", "1-3%", "10-20%", "30-50%"],
+    "respuesta": "1-3%"
+  },
+  {
+    "pregunta": "¿Cuáles son los síntomas característicos de la gonococcemia?",
+    "opciones": ["Fiebre, artralgias migratorias y exantema pustular", "Dolor abdominal y secreción uretral", "Disuria y dolor pelvico", "Vómitos y diarrea"],
+    "respuesta": "Fiebre, artralgias migratorias y exantema pustular"
+  },
+  {
+    "pregunta": "¿Qué es la oftalmía neonatorum?",
+    "opciones": ["Artritis en recién nacidos", "Conjuntivitis purulenta en recién nacidos", "Infección urinaria", "Enfermedad pulmonar"],
+    "respuesta": "Conjuntivitis purulenta en recién nacidos"
+  },
+  {
+    "pregunta": "¿Qué es la artritis gonocócica?",
+    "opciones": ["Infección en las vías urinarias", "Infección del sistema nervioso central", "Causa importante de artritis purulenta en adultos", "Infección ocular"],
+    "respuesta": "Causa importante de artritis purulenta en adultos"
+  },
+  {
+    "pregunta": "¿Qué prueba se considera el patrón oro para el diagnóstico de gonorrea?",
+    "opciones": ["Prueba de cultivo", "Prueba de amplificación de ácidos nucleicos (NAAT)", "Prueba de sensibilidad antibiótica", "Análisis de orina"],
+    "respuesta": "Prueba de amplificación de ácidos nucleicos (NAAT)"
+  },
+  {
+    "pregunta": "¿Cuánto tiempo tarda en obtenerse el resultado de una prueba NAAT para gonorrea?",
+    "opciones": ["1-2 horas", "24 horas", "1-3 días", "5-7 días"],
+    "respuesta": "1-2 horas"
+  },
+  {
+    "pregunta": "¿Cuál es una de las ventajas de las pruebas NAAT para gonorrea?",
+    "opciones": ["Alta sensibilidad y especificidad", "Resultados más lentos", "Baja sensibilidad", "Requieren cultivos adicionales"],
+    "respuesta": "Alta sensibilidad y especificidad"
+  },
+  {
+    "pregunta": "¿Qué limitación tienen las pruebas NAAT para gonorrea?",
+    "opciones": ["No permiten monitorizar la resistencia antibiótica", "Son poco precisas", "Requieren muestras complicadas", "No detectan todas las cepas de Neisseria"],
+    "respuesta": "No permiten monitorizar la resistencia antibiótica"
+  },
+  {
+    "pregunta": "¿En qué tipo de medio se debe cultivar la gonorrea para obtener buenos resultados?",
+    "opciones": ["Agar MacConkey", "Medios selectivos como Thayer-Martin modificado", "Agar sabouraud", "Medios líquidos"],
+    "respuesta": "Medios selectivos como Thayer-Martin modificado"
+  },
+  {
+    "pregunta": "¿Qué antibióticos se recomiendan actualmente para el tratamiento de la gonorrea?",
+    "opciones": ["Ceftriaxona y azitromicina", "Penicilina y tetraciclina", "Ciprofloxacino y azitromicina", "Amoxicilina y ampicilina"],
+    "respuesta": "Ceftriaxona y azitromicina"
+  },
+  {
+    "pregunta": "¿Qué resistencia antimicrobiana está emergiendo en Neisseria gonorrhoeae?",
+    "opciones": ["Resistencia a la penicilina", "Resistencia a la ceftriaxona y azitromicina", "Resistencia a las tetraciclinas", "Resistencia a los macrólidos"],
+    "respuesta": "Resistencia a la ceftriaxona y azitromicina"
+  },
+  {
+    "pregunta": "¿Qué tratamiento profiláctico se utiliza para prevenir la oftalmía neonatorum?",
+    "opciones": ["Vacuna contra la gonorrea", "Antibióticos orales", "Nitrato de plata 1% o pomadas con tetraciclina", "Antiinflamatorios"],
+    "respuesta": "Nitrato de plata 1% o pomadas con tetraciclina"
+  },
+  {
+    "pregunta": "¿Cuál es una de las estrategias clave para el control de la gonorrea?",
+    "opciones": ["Educación, detección precoz y seguimiento de contactos sexuales", "Uso de cremas antivirales", "Aislamiento de pacientes infectados", "Quimioterapia masiva"],
+    "respuesta": "Educación, detección precoz y seguimiento de contactos sexuales"
+  },
+  {
+    "pregunta": "¿Está disponible una vacuna contra la gonorrea?",
+    "opciones": ["Sí, desde 2015", "No, no hay vacuna disponible", "Sí, en algunos países", "Sí, en forma de vacuna nasal"],
+    "respuesta": "No, no hay vacuna disponible"
+  },
+  {
+    "pregunta": "¿Qué medida puede ayudar a prevenir la gonorrea en recién nacidos?",
+    "opciones": ["Vacunación", "Uso de pomadas con antibióticos", "Tratamiento con ceftriaxona", "Inmunización prenatal"],
+    "respuesta": "Uso de pomadas con antibióticos"
+  }
+]

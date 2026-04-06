@@ -1,0 +1,672 @@
+[
+  {
+    "pregunta": "¿Cuál es el nombre genérico de la Penicilina G?",
+    "opciones": ["Penicilina G (bencilpenicilina)", "Amoxicilina", "Ceftriaxona", "Penicilina V"],
+    "respuesta": "Penicilina G (bencilpenicilina)"
+  },
+  {
+    "pregunta": "¿Cuál es una vía de administración de la Penicilina G benzatina?",
+    "opciones": ["Oral", "Intramuscular", "Subcutánea", "Tópica"],
+    "respuesta": "Intramuscular"
+  },
+  {
+    "pregunta": "¿Cuál es el mecanismo de acción de la Penicilina G?",
+    "opciones": [
+      "Inhibición de la síntesis de proteínas bacterianas",
+      "Alteración del ADN bacteriano",
+      "Inhibición de la síntesis de la pared celular bacteriana",
+      "Desnaturalización de enzimas bacterianas"
+    ],
+    "respuesta": "Inhibición de la síntesis de la pared celular bacteriana"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es una indicación de uso de la Penicilina G?",
+    "opciones": [
+      "Infecciones por cocos grampositivos sensibles",
+      "Faringitis viral",
+      "Infecciones micóticas",
+      "Hepatitis viral"
+    ],
+    "respuesta": "Infecciones por cocos grampositivos sensibles"
+  },
+  {
+    "pregunta": "¿Cuál es una contraindicación para el uso de Penicilina G?",
+    "opciones": [
+      "Diabetes mellitus",
+      "Hipersensibilidad a penicilinas",
+      "Hipertensión arterial",
+      "Insuficiencia renal leve"
+    ],
+    "respuesta": "Hipersensibilidad a penicilinas"
+  },
+  {
+    "pregunta": "¿Cuál es un efecto adverso posible de la Penicilina G?",
+    "opciones": [
+      "Anemia hemolítica crónica",
+      "Reacciones alérgicas como anafilaxia",
+      "Cáncer hepático",
+      "Hipoglucemia severa"
+    ],
+    "respuesta": "Reacciones alérgicas como anafilaxia"
+  },
+  {
+    "pregunta": "¿Qué debe evitarse al administrar Penicilina G junto con aminoglucósidos?",
+    "opciones": [
+      "Mezclarlos en la misma línea si no son compatibles físicamente",
+      "Administrarlos por vía oral",
+      "Refrigerarlos antes de mezclar",
+      "Administrarlos a pacientes hipertensos"
+    ],
+    "respuesta": "Mezclarlos en la misma línea si no son compatibles físicamente"
+  },
+  {
+    "pregunta": "¿Cuál es la presentación común de la Penicilina G para uso inyectable?",
+    "opciones": [
+      "Tabletas masticables",
+      "Viales de polvo para solución inyectable",
+      "Jarabe oral",
+      "Aerosol nasal"
+    ],
+    "respuesta": "Viales de polvo para solución inyectable"
+  },
+  {
+    "pregunta": "¿Qué tipo de acción tiene la Penicilina G?",
+    "opciones": [
+      "Viricida",
+      "Fungicida",
+      "Bactericida dependiente del tiempo",
+      "Estática e independiente del tiempo"
+    ],
+    "respuesta": "Bactericida dependiente del tiempo"
+  },
+  {
+    "pregunta": "¿Cuál es un cuidado de enfermería importante al administrar Penicilina G intravenosa?",
+    "opciones": [
+      "Mezclarla con aminoglucósidos en la misma jeringa",
+      "Administrarla rápidamente sin diluir",
+      "Usar solución salina o glucosada según prospecto",
+      "Inyectarla sin necesidad de reconstituir"
+    ],
+    "respuesta": "Usar solución salina o glucosada según prospecto"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre genérico del medicamento Ampicilina/Sulbactam Netpharmalab?",
+    "opciones": ["Ampicilina + Sulbactam", "Amoxicilina + Ácido clavulánico", "Ceftriaxona + Sulbactam", "Penicilina + Clavulanato"],
+    "respuesta": "Ampicilina + Sulbactam"
+  },
+  {
+    "pregunta": "¿Qué vías de administración se utilizan para la Ampicilina/Sulbactam?",
+    "opciones": ["Oral y subcutánea", "Intravenosa e intramuscular", "Tópica y oral", "Sublingual e intranasal"],
+    "respuesta": "Intravenosa e intramuscular"
+  },
+  {
+    "pregunta": "¿Cuál es la función del Sulbactam en la combinación con Ampicilina?",
+    "opciones": ["Aumentar la absorción oral", "Inhibir las β-lactamasas bacterianas", "Disminuir la toxicidad del fármaco", "Reforzar la acción hepática del medicamento"],
+    "respuesta": "Inhibir las β-lactamasas bacterianas"
+  },
+  {
+    "pregunta": "¿Qué tipo de infecciones están indicadas para el uso de Ampicilina/Sulbactam?",
+    "opciones": ["Solo infecciones virales", "Infecciones por microorganismos sensibles, incluyendo respiratorias, urinarias, de piel y sepsis", "Enfermedades autoinmunes", "Enfermedades degenerativas"],
+    "respuesta": "Infecciones por microorganismos sensibles, incluyendo respiratorias, urinarias, de piel y sepsis"
+  },
+  {
+    "pregunta": "¿Cuál es una contraindicación importante para el uso de Ampicilina/Sulbactam?",
+    "opciones": ["Tensión arterial alta", "Hipersensibilidad a penicilinas", "Diabetes tipo 2", "Tabaquismo activo"],
+    "respuesta": "Hipersensibilidad a penicilinas"
+  },
+  {
+    "pregunta": "¿Qué efecto adverso grave puede causar Ampicilina/Sulbactam?",
+    "opciones": ["Hipotermia", "Anemia falciforme", "Anafilaxia", "Hipoglucemia severa"],
+    "respuesta": "Anafilaxia"
+  },
+  {
+    "pregunta": "¿Con qué soluciones se puede diluir Ampicilina/Sulbactam para administración intravenosa?",
+    "opciones": ["Solución salina 0.9% o glucosa al 5%", "Agua destilada", "Lidocaína al 2%", "Solución Ringer lactato exclusivamente"],
+    "respuesta": "Solución salina 0.9% o glucosa al 5%"
+  },
+  {
+    "pregunta": "¿Cuál es el tiempo habitual de perfusión intravenosa de Ampicilina/Sulbactam?",
+    "opciones": ["5–10 minutos", "15–30 minutos", "1–2 horas", "Más de 3 horas"],
+    "respuesta": "15–30 minutos"
+  },
+  {
+    "pregunta": "¿Qué cuidados de conservación se deben tener con Ampicilina/Sulbactam una vez reconstituido?",
+    "opciones": ["Usar de inmediato o conservar refrigerado según el prospecto", "Dejar a temperatura ambiente por más de 48 horas", "Congelar para mantener su potencia", "Exponer a la luz para mejorar su estabilidad"],
+    "respuesta": "Usar de inmediato o conservar refrigerado según el prospecto"
+  },
+  {
+    "pregunta": "¿Cuál es el mecanismo de acción conjunto de la Ampicilina con el Sulbactam?",
+    "opciones": ["Inhibición de la síntesis proteica", "Inhibición de la síntesis de la pared celular y protección frente a β-lactamasas", "Interferencia con el metabolismo del ácido fólico", "Bloqueo de los canales de calcio bacterianos"],
+    "respuesta": "Inhibición de la síntesis de la pared celular y protección frente a β-lactamasas"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre genérico del medicamento Tazocin?",
+    "opciones": ["Piperacilina + Tazobactam", "Amoxicilina + Ácido clavulánico", "Ceftriaxona", "Meropenem"],
+    "respuesta": "Piperacilina + Tazobactam"
+  },
+  {
+    "pregunta": "¿Cuál es la vía de administración de Piperacilina/Tazobactam?",
+    "opciones": ["Oral", "Intramuscular", "Intravenosa", "Subcutánea"],
+    "respuesta": "Intravenosa"
+  },
+  {
+    "pregunta": "¿Qué tipo de fármaco es Piperacilina?",
+    "opciones": [
+      "Inhibidor de la β-lactamasa",
+      "Antibiótico que inhibe la pared celular bacteriana",
+      "Antimicótico",
+      "Inhibidor de la síntesis proteica"
+    ],
+    "respuesta": "Antibiótico que inhibe la pared celular bacteriana"
+  },
+  {
+    "pregunta": "¿Qué función cumple el Tazobactam en la combinación con Piperacilina?",
+    "opciones": [
+      "Inhibe la síntesis de proteínas",
+      "Aumenta la absorción del fármaco",
+      "Inhibe β-lactamasas que inactivan el antibiótico",
+      "Estimula la respuesta inmune"
+    ],
+    "respuesta": "Inhibe β-lactamasas que inactivan el antibiótico"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es una indicación de Piperacilina/Tazobactam?",
+    "opciones": [
+      "Infecciones virales leves",
+      "Neumonía nosocomial",
+      "Profilaxis preoperatoria de rutina",
+      "Dolor neuropático"
+    ],
+    "respuesta": "Neumonía nosocomial"
+  },
+  {
+    "pregunta": "¿Cuál es una contraindicación del uso de Piperacilina/Tazobactam?",
+    "opciones": [
+      "Insuficiencia renal leve",
+      "Hipersensibilidad a penicilinas",
+      "Hipertensión arterial",
+      "Diabetes mellitus"
+    ],
+    "respuesta": "Hipersensibilidad a penicilinas"
+  },
+  {
+    "pregunta": "Uno de los efectos adversos posibles de Piperacilina/Tazobactam en tratamientos prolongados es:",
+    "opciones": [
+      "Trombocitopenia",
+      "Hipoglucemia",
+      "Hipocalcemia",
+      "Bradicardia"
+    ],
+    "respuesta": "Trombocitopenia"
+  },
+  {
+    "pregunta": "¿Cuál es el tiempo habitual de administración por perfusión intravenosa de Piperacilina/Tazobactam?",
+    "opciones": ["5 minutos", "10 minutos", "20–30 minutos", "1 hora"],
+    "respuesta": "20–30 minutos"
+  },
+  {
+    "pregunta": "¿Con qué soluciones es compatible Piperacilina/Tazobactam para perfusión?",
+    "opciones": [
+      "Agua destilada",
+      "Solución salina 0.9% o glucosa 5%",
+      "Bicarbonato de sodio",
+      "Suero Ringer lactato exclusivamente"
+    ],
+    "respuesta": "Solución salina 0.9% o glucosa 5%"
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si se desconoce la compatibilidad de Piperacilina/Tazobactam con otras drogas en la misma línea intravenosa?",
+    "opciones": [
+      "Administrar igual",
+      "Diluir con más solución",
+      "Usar líneas separadas",
+      "Aumentar el tiempo de infusión"
+    ],
+    "respuesta": "Usar líneas separadas"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre genérico del medicamento Zefosolina?",
+    "opciones": ["Cefazolina", "Cefalexina", "Ceftriaxona", "Cefuroxima"],
+    "respuesta": "Cefazolina"
+  },
+  {
+    "pregunta": "¿Cuál es la forma farmacéutica en que se presenta la cefazolina?",
+    "opciones": ["Tabletas orales", "Jarabe", "Polvo para solución inyectable", "Supositorios"],
+    "respuesta": "Polvo para solución inyectable"
+  },
+  {
+    "pregunta": "¿Por qué vías se administra la cefazolina?",
+    "opciones": ["Oral e intramuscular", "Intravenosa e intramuscular", "Oral y subcutánea", "Subcutánea e intradérmica"],
+    "respuesta": "Intravenosa e intramuscular"
+  },
+  {
+    "pregunta": "¿Cuál es el mecanismo de acción de la cefazolina?",
+    "opciones": [
+      "Inhibe la síntesis de proteínas bacterianas a nivel ribosomal",
+      "Interfiere con la síntesis del ADN bacteriano",
+      "Bloquea la transpeptidación del peptidoglucano en la pared celular bacteriana",
+      "Aumenta la permeabilidad de la membrana citoplasmática"
+    ],
+    "respuesta": "Bloquea la transpeptidación del peptidoglucano en la pared celular bacteriana"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una indicación de la cefazolina?",
+    "opciones": [
+      "Infecciones urinarias",
+      "Profilaxis quirúrgica",
+      "Infecciones osteoarticulares",
+      "Tratamiento de infecciones virales"
+    ],
+    "respuesta": "Tratamiento de infecciones virales"
+  },
+  {
+    "pregunta": "¿Qué precaución debe tenerse en pacientes con alergia grave a penicilinas?",
+    "opciones": [
+      "Administrar sin problema",
+      "Suspender cualquier otro antibiótico",
+      "Precaución por posible reactividad cruzada",
+      "No es necesario tomar precauciones"
+    ],
+    "respuesta": "Precaución por posible reactividad cruzada"
+  },
+  {
+    "pregunta": "¿Cuál es un efecto adverso posible de la cefazolina?",
+    "opciones": [
+      "Reacciones alérgicas y diarrea asociada a antibióticos",
+      "Hipoglucemia y somnolencia",
+      "Anemia hemolítica y confusión",
+      "Aumento del apetito y náuseas leves"
+    ],
+    "respuesta": "Reacciones alérgicas y diarrea asociada a antibióticos"
+  },
+  {
+    "pregunta": "¿En qué soluciones puede diluirse la cefazolina para administración intravenosa?",
+    "opciones": [
+      "En solución salina 0.9% o glucosa 5%",
+      "En agua destilada o alcohol etílico",
+      "Solo en agua para inyección",
+      "En suero Ringer lactato exclusivamente"
+    ],
+    "respuesta": "En solución salina 0.9% o glucosa 5%"
+  },
+  {
+    "pregunta": "¿Cuál es el tiempo aproximado de administración por perfusión intravenosa de cefazolina?",
+    "opciones": ["1–2 minutos", "5–10 minutos", "15–30 minutos", "60–90 minutos"],
+    "respuesta": "15–30 minutos"
+  },
+  {
+    "pregunta": "¿Qué debe hacerse para conservar adecuadamente los viales de cefazolina?",
+    "opciones": [
+      "Mantenerlos secos y protegidos de la luz, respetando tiempos de estabilidad tras reconstitución",
+      "Guardarlos a temperatura ambiente sin importar la luz",
+      "Congelarlos para prolongar su vida útil",
+      "Dejarlos destapados para evitar presión interna"
+    ],
+    "respuesta": "Mantenerlos secos y protegidos de la luz, respetando tiempos de estabilidad tras reconstitución"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre genérico del medicamento Zefurozima?",
+    "opciones": ["Cefalexina", "Cefuroxima", "Ceftriaxona", "Amoxicilina"],
+    "respuesta": "Cefuroxima"
+  },
+  {
+    "pregunta": "¿Cuál es la vía de administración de la Cefuroxima?",
+    "opciones": ["Oral y sublingual", "Intramuscular e intravenosa", "Tópica y nasal", "Rectal e inhalatoria"],
+    "respuesta": "Intramuscular e intravenosa"
+  },
+  {
+    "pregunta": "¿Cuál es el mecanismo de acción de la Cefuroxima?",
+    "opciones": [
+      "Inhibe la síntesis proteica a nivel ribosomal",
+      "Bloquea canales de calcio en la membrana bacteriana",
+      "Interfiere con la síntesis del peptidoglucano en la pared bacteriana",
+      "Inhibe la replicación del ADN bacteriano"
+    ],
+    "respuesta": "Interfiere con la síntesis del peptidoglucano en la pared bacteriana"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una indicación de la Cefuroxima?",
+    "opciones": ["Infecciones urinarias", "Profilaxis quirúrgica", "Epilepsia", "Enfermedad de Lyme en fases iniciales"],
+    "respuesta": "Epilepsia"
+  },
+  {
+    "pregunta": "¿Cuál es una contraindicación para el uso de Cefuroxima?",
+    "opciones": [
+      "Hipotiroidismo",
+      "Hipersensibilidad a cefalosporinas",
+      "Diabetes mellitus",
+      "Anemia ferropénica"
+    ],
+    "respuesta": "Hipersensibilidad a cefalosporinas"
+  },
+  {
+    "pregunta": "¿Qué efecto adverso puede provocar la Cefuroxima?",
+    "opciones": ["Bradicardia", "Hipoglucemia", "Reacciones alérgicas", "Somnolencia intensa"],
+    "respuesta": "Reacciones alérgicas"
+  },
+  {
+    "pregunta": "¿Con qué soluciones se puede diluir la Cefuroxima para administración intravenosa?",
+    "opciones": ["SF 0.45% o glucosa 10%", "SF 0.9% o glucosa 5%", "Agua destilada o suero Ringer", "Ninguna, se administra en seco"],
+    "respuesta": "SF 0.9% o glucosa 5%"
+  },
+  {
+    "pregunta": "¿Con qué frecuencia se puede administrar la Cefuroxima según indicación clínica?",
+    "opciones": ["Cada 24 horas", "Cada 6 horas", "Cada 8 horas", "Una vez a la semana"],
+    "respuesta": "Cada 8 horas"
+  },
+  {
+    "pregunta": "¿Qué tipo de microorganismos son más sensibles a la Cefuroxima?",
+    "opciones": [
+      "Virus y hongos",
+      "Bacterias grampositivas y algunas gramnegativas",
+      "Parásitos intracelulares",
+      "Bacterias anaerobias estrictas"
+    ],
+    "respuesta": "Bacterias grampositivas y algunas gramnegativas"
+  },
+  {
+    "pregunta": "¿Qué se debe tener en cuenta en cuanto a la conservación de los viales de Cefuroxima?",
+    "opciones": [
+      "No requiere condiciones especiales de conservación",
+      "Conservar siempre congelado",
+      "Conservar según indicaciones del fabricante y respetar estabilidad tras reconstitución",
+      "Conservar a temperatura ambiente una vez reconstituido por tiempo indefinido"
+    ],
+    "respuesta": "Conservar según indicaciones del fabricante y respetar estabilidad tras reconstitución"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre genérico del medicamento conocido como Cefepima Sala?",
+    "opciones": ["Cefepima", "Ceftriaxona", "Amoxicilina", "Meropenem"],
+    "respuesta": "Cefepima"
+  },
+  {
+    "pregunta": "¿Cuál es la presentación habitual de la cefepima?",
+    "opciones": ["Tabletas de 500 mg", "Jarabe oral", "Polvo para solución inyectable", "Parche transdérmico"],
+    "respuesta": "Polvo para solución inyectable"
+  },
+  {
+    "pregunta": "¿Cuál es la principal vía de administración de la cefepima?",
+    "opciones": ["Oral", "Intramuscular", "Intravenosa", "Subcutánea"],
+    "respuesta": "Intravenosa"
+  },
+  {
+    "pregunta": "¿Cuál es el mecanismo de acción de la cefepima?",
+    "opciones": [
+      "Inhibe la síntesis de proteínas bacterianas a nivel del ribosoma",
+      "Destruye directamente el ADN bacteriano",
+      "Bloquea la transpeptidación del peptidoglucano en la pared celular",
+      "Actúa como antiinflamatorio en la membrana celular"
+    ],
+    "respuesta": "Bloquea la transpeptidación del peptidoglucano en la pared celular"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una indicación del uso de cefepima?",
+    "opciones": ["Meningitis bacteriana", "Neumonía", "Infecciones del tracto urinario complicadas", "Dolor muscular leve"],
+    "respuesta": "Dolor muscular leve"
+  },
+  {
+    "pregunta": "¿Qué condición contraindica el uso de cefepima?",
+    "opciones": [
+      "Insuficiencia hepática leve",
+      "Hipersensibilidad a cefalosporinas",
+      "Hipertensión controlada",
+      "Diabetes mellitus"
+    ],
+    "respuesta": "Hipersensibilidad a cefalosporinas"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un posible efecto adverso de la cefepima?",
+    "opciones": [
+      "Reacciones alérgicas",
+      "Hiperglucemia severa",
+      "Alopecia",
+      "Hipotermia"
+    ],
+    "respuesta": "Reacciones alérgicas"
+  },
+  {
+    "pregunta": "¿En qué tipo de solución se puede diluir la cefepima para perfusión IV?",
+    "opciones": ["Cloruro de sodio al 0.9% o glucosa al 5%", "Agua destilada", "Lidocaína al 2%", "Suero hipertónico"],
+    "respuesta": "Cloruro de sodio al 0.9% o glucosa al 5%"
+  },
+  {
+    "pregunta": "¿Cuál es el tiempo habitual de administración IV de cefepima?",
+    "opciones": ["1–2 minutos", "5–10 minutos", "15–30 minutos", "Más de 1 hora"],
+    "respuesta": "15–30 minutos"
+  },
+  {
+    "pregunta": "¿Qué precaución se debe tener con pacientes con insuficiencia renal al administrar cefepima?",
+    "opciones": [
+      "No hay precaución especial",
+      "Puede provocar neurotoxicidad como convulsiones",
+      "Disminuye la eficacia del fármaco",
+      "Aumenta la absorción intestinal del medicamento"
+    ],
+    "respuesta": "Puede provocar neurotoxicidad como convulsiones"
+  },
+  {
+    "pregunta": "¿Cuál es la vía de administración del Imipenem combinado con Cilastatina?",
+    "opciones": ["Oral", "Intramuscular", "Intravenosa", "Subcutánea"],
+    "respuesta": "Intravenosa"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de la cilastatina cuando se administra junto con imipenem?",
+    "opciones": [
+      "Potenciar la acción antibacteriana",
+      "Reducir los efectos adversos del imipenem",
+      "Inhibir la degradación renal del imipenem",
+      "Disminuir el umbral convulsivo"
+    ],
+    "respuesta": "Inhibir la degradación renal del imipenem"
+  },
+  {
+    "pregunta": "¿Qué tipo de acción tiene el Imipenem sobre las bacterias?",
+    "opciones": ["Bacteriostática", "Antiviral", "Antifúngica", "Bactericida"],
+    "respuesta": "Bactericida"
+  },
+  {
+    "pregunta": "¿Cuál es una contraindicación del uso de Imipenem + Cilastatina?",
+    "opciones": [
+      "Diabetes tipo 2",
+      "Hipertensión controlada",
+      "Hipersensibilidad a β-lactámicos",
+      "Anemia ferropénica"
+    ],
+    "respuesta": "Hipersensibilidad a β-lactámicos"
+  },
+  {
+    "pregunta": "¿Qué efecto adverso grave puede presentarse especialmente en pacientes con epilepsia o insuficiencia renal?",
+    "opciones": ["Hipoglucemia", "Convulsiones", "Insuficiencia hepática", "Broncoespasmo"],
+    "respuesta": "Convulsiones"
+  },
+  {
+    "pregunta": "¿Cómo debe administrarse el Imipenem + Cilastatina según las recomendaciones de enfermería?",
+    "opciones": [
+      "En bolo rápido IV",
+      "Por vía oral disuelto en agua",
+      "Mediante perfusión intravenosa",
+      "Por vía intramuscular profunda"
+    ],
+    "respuesta": "Mediante perfusión intravenosa"
+  },
+  {
+    "pregunta": "¿Qué tipo de infecciones están indicadas para el tratamiento con Imipenem + Cilastatina?",
+    "opciones": [
+      "Infecciones virales leves",
+      "Infecciones graves por bacterias susceptibles",
+      "Micosis superficiales",
+      "Infecciones urinarias simples"
+    ],
+    "respuesta": "Infecciones graves por bacterias susceptibles"
+  },
+  {
+    "pregunta": "¿Qué presentación farmacéutica tiene el Imipenem + Cilastatina?",
+    "opciones": [
+      "Tabletas masticables",
+      "Suspensión oral",
+      "Polvo para solución para perfusión IV",
+      "Inyectable intramuscular"
+    ],
+    "respuesta": "Polvo para solución para perfusión IV"
+  },
+  {
+    "pregunta": "¿Cuál es la vía principal de administración del Meropenem?",
+    "opciones": ["Oral", "Intramuscular", "Intravenosa", "Subcutánea"],
+    "respuesta": "Intravenosa"
+  },
+  {
+    "pregunta": "¿Cuál es el mecanismo de acción del Meropenem?",
+    "opciones": [
+      "Inhibe la síntesis proteica bacteriana",
+      "Bloquea la síntesis del ADN bacteriano",
+      "Interfiere en la síntesis del peptidoglucano de la pared celular",
+      "Aumenta la permeabilidad de la membrana celular"
+    ],
+    "respuesta": "Interfiere en la síntesis del peptidoglucano de la pared celular"
+  },
+  {
+    "pregunta": "¿Qué tipo de infecciones están indicadas para el uso de Meropenem?",
+    "opciones": [
+      "Infecciones leves de garganta",
+      "Infecciones graves como meningitis y sepsis",
+      "Acné severo",
+      "Alergias estacionales"
+    ],
+    "respuesta": "Infecciones graves como meningitis y sepsis"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un efecto adverso del Meropenem?",
+    "opciones": [
+      "Somnolencia extrema",
+      "Reacciones alérgicas",
+      "Pérdida de cabello",
+      "Hipoglucemia"
+    ],
+    "respuesta": "Reacciones alérgicas"
+  },
+  {
+    "pregunta": "¿En qué casos está contraindicado el uso de Meropenem?",
+    "opciones": [
+      "Pacientes con hipertensión",
+      "Personas con hipersensibilidad a β-lactámicos",
+      "Individuos con deficiencia de hierro",
+      "Pacientes con problemas de visión"
+    ],
+    "respuesta": "Personas con hipersensibilidad a β-lactámicos"
+  },
+  {
+    "pregunta": "¿Cómo debe administrarse Meropenem en adultos?",
+    "opciones": [
+      "Por vía oral cada 8 horas",
+      "Por perfusión intravenosa diluido en SF 0.9% o glucosa 5%",
+      "Por vía intramuscular sin diluir",
+      "En forma de aerosol"
+    ],
+    "respuesta": "Por perfusión intravenosa diluido en SF 0.9% o glucosa 5%"
+  },
+  {
+    "pregunta": "¿Qué precaución especial debe tenerse en pacientes epilépticos al administrar Meropenem?",
+    "opciones": [
+      "Puede aumentar el riesgo de convulsiones",
+      "Puede provocar hipoglucemia",
+      "No tiene efectos en el sistema nervioso central",
+      "Puede causar visión borrosa"
+    ],
+    "respuesta": "Puede aumentar el riesgo de convulsiones"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre genérico del medicamento conocido comercialmente como Ceftriaxona Normon o Ceftriaxona Richet?",
+    "opciones": ["Ceftriaxona", "Amoxicilina", "Cefalexina", "Eritromicina"],
+    "respuesta": "Ceftriaxona"
+  },
+  {
+    "pregunta": "¿En qué presentaciones se encuentra disponible la Ceftriaxona?",
+    "opciones": [
+      "Tabletas de 500 mg y 1 g",
+      "Jarabe de 250 mg/5 mL",
+      "Polvo para solución inyectable IM/IV: 250 mg, 500 mg, 1 g, 2 g",
+      "Solución tópica al 1%"
+    ],
+    "respuesta": "Polvo para solución inyectable IM/IV: 250 mg, 500 mg, 1 g, 2 g"
+  },
+  {
+    "pregunta": "¿Cuáles son las vías de administración de la Ceftriaxona?",
+    "opciones": [
+      "Oral y subcutánea",
+      "Intramuscular e intravenosa",
+      "Tópica y oftálmica",
+      "Rectal y transdérmica"
+    ],
+    "respuesta": "Intramuscular e intravenosa"
+  },
+  {
+    "pregunta": "¿Cuál es el mecanismo de acción de la Ceftriaxona?",
+    "opciones": [
+      "Inhibe la síntesis proteica bacteriana al unirse a ribosomas 30S",
+      "Bloquea la transpeptidación y el ensamblaje del peptidoglucano en la pared celular bacteriana",
+      "Inhibe la síntesis del ADN bacteriano al bloquear la girasa",
+      "Interfiere con la síntesis del ácido fólico bacteriano"
+    ],
+    "respuesta": "Bloquea la transpeptidación y el ensamblaje del peptidoglucano en la pared celular bacteriana"
+  },
+  {
+    "pregunta": "¿Para qué tipo de infecciones está indicada la Ceftriaxona?",
+    "opciones": [
+      "Infecciones virales como la gripe",
+      "Infecciones leves de piel por hongos",
+      "Infecciones graves por gérmenes sensibles como neumonía, meningitis y gonorrea",
+      "Parasitosis intestinales"
+    ],
+    "respuesta": "Infecciones graves por gérmenes sensibles como neumonía, meningitis y gonorrea"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es una contraindicación de la Ceftriaxona?",
+    "opciones": [
+      "Uso en adultos con hipertensión",
+      "Hipersensibilidad a penicilinas únicamente",
+      "Hipersensibilidad a cefalosporinas y uso en neonatos con hiperbilirrubinemia",
+      "Uso en infecciones respiratorias leves"
+    ],
+    "respuesta": "Hipersensibilidad a cefalosporinas y uso en neonatos con hiperbilirrubinemia"
+  },
+  {
+    "pregunta": "¿Qué efecto adverso puede presentarse con el uso de Ceftriaxona?",
+    "opciones": [
+      "Hipotensión severa",
+      "Diarrea y colitis asociada a antibióticos",
+      "Hipoglucemia",
+      "Aumento de peso"
+    ],
+    "respuesta": "Diarrea y colitis asociada a antibióticos"
+  },
+  {
+    "pregunta": "¿Con qué tipo de soluciones no debe mezclarse la Ceftriaxona en neonatos?",
+    "opciones": [
+      "Soluciones con sodio",
+      "Soluciones con calcio",
+      "Soluciones con glucosa",
+      "Soluciones con cloruro de potasio"
+    ],
+    "respuesta": "Soluciones con calcio"
+  },
+  {
+    "pregunta": "¿En cuánto tiempo debe administrarse la perfusión intravenosa de Ceftriaxona?",
+    "opciones": [
+      "1–2 minutos",
+      "5–10 minutos",
+      "15–30 minutos",
+      "Más de una hora"
+    ],
+    "respuesta": "15–30 minutos"
+  },
+  {
+    "pregunta": "¿Qué recomendación de conservación tiene la Ceftriaxona una vez reconstituida?",
+    "opciones": [
+      "Debe desecharse inmediatamente después de reconstituirse",
+      "Es estable por 24 horas a temperatura ambiente o varios días refrigerada, según presentación",
+      "Solo puede conservarse congelada",
+      "No requiere conservación especial"
+    ],
+    "respuesta": "Es stable por 24 horas a temperatura ambiente o varios días refrigerada, según presentación"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "pregunta": "¿Cuál es la característica distintiva de las colonias de *Klebsiella*?",
+    "opciones": ["Alta virulencia", "Cápsula notoria", "Formación de cavidades", "Hemoptisis"],
+    "respuesta": "Cápsula notoria"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene la cápsula en la virulencia de *Klebsiella*?",
+    "opciones": ["Disminuye la patogenicidad", "Aumenta la patogenicidad", "No tiene efecto", "Es indiferente"],
+    "respuesta": "Aumenta la patogenicidad"
+  },
+  {
+    "pregunta": "¿A qué tipo de antibióticos son resistentes las cepas de *Klebsiella*?",
+    "opciones": ["Antibióticos β-lactámicos y carbapenémicos", "Antibióticos macrólidos", "Antibióticos tetraciclínicos", "Antibióticos aminoglucósidos"],
+    "respuesta": "Antibióticos β-lactámicos y carbapenémicos"
+  },
+  {
+    "pregunta": "¿Qué especie de *Klebsiella* es más común en infecciones humanas?",
+    "opciones": ["K. oxytoca", "K. pneumoniae", "K. variicola", "K. aerogenes"],
+    "respuesta": "K. pneumoniae"
+  },
+  {
+    "pregunta": "¿Qué tipo de neumonía causa *Klebsiella pneumoniae*?",
+    "opciones": ["Neumonía lobular primaria", "Neumonía viral", "Neumonía intersticial", "Neumonía atípica"],
+    "respuesta": "Neumonía lobular primaria"
+  },
+  {
+    "pregunta": "¿Qué otra infección puede causar *Klebsiella* además de neumonía?",
+    "opciones": ["Infecciones urinarias", "Infecciones dérmicas", "Infecciones respiratorias", "Infecciones óseas"],
+    "respuesta": "Infecciones urinarias"
+  },
+  {
+    "pregunta": "¿Qué es la cavitación en el contexto de una infección por *Klebsiella*?",
+    "opciones": ["Destrucción necrótica de los alveolos", "Formación de cavidades en tejido pulmonar", "Inflamación de las vías respiratorias", "Destrucción del tejido hepático"],
+    "respuesta": "Formación de cavidades en tejido pulmonar"
+  },
+  {
+    "pregunta": "¿Qué síntomas respiratorios pueden estar presentes en una infección por *Klebsiella*?",
+    "opciones": ["Hemoptisis", "Tos seca", "Fiebre alta", "Congestión nasal"],
+    "respuesta": "Hemoptisis"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los principales desafíos terapéuticos con *Klebsiella*?",
+    "opciones": ["Resistencia a múltiples antibióticos", "Falta de diagnóstico rápido", "Baja tasa de mortalidad", "Facilidad de tratamiento"],
+    "respuesta": "Resistencia a múltiples antibióticos"
+  },
+  {
+    "pregunta": "¿Por qué las cepas de *Klebsiella* representan un problema global?",
+    "opciones": ["Por su alta virulencia", "Por su resistencia a antibióticos", "Por su alta transmisibilidad", "Por su capacidad para mutar"],
+    "respuesta": "Por su resistencia a antibióticos"
+  },
+  {
+    "pregunta": "¿Qué tipo de infecciones se asocian a *Klebsiella oxytoca*?",
+    "opciones": ["Infecciones respiratorias", "Infecciones urinarias y heridas", "Infecciones gastrointestinales", "Infecciones cutáneas"],
+    "respuesta": "Infecciones urinarias y heridas"
+  },
+  {
+    "pregunta": "¿Qué desafío presenta el tratamiento de infecciones por *Klebsiella*?",
+    "opciones": ["Tratamiento cada vez más complejo", "Falta de opciones de antibióticos", "Crecimiento rápido de la bacteria", "Efectos secundarios graves de los antibióticos"],
+    "respuesta": "Tratamiento cada vez más complejo"
+  },
+  {
+    "pregunta": "¿Qué complicación pulmonar es característica de la neumonía causada por *Klebsiella*?",
+    "opciones": ["Destrucción necrótica de los alveolos", "Acumulación de moco", "Bloqueo de las vías respiratorias", "Formación de pus en los pulmones"],
+    "respuesta": "Destrucción necrótica de los alveolos"
+  },
+  {
+    "pregunta": "¿Qué factor hace que *Klebsiella pneumoniae* sea tan patogénica?",
+    "opciones": ["Su cápsula", "Su velocidad de crecimiento", "Su capacidad para formar esporas", "Su resistencia a la fiebre"],
+    "respuesta": "Su cápsula"
+  },
+  {
+    "pregunta": "¿En qué tipo de entornos se aísla principalmente *Klebsiella pneumoniae*?",
+    "opciones": ["Entornos clínicos", "Áreas rurales", "Zonas tropicales", "Ambientes domésticos"],
+    "respuesta": "Entornos clínicos"
+  }
+]

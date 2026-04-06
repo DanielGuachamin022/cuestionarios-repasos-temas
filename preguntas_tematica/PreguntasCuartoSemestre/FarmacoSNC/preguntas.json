@@ -1,0 +1,152 @@
+[
+  {
+    "pregunta": "¿Qué es la enfermedad de Parkinson?",
+    "opciones": ["Una infección viral", "Un trastorno neurodegenerativo", "Una enfermedad autoinmune", "Un trastorno metabólico"],
+    "respuesta": "Un trastorno neurodegenerativo"
+  },
+  {
+    "pregunta": "¿Qué neurotransmisor está disminuido en la enfermedad de Parkinson?",
+    "opciones": ["Serotonina", "Dopamina", "Acetilcolina", "Glutamato"],
+    "respuesta": "Dopamina"
+  },
+  {
+    "pregunta": "¿Quién describió por primera vez la enfermedad de Parkinson?",
+    "opciones": ["Sigmund Freud", "James Parkinson", "Louis Pasteur", "Claude Bernard"],
+    "respuesta": "James Parkinson"
+  },
+  {
+    "pregunta": "¿Qué estructura cerebral produce dopamina y se ve afectada en Parkinson?",
+    "opciones": ["Hipocampo", "Sustancia negra", "Cerebelo", "Tálamo"],
+    "respuesta": "Sustancia negra"
+  },
+  {
+    "pregunta": "¿Qué sistema controla el tono muscular y la coordinación?",
+    "opciones": ["Sistema límbico", "Sistema extrapiramidal", "Sistema nervioso autónomo", "Sistema endocrino"],
+    "respuesta": "Sistema extrapiramidal"
+  },
+  {
+    "pregunta": "¿Cuál es el tratamiento estándar de oro en Parkinson?",
+    "opciones": ["Amantadina", "Levodopa + Carbidopa", "Bromocriptina", "Selegilina"],
+    "respuesta": "Levodopa + Carbidopa"
+  },
+  {
+    "pregunta": "¿Qué hace la levodopa en el organismo?",
+    "opciones": ["Inhibe dopamina", "Se convierte en dopamina", "Bloquea serotonina", "Activa GABA"],
+    "respuesta": "Se convierte en dopamina"
+  },
+  {
+    "pregunta": "¿Cuál es la función de la carbidopa?",
+    "opciones": ["Aumenta serotonina", "Previene metabolismo periférico de levodopa", "Bloquea calcio", "Estimula glutamato"],
+    "respuesta": "Previene metabolismo periférico de levodopa"
+  },
+  {
+    "pregunta": "¿Cuál es una desventaja de la levodopa?",
+    "opciones": ["Hipoglucemia", "Fenómeno on-off", "Hipotermia", "Ceguera"],
+    "respuesta": "Fenómeno on-off"
+  },
+  {
+    "pregunta": "¿Qué efecto adverso puede causar la levodopa?",
+    "opciones": ["Hipertensión severa", "Discinesias", "Bradicardia", "Alopecia"],
+    "respuesta": "Discinesias"
+  },
+  {
+    "pregunta": "¿Qué se debe evitar al administrar levodopa?",
+    "opciones": ["Agua", "Proteínas en la dieta", "Ejercicio", "Vitaminas"],
+    "respuesta": "Proteínas en la dieta"
+  },
+  {
+    "pregunta": "¿Qué hacen los agonistas dopaminérgicos?",
+    "opciones": ["Inhiben dopamina", "Estimulan receptores dopaminérgicos", "Bloquean serotonina", "Aumentan acetilcolina"],
+    "respuesta": "Estimulan receptores dopaminérgicos"
+  },
+  {
+    "pregunta": "¿Cuál es un agonista dopaminérgico no ergótico?",
+    "opciones": ["Fenitoína", "Pramipexol", "Carbamazepina", "Etosuximida"],
+    "respuesta": "Pramipexol"
+  },
+  {
+    "pregunta": "¿Qué fármaco se administra en parche transdérmico?",
+    "opciones": ["Ropinirol", "Rotigotina", "Selegilina", "Amantadina"],
+    "respuesta": "Rotigotina"
+  },
+  {
+    "pregunta": "¿Cuál es un efecto adverso de los agonistas dopaminérgicos?",
+    "opciones": ["Hipoglucemia", "Somnolencia", "Hipotermia", "Ceguera"],
+    "respuesta": "Somnolencia"
+  },
+  {
+    "pregunta": "¿Qué trastorno conductual puede aparecer con agonistas dopaminérgicos?",
+    "opciones": ["Amnesia", "Ludopatía", "Parálisis", "Afasia"],
+    "respuesta": "Ludopatía"
+  },
+  {
+    "pregunta": "¿Qué enzima inhiben los fármacos IMAO-B?",
+    "opciones": ["COMT", "MAO-B", "Acetilcolinesterasa", "Dopamina hidroxilasa"],
+    "respuesta": "MAO-B"
+  },
+  {
+    "pregunta": "¿Qué efecto tienen los inhibidores de la MAO-B?",
+    "opciones": ["Disminuyen dopamina", "Prolongan acción de dopamina", "Bloquean calcio", "Aumentan serotonina"],
+    "respuesta": "Prolongan acción de dopamina"
+  },
+  {
+    "pregunta": "¿Qué fármaco IMAO-B puede causar insomnio por metabolitos anfetamínicos?",
+    "opciones": ["Rasagilina", "Selegilina", "Safinamida", "Entacapona"],
+    "respuesta": "Selegilina"
+  },
+  {
+    "pregunta": "¿Qué riesgo existe al combinar IMAO-B con antidepresivos serotoninérgicos?",
+    "opciones": ["Hipoglucemia", "Síndrome serotoninérgico", "Hipotermia", "Anemia"],
+    "respuesta": "Síndrome serotoninérgico"
+  },
+  {
+    "pregunta": "¿Qué enzima inhiben los fármacos COMT?",
+    "opciones": ["MAO-A", "COMT", "Acetilcolinesterasa", "GABA transaminasa"],
+    "respuesta": "COMT"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene la entacapona?",
+    "opciones": ["Reduce dopamina", "Prolonga efecto de levodopa", "Bloquea calcio", "Aumenta serotonina"],
+    "respuesta": "Prolonga efecto de levodopa"
+  },
+  {
+    "pregunta": "¿Qué fármaco COMT requiere control hepático estricto?",
+    "opciones": ["Entacapona", "Tolcapona", "Opicapona", "Ropinirol"],
+    "respuesta": "Tolcapona"
+  },
+  {
+    "pregunta": "¿Qué efecto adverso común de entacapona debe ser explicado al paciente?",
+    "opciones": ["Ceguera", "Orina anaranjada", "Hipotermia", "Pérdida auditiva"],
+    "respuesta": "Orina anaranjada"
+  },
+  {
+    "pregunta": "¿Qué fármaco anticolinérgico se usa para el temblor?",
+    "opciones": ["Trihexifenidilo", "Levodopa", "Gabapentina", "Selegilina"],
+    "respuesta": "Trihexifenidilo"
+  },
+  {
+    "pregunta": "¿Qué fármaco es alternativa al trihexifenidilo?",
+    "opciones": ["Biperideno", "Fenitoína", "Valproato", "Pregabalina"],
+    "respuesta": "Biperideno"
+  },
+  {
+    "pregunta": "¿Cuál es el uso principal de la amantadina?",
+    "opciones": ["Hipertensión", "Discinesias por levodopa", "Infecciones", "Ansiedad"],
+    "respuesta": "Discinesias por levodopa"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene la amantadina sobre la dopamina?",
+    "opciones": ["La bloquea", "Aumenta su liberación", "La destruye", "No la afecta"],
+    "respuesta": "Aumenta su liberación"
+  },
+  {
+    "pregunta": "¿Qué receptores bloquea la amantadina?",
+    "opciones": ["GABA", "NMDA", "Serotonina", "Dopamina"],
+    "respuesta": "NMDA"
+  },
+  {
+    "pregunta": "¿Cuál es un efecto adverso de la amantadina?",
+    "opciones": ["Hipoglucemia", "Edema periférico", "Hipotermia", "Ceguera"],
+    "respuesta": "Edema periférico"
+  }
+]

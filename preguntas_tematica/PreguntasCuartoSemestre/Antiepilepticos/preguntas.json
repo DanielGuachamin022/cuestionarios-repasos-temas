@@ -1,0 +1,147 @@
+[
+  {
+    "pregunta": "¿Qué caracteriza a las crisis tonicoclónicas?",
+    "opciones": ["Aumento del olfato", "Pérdida de conciencia", "Mejora de la memoria", "Disminución del lenguaje"],
+    "respuesta": "Pérdida de conciencia"
+  },
+  {
+    "pregunta": "¿Qué estructuras están implicadas en el origen de las crisis convulsivas?",
+    "opciones": ["Sistema digestivo", "Redes neuronales", "Sistema óseo", "Sistema endocrino"],
+    "respuesta": "Redes neuronales"
+  },
+  {
+    "pregunta": "¿Qué tipo de funciones pueden alterarse en crisis no motoras?",
+    "opciones": ["Respiración únicamente", "Olfato y vista", "Circulación", "Digestión"],
+    "respuesta": "Olfato y vista"
+  },
+  {
+    "pregunta": "¿Sobre qué canales actúan principalmente la fenitoína, carbamazepina y lamotrigina?",
+    "opciones": ["Canales de calcio", "Canales de sodio", "Canales de potasio", "Canales de cloro"],
+    "respuesta": "Canales de sodio"
+  },
+  {
+    "pregunta": "¿Cuál es el mecanismo principal de la fenitoína?",
+    "opciones": ["Bloquea receptores GABA", "Aumenta calcio intracelular", "Enlentece la recuperación del canal de sodio", "Activa receptores glutamato"],
+    "respuesta": "Enlentece la recuperación del canal de sodio"
+  },
+  {
+    "pregunta": "¿Qué efecto produce la fenitoína sobre el potencial de acción?",
+    "opciones": ["Lo disminuye", "Lo elimina", "Aumenta el umbral", "No lo afecta"],
+    "respuesta": "Aumenta el umbral"
+  },
+  {
+    "pregunta": "¿Cuál es un efecto adverso común de la fenitoína?",
+    "opciones": ["Hipoglucemia", "Hiperplasia gingival", "Hipotermia", "Alopecia inmediata"],
+    "respuesta": "Hiperplasia gingival"
+  },
+  {
+    "pregunta": "¿Qué efecto grave puede causar la fenitoína de forma rara?",
+    "opciones": ["Gastritis", "Hepatitis", "Insomnio", "Hipertensión leve"],
+    "respuesta": "Hepatitis"
+  },
+  {
+    "pregunta": "¿Con qué solución debe diluirse la fenitoína intravenosa?",
+    "opciones": ["Suero glucosado", "Agua destilada", "Suero fisiológico", "Ringer lactato"],
+    "respuesta": "Suero fisiológico"
+  },
+  {
+    "pregunta": "¿Qué ocurre si la fenitoína se administra rápidamente por vía IV?",
+    "opciones": ["Hiperglucemia", "Hipotensión y arritmias", "Convulsiones", "Hipertensión"],
+    "respuesta": "Hipotensión y arritmias"
+  },
+  {
+    "pregunta": "¿Qué efecto adverso grave puede producir la carbamazepina?",
+    "opciones": ["Hipoglucemia", "Anemia aplásica", "Hipertensión", "Cefalea leve"],
+    "respuesta": "Anemia aplásica"
+  },
+  {
+    "pregunta": "¿Qué síndrome cutáneo grave se asocia a carbamazepina?",
+    "opciones": ["Síndrome nefrótico", "Síndrome de Stevens-Johnson", "Síndrome metabólico", "Síndrome de Cushing"],
+    "respuesta": "Síndrome de Stevens-Johnson"
+  },
+  {
+    "pregunta": "¿Qué característica tiene la lamotrigina?",
+    "opciones": ["Disminuye GABA", "Bloquea sodio y estabiliza membrana", "Activa dopamina", "Bloquea serotonina"],
+    "respuesta": "Bloquea sodio y estabiliza membrana"
+  },
+  {
+    "pregunta": "¿Cuál es el efecto adverso más importante de la lamotrigina?",
+    "opciones": ["Hipertensión", "Exantema cutáneo", "Hipoglucemia", "Arritmias"],
+    "respuesta": "Exantema cutáneo"
+  },
+  {
+    "pregunta": "¿Qué hace el ácido valproico sobre el GABA?",
+    "opciones": ["Lo disminuye", "No lo afecta", "Aumenta su concentración", "Lo bloquea"],
+    "respuesta": "Aumenta su concentración"
+  },
+  {
+    "pregunta": "¿Qué tipo de antiepiléptico es el ácido valproico?",
+    "opciones": ["De espectro limitado", "De amplio espectro", "Solo sedante", "Solo analgésico"],
+    "respuesta": "De amplio espectro"
+  },
+  {
+    "pregunta": "¿Cuál es un efecto adverso frecuente del ácido valproico?",
+    "opciones": ["Pérdida auditiva", "Temblor", "Ceguera", "Hipotermia"],
+    "respuesta": "Temblor"
+  },
+  {
+    "pregunta": "¿Qué fármaco es de primera línea para crisis de ausencia?",
+    "opciones": ["Fenitoína", "Etosuximida", "Gabapentina", "Fenobarbital"],
+    "respuesta": "Etosuximida"
+  },
+  {
+    "pregunta": "¿Qué efecto adverso grave puede causar la etosuximida?",
+    "opciones": ["Hipertensión", "Discrasia sanguínea", "Diabetes", "Obesidad"],
+    "respuesta": "Discrasia sanguínea"
+  },
+  {
+    "pregunta": "¿Sobre qué actúa principalmente la gabapentina?",
+    "opciones": ["Canales de sodio", "Canales de calcio", "Receptores dopamina", "Receptores nicotínicos"],
+    "respuesta": "Canales de calcio"
+  },
+  {
+    "pregunta": "¿Para qué se usa adicionalmente la gabapentina?",
+    "opciones": ["Hipertensión", "Dolor crónico", "Asma", "Infecciones"],
+    "respuesta": "Dolor crónico"
+  },
+  {
+    "pregunta": "¿Qué característica tiene la pregabalina?",
+    "opciones": ["Se metaboliza en hígado", "No se metaboliza en hígado", "Es antibiótico", "Es antiviral"],
+    "respuesta": "No se metaboliza en hígado"
+  },
+  {
+    "pregunta": "¿Qué grupo de fármacos potencia la acción del GABA?",
+    "opciones": ["Antibióticos", "Benzodiacepinas", "Antiinflamatorios", "Antihistamínicos"],
+    "respuesta": "Benzodiacepinas"
+  },
+  {
+    "pregunta": "¿Cuál es el uso principal de diazepam, midazolam y lorazepam?",
+    "opciones": ["Tratamiento crónico", "Crisis agudas", "Dolor crónico", "Hipertensión"],
+    "respuesta": "Crisis agudas"
+  },
+  {
+    "pregunta": "¿Qué barbitúrico se usa en epilepsia?",
+    "opciones": ["Tiopental", "Fenobarbital", "Pentobarbital", "Secobarbital"],
+    "respuesta": "Fenobarbital"
+  },
+  {
+    "pregunta": "¿Para qué tipo de crisis NO está indicado el fenobarbital?",
+    "opciones": ["Focales", "Tonicoclónicas", "Ausencias", "Generalizadas"],
+    "respuesta": "Ausencias"
+  },
+  {
+    "pregunta": "¿Cuál es una indicación de la vigabatrina?",
+    "opciones": ["Hipertensión", "Espasmos infantiles", "Diabetes", "Asma"],
+    "respuesta": "Espasmos infantiles"
+  },
+  {
+    "pregunta": "¿Qué efecto adverso importante requiere control en vigabatrina?",
+    "opciones": ["Función renal", "Campo visual", "Glucosa", "Presión arterial"],
+    "respuesta": "Campo visual"
+  },
+  {
+    "pregunta": "¿Qué fármaco puede causar anemia aplásica e insuficiencia hepática?",
+    "opciones": ["Lamotrigina", "Felbamato", "Gabapentina", "Etosuximida"],
+    "respuesta": "Felbamato"
+  }
+]

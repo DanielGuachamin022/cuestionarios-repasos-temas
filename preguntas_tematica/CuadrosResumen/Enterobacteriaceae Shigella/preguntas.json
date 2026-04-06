@@ -1,0 +1,107 @@
+[
+    {
+        "pregunta": "¿Qué toxina produce *Shigella dysenteriae*?",
+        "opciones": ["Toxina Shiga", "Toxina botulínica", "Toxina colérica", "Toxina tetánica"],
+        "respuesta": "Toxina Shiga"
+    },
+    {
+        "pregunta": "¿Qué región tiene una alta mortalidad por infección con *S. dysenteriae*?",
+        "opciones": ["África Occidental y Centroamérica", "Asia del Sur", "Europa del Este", "Norteamérica"],
+        "respuesta": "África Occidental y Centroamérica"
+    },
+    {
+        "pregunta": "¿Qué porcentaje de mortalidad por caso de *S. dysenteriae* se encuentra en África Occidental y Centroamérica?",
+        "opciones": ["5-15%", "10-20%", "1-5%", "15-30%"],
+        "respuesta": "5-15%"
+    },
+    {
+        "pregunta": "¿Qué especie de *Shigella* es predominante en países en desarrollo?",
+        "opciones": ["S. flexneri", "S. dysenteriae", "S. boydii", "S. sonnei"],
+        "respuesta": "S. flexneri"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes especies de *Shigella* es responsable del 85% de las infecciones en Estados Unidos?",
+        "opciones": ["S. sonnei", "S. dysenteriae", "S. flexneri", "S. boydii"],
+        "respuesta": "S. sonnei"
+    },
+    {
+        "pregunta": "¿En qué parte del cuerpo invade *Shigella* durante la patogenia?",
+        "opciones": ["Colon", "Estómago", "Intestino delgado", "Hígado"],
+        "respuesta": "Colon"
+    },
+    {
+        "pregunta": "¿Qué sucede durante la replicación de *Shigella* dentro de las células intestinales?",
+        "opciones": ["Se multiplica dentro de las células intestinales", "Se produce una reacción inflamatoria", "Se libera toxina botulínica", "Se genera pus"],
+        "respuesta": "Se multiplica dentro de las células intestinales"
+    },
+    {
+        "pregunta": "¿Qué complicación grave puede causar la infección por *Shigella*?",
+        "opciones": ["Síndrome hemolítico urémico", "Fiebre tifoidea", "Peritonitis", "Pneumonía"],
+        "respuesta": "Síndrome hemolítico urémico"
+    },
+    {
+        "pregunta": "¿Cuál es el porcentaje de infecciones por *Shigella* que afecta a niños menores de 10 años?",
+        "opciones": ["60%", "40%", "25%", "75%"],
+        "respuesta": "60%"
+    },
+    {
+        "pregunta": "¿Cuántos millones de casos de shigelosis ocurren anualmente en el mundo?",
+        "opciones": ["90 millones", "100 millones", "50 millones", "70 millones"],
+        "respuesta": "90 millones"
+    },
+    {
+        "pregunta": "¿Cuál es el único reservorio conocido para la *Shigella*?",
+        "opciones": ["Seres humanos", "Animales domésticos", "Aguas contaminadas", "Alimentos"],
+        "respuesta": "Seres humanos"
+    },
+    {
+        "pregunta": "¿Dónde son comunes los brotes epidémicos de shigelosis?",
+        "opciones": ["Guarderías, centros de día e instituciones", "Escuelas primarias", "Hospitales", "Oficinas de trabajo"],
+        "respuesta": "Guarderías, centros de día e instituciones"
+    },
+    {
+        "pregunta": "¿Cuál es la principal vía de transmisión de *Shigella*?",
+        "opciones": ["Vía fecal-oral", "A través del aire", "Por picaduras de insectos", "Por contacto con animales"],
+        "respuesta": "Vía fecal-oral"
+    },
+    {
+        "pregunta": "¿Cuál es una posible vía de transmisión menos frecuente de *Shigella*?",
+        "opciones": ["Agua contaminada", "Aire contaminado", "Alimentos infectados", "Líquidos corporales"],
+        "respuesta": "Agua contaminada"
+    },
+    {
+        "pregunta": "¿Qué fase inicial se experimenta en la shigelosis?",
+        "opciones": ["Diarrea acuosa profusa", "Fiebre alta", "Dolor de cabeza intenso", "Espasmos abdominales"],
+        "respuesta": "Diarrea acuosa profusa"
+    },
+    {
+        "pregunta": "¿En qué consiste la fase avanzada de la shigelosis?",
+        "opciones": ["Espasmos abdominales, tenesmo, heces con pus y sangre", "Sangrado nasal y vómitos", "Inflamación de los ganglios linfáticos", "Fiebre y dolor en las articulaciones"],
+        "respuesta": "Espasmos abdominales, tenesmo, heces con pus y sangre"
+    },
+    {
+        "pregunta": "¿Cuántas horas después de la ingestión de *Shigella* ocurre la colonización del intestino delgado?",
+        "opciones": ["12 horas", "2 horas", "24 horas", "48 horas"],
+        "respuesta": "12 horas"
+    },
+    {
+        "pregunta": "¿En qué período se produce la incubación tras la ingestión de *Shigella*?",
+        "opciones": ["Día 1-3", "Día 7-10", "Día 5-7", "Día 3-5"],
+        "respuesta": "Día 1-3"
+    },
+    {
+        "pregunta": "¿Qué tipo de toxina es responsable del daño en el epitelio intestinal en la infección por *Shigella dysenteriae*?",
+        "opciones": ["Enterotoxina", "Toxina Shiga", "Toxina botulínica", "Citoquina"],
+        "respuesta": "Toxina Shiga"
+    },
+    {
+        "pregunta": "¿En qué tipo de instalaciones es más común la transmisión de *Shigella*?",
+        "opciones": ["Guarderías", "Hospitales", "Zoológicos", "Supermercados"],
+        "respuesta": "Guarderías"
+    },
+    {
+        "pregunta": "¿Qué se puede observar en las heces durante la fase avanzada de la shigelosis?",
+        "opciones": ["Pus y sangre", "Bilis y moco", "Partículas de comida sin digerir", "Agua clara"],
+        "respuesta": "Pus y sangre"
+    }
+]

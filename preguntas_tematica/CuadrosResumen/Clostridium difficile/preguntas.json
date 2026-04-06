@@ -1,0 +1,202 @@
+[
+  {
+    "pregunta": "¿Cómo es la morfología del microorganismo descrito?",
+    "opciones": ["Coco Gramnegativo", "Bacilo Grampositivo rectangular", "Coco Grampositivo", "Bacilo Gramnegativo curvo"],
+    "respuesta": "Bacilo Grampositivo rectangular"
+  },
+  {
+    "pregunta": "¿Cuál es el rango aproximado del tamaño del bacilo?",
+    "opciones": ["0,1 a 0,3 × 1 a 2 μm", "0,5 a 1,9 × 3 a 17 μm", "2 a 5 × 10 a 20 μm", "1 a 2 × 2 a 4 μm"],
+    "respuesta": "0,5 a 1,9 × 3 a 17 μm"
+  },
+  {
+    "pregunta": "¿Qué tipo de metabolismo presenta este microorganismo?",
+    "opciones": ["Aerobio estricto", "Anaerobio", "Microaerófilo", "Aerobio facultativo"],
+    "respuesta": "Anaerobio"
+  },
+  {
+    "pregunta": "¿Qué característica le permite sobrevivir en condiciones adversas?",
+    "opciones": ["Fimbrias", "Cápsula polisacárida", "Formación de esporas", "Biofilm resistente"],
+    "respuesta": "Formación de esporas"
+  },
+  {
+    "pregunta": "¿Qué tipo de daño produce directamente en el epitelio intestinal?",
+    "opciones": ["Necrosis hepática", "Lesión directa al epitelio intestinal", "Destrucción de eritrocitos", "Inhibición de la secreción de moco"],
+    "respuesta": "Lesión directa al epitelio intestinal"
+  },
+  {
+    "pregunta": "¿Qué toxinas libera este microorganismo?",
+    "opciones": ["Toxina A y C", "Toxina B y D", "Toxinas A y B", "Toxinas X y Y"],
+    "respuesta": "Toxinas A y B"
+  },
+  {
+    "pregunta": "¿Cómo se adhiere el microorganismo al epitelio intestinal?",
+    "opciones": ["Por fimbrias tipo I", "Por proteínas de la capa superficial", "Por cápsula mucosa", "Por lipopolisacáridos"],
+    "respuesta": "Por proteínas de la capa superficial"
+  },
+  {
+    "pregunta": "¿Qué efecto causa la enterotoxina A?",
+    "opciones": ["Despolimeriza actina", "Inhibe síntesis proteica", "Atrae neutrófilos y aumenta la permeabilidad intestinal", "Provoca hemólisis"],
+    "respuesta": "Atrae neutrófilos y aumenta la permeabilidad intestinal"
+  },
+  {
+    "pregunta": "¿Qué efecto genera la enterotoxina A sobre los líquidos intestinales?",
+    "opciones": ["Reducción de secreción", "Secreción excesiva de líquidos", "Reabsorción aumentada", "No afecta el equilibrio hídrico"],
+    "respuesta": "Secreción excesiva de líquidos"
+  },
+  {
+    "pregunta": "¿Cuál es la acción principal de la citotoxina B?",
+    "opciones": ["Aumenta la motilidad intestinal", "Despolimeriza la actina celular", "Inhibe síntesis de ADN", "Produce hemaglutinación"],
+    "respuesta": "Despolimeriza la actina celular"
+  },
+  {
+    "pregunta": "¿Cuál toxina es más potente?",
+    "opciones": ["Enterotoxina A", "Citotoxina B", "Ambas tienen la misma potencia", "Ninguna es patógena"],
+    "respuesta": "Citotoxina B"
+  },
+  {
+    "pregunta": "¿Dónde puede encontrarse este microorganismo en condiciones normales?",
+    "opciones": ["En la piel", "En pequeños números en individuos sanos", "En el tracto respiratorio superior", "En sangre"],
+    "respuesta": "En pequeños números en individuos sanos"
+  },
+  {
+    "pregunta": "¿Qué efecto tienen los antibióticos en la microbiota intestinal relacionada con este microorganismo?",
+    "opciones": ["No tienen efecto", "Incrementan la flora normal", "Alteran la flora permitiendo proliferación del patógeno", "Estimulan la formación de vitaminas"],
+    "respuesta": "Alteran la flora permitiendo proliferación del patógeno"
+  },
+  {
+    "pregunta": "¿Dónde ocurre principalmente la proliferación excesiva del microorganismo?",
+    "opciones": ["Estómago", "Hígado", "Colon", "Páncreas"],
+    "respuesta": "Colon"
+  },
+  {
+    "pregunta": "¿Qué causa el crecimiento excesivo del microorganismo?",
+    "opciones": ["Aumento del oxígeno intestinal", "Síntesis de toxinas", "Ausencia de nutrientes", "Temperatura elevada"],
+    "respuesta": "Síntesis de toxinas"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de diarreas asociadas a antibióticos en hospitales causa este patógeno?",
+    "opciones": ["10%", "25%", "50%", "75%"],
+    "respuesta": "25%"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de colitis seudomembranosa se atribuye a este microorganismo?",
+    "opciones": ["20%", "50%", "70%", "90%"],
+    "respuesta": "90%"
+  },
+  {
+    "pregunta": "¿Qué atrae la enterotoxina A al íleon?",
+    "opciones": ["Linfocitos T", "Eosinófilos", "Neutrófilos", "Macrófagos"],
+    "respuesta": "Neutrófilos"
+  },
+  {
+    "pregunta": "¿Qué estructura celular destruye la citotoxina B?",
+    "opciones": ["Membrana nuclear", "Mitocondria", "Citoesqueleto de células intestinales", "Retículo endoplásmico"],
+    "respuesta": "Citoesqueleto de células intestinales"
+  },
+  {
+    "pregunta": "¿Qué efecto produce la alteración de uniones intercelulares por la enterotoxina A?",
+    "opciones": ["Disminución de la permeabilidad intestinal", "Aumento de la permeabilidad intestinal", "Incremento de la absorción de agua", "Fortalecimiento del epitelio"],
+    "respuesta": "Aumento de la permeabilidad intestinal"
+  },
+  {
+    "pregunta": "¿Cuándo suele aparecer la diarrea asociada a antibióticos?",
+    "opciones": ["Inmediatamente después de una comida", "Entre 5 y 10 días después de iniciar antibióticos", "Un mes después del tratamiento", "Antes de iniciar el antibiótico"],
+    "respuesta": "Entre 5 y 10 días después de iniciar antibióticos"
+  },
+  {
+    "pregunta": "¿Qué síntomas pueden acompañar la diarrea asociada a antibióticos?",
+    "opciones": ["Tos y congestión nasal", "Dolor abdominal y fiebre", "Vómitos sanguinolentos", "Dolor lumbar"],
+    "respuesta": "Dolor abdominal y fiebre"
+  },
+  {
+    "pregunta": "¿Qué caracteriza a la colitis seudomembranosa?",
+    "opciones": ["Lesiones en piel", "Placas amarillentas/blanquecinas en mucosa colónica", "Coloración azulada en mucosa", "Edema pulmonar"],
+    "respuesta": "Placas amarillentas/blanquecinas en mucosa colónica"
+  },
+  {
+    "pregunta": "¿Qué complicación puede producir la colitis seudomembranosa?",
+    "opciones": ["Peritonitis viral", "Megacolon tóxico", "Insuficiencia renal", "Shock anafiláctico"],
+    "respuesta": "Megacolon tóxico"
+  },
+  {
+    "pregunta": "¿Qué síntoma es típico de la colitis seudomembranosa?",
+    "opciones": ["Somnolencia severa", "Diarrea profusa y espasmos abdominales", "Hemorragia nasal", "Dolor torácico"],
+    "respuesta": "Diarrea profusa y espasmos abdominales"
+  },
+  {
+    "pregunta": "¿Qué caracteriza a los portadores asintomáticos?",
+    "opciones": ["Tienen diarrea leve", "Presentan fiebre intermitente", "Están colonizados sin síntomas", "Tienen infección pulmonar"],
+    "respuesta": "Están colonizados sin síntomas"
+  },
+  {
+    "pregunta": "¿Qué riesgo representan los portadores asintomáticos?",
+    "opciones": ["Disminuyen la transmisión", "Pueden actuar como reservorio", "Generan resistencia a fármacos", "Producen toxinas en sangre"],
+    "respuesta": "Pueden actuar como reservorio"
+  },
+  {
+    "pregunta": "¿Qué detectan los métodos tradicionales de diagnóstico?",
+    "opciones": ["ARN ribosomal", "Enterotoxina o citotoxina en heces", "Antígenos virales", "Proteínas de membrana"],
+    "respuesta": "Enterotoxina o citotoxina en heces"
+  },
+  {
+    "pregunta": "¿Qué identifican las técnicas moleculares en el diagnóstico?",
+    "opciones": ["Genes de resistencia", "Genes de toxinas A y B", "Genes mitocondriales", "Genes de flagelos"],
+    "respuesta": "Genes de toxinas A y B"
+  },
+  {
+    "pregunta": "¿Qué permite el cultivo microbiológico?",
+    "opciones": ["Aumentar la inflamación", "Aislar la bacteria en medios anaerobios selectivos", "Medir la motilidad bacteriana", "Detectar virus intestinales"],
+    "respuesta": "Aislar la bacteria en medios anaerobios selectivos"
+  },
+  {
+    "pregunta": "¿Cuál es el primer paso en el tratamiento de casos leves?",
+    "opciones": ["Administrar probióticos", "Suspender el antibiótico causante", "Hospitalización inmediata", "Aplicar antitoxinas"],
+    "respuesta": "Suspender el antibiótico causante"
+  },
+  {
+    "pregunta": "¿Qué fármacos se usan como primera línea en casos moderados a graves?",
+    "opciones": ["Amoxicilina o cefalexina", "Metronidazol o vancomicina", "Azitromicina o eritromicina", "Penicilina o clindamicina"],
+    "respuesta": "Metronidazol o vancomicina"
+  },
+  {
+    "pregunta": "¿Qué se recomienda en caso de recidiva?",
+    "opciones": ["Cambiar a otro antibiótico", "Segunda tanda del mismo antibiótico", "Suspender todo tratamiento", "Cirugía inmediata"],
+    "respuesta": "Segunda tanda del mismo antibiótico"
+  },
+  {
+    "pregunta": "¿Por qué ocurren recurrencias de la infección?",
+    "opciones": ["Por alteración hepática", "Porque las esporas no mueren con antibióticos", "Por resistencia viral", "Por aumento de secreción gástrica"],
+    "respuesta": "Porque las esporas no mueren con antibióticos"
+  },
+  {
+    "pregunta": "¿Qué incluye la preparación del donante en un trasplante fecal?",
+    "opciones": ["Ayuno prolongado", "Terapia hormonal", "Cribado de patógenos", "Consumo de probióticos"],
+    "respuesta": "Cribado de patógenos"
+  },
+  {
+    "pregunta": "¿Cómo se administra el trasplante fecal?",
+    "opciones": ["Solo vía intravenosa", "Por inhalación", "Por colonoscopia, enema o cápsula oral", "Por vía intramuscular"],
+    "respuesta": "Por colonoscopia, enema o cápsula oral"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene el trasplante fecal?",
+    "opciones": ["Eliminar toxinas", "Restaurar la flora intestinal normal", "Reducir la motilidad intestinal", "Aumentar la acidez gástrica"],
+    "respuesta": "Restaurar la flora intestinal normal"
+  },
+  {
+    "pregunta": "¿Por qué no es suficiente el alcohol para higiene de manos en estos casos?",
+    "opciones": ["Es tóxico para la piel", "No elimina esporas", "No elimina bacterias en general", "Evapora demasiado rápido"],
+    "respuesta": "No elimina esporas"
+  },
+  {
+    "pregunta": "¿Qué tipo de desinfección es necesaria en superficies hospitalarias?",
+    "opciones": ["Desinfectantes comunes", "Agentes antivirales", "Agentes esporicidas", "Solución salina"],
+    "respuesta": "Agentes esporicidas"
+  },
+  {
+    "pregunta": "¿Qué factor dificulta el control de infecciones por C. difficile?",
+    "opciones": ["Su crecimiento lento", "Su incapacidad para producir toxinas", "Su esporulación y resistencia a antibióticos", "Su requerimiento de oxígeno"],
+    "respuesta": "Su esporulación y resistencia a antibióticos"
+  }
+]

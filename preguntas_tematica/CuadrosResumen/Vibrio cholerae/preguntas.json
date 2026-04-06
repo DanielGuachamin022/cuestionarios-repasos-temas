@@ -1,0 +1,207 @@
+[
+  {
+    "pregunta": "¿En qué rango de temperatura puede crecer V. cholerae?",
+    "opciones": ["0°C a 10°C", "14°C a 40°C", "10°C a 20°C", "20°C a 30°C"],
+    "respuesta": "14°C a 40°C"
+  },
+  {
+    "pregunta": "¿En qué tipo de medios puede crecer V. cholerae?",
+    "opciones": ["Medios con sal", "Medios sencillos sin añadir sal", "Medios con pH ácido", "Medios con nutrientes específicos"],
+    "respuesta": "Medios sencillos sin añadir sal"
+  },
+  {
+    "pregunta": "¿Qué rango de pH tolera V. cholerae?",
+    "opciones": ["pH 4.0 a 6.0", "pH 6.5 a 9", "pH 3.0 a 5.0", "pH 7.0 a 8.5"],
+    "respuesta": "pH 6.5 a 9"
+  },
+  {
+    "pregunta": "¿Cómo se describe la morfología de V. cholerae?",
+    "opciones": ["Bacilo Grampositivo", "Coco Gramnegativo", "Bacilo Gramnegativo curvo", "Bacilo Gramnegativo en cadena"],
+    "respuesta": "Bacilo Gramnegativo curvo"
+  },
+  {
+    "pregunta": "¿Qué tipo de toxina produce V. cholerae?",
+    "opciones": ["Toxina A-B", "Toxina enterotoxica", "Toxina de la zónula oclusiva", "Toxina que causa fiebre"],
+    "respuesta": "Toxina A-B"
+  },
+  {
+    "pregunta": "¿Qué estructura facilita la adherencia de V. cholerae?",
+    "opciones": ["Flagelo", "Pilus", "Espora", "Cápsula"],
+    "respuesta": "Pilus"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene la toxina A-B de V. cholerae?",
+    "opciones": ["Reduce la secreción de agua", "Causa fiebre", "Provoca hipersecreción de agua y electrolitos", "Inhibe el crecimiento celular"],
+    "respuesta": "Provoca hipersecreción de agua y electrolitos"
+  },
+  {
+    "pregunta": "¿Cuánto líquido puede perder una persona afectada por cólera durante la máxima actividad?",
+    "opciones": ["Hasta 0.5 litros por hora", "Hasta 1 litro por hora", "Hasta 2 litros por hora", "Hasta 3 litros por hora"],
+    "respuesta": "Hasta 1 litro por hora"
+  },
+  {
+    "pregunta": "¿Qué otra toxina produce V. cholerae además de la toxina A-B?",
+    "opciones": ["Toxina del cólera O1", "Toxina de la zónula oclusiva", "Enterotoxina accesoria", "Toxina de la cápsula"],
+    "respuesta": "Enterotoxina accesoria"
+  },
+  {
+    "pregunta": "¿Qué función tiene la toxina de la zónula oclusiva?",
+    "opciones": ["Inhibe la secreción de agua", "Relaja las uniones estrechas de la mucosa intestinal", "Aumenta la cantidad de agua absorbida", "Reduce la permeabilidad intestinal"],
+    "respuesta": "Relaja las uniones estrechas de la mucosa intestinal"
+  },
+  {
+    "pregunta": "¿En qué tipo de ecosistemas crece naturalmente V. cholerae?",
+    "opciones": ["Lagos de alta montaña", "Estuarios", "Desiertos", "Bosques tropicales"],
+    "respuesta": "Estuarios"
+  },
+  {
+    "pregunta": "¿En qué tipo de aguas se replica V. cholerae?",
+    "opciones": ["Aguas dulces", "Aguas con baja salinidad", "Aguas con alta salinidad", "Aguas de ríos contaminados"],
+    "respuesta": "Aguas con alta salinidad"
+  },
+  {
+    "pregunta": "¿En qué animales se prolifera V. cholerae?",
+    "opciones": ["Mamíferos marinos", "Crustáceos quitinosos como ostras y almejas", "Aves acuáticas", "Peces de agua dulce"],
+    "respuesta": "Crustáceos quitinosos como ostras y almejas"
+  },
+  {
+    "pregunta": "¿En qué año comenzó la primera pandemia de cólera documentada?",
+    "opciones": ["1800", "1817", "1901", "2000"],
+    "respuesta": "1817"
+  },
+  {
+    "pregunta": "¿En qué año se registró la séptima pandemia de cólera?",
+    "opciones": ["1961", "1970", "1985", "1995"],
+    "respuesta": "1961"
+  },
+  {
+    "pregunta": "¿Dónde comenzó la séptima pandemia de cólera?",
+    "opciones": ["África", "Europa", "Asia", "América del Sur"],
+    "respuesta": "Asia"
+  },
+  {
+    "pregunta": "¿En qué país de América comenzó la epidemia de cólera en 1991?",
+    "opciones": ["México", "Perú", "Brasil", "Colombia"],
+    "respuesta": "Perú"
+  },
+  {
+    "pregunta": "¿Qué serotipo de V. cholerae apareció en India en 1992?",
+    "opciones": ["O1 El Tor", "O139 Bengal", "O139 Asiático", "O1 Classical"],
+    "respuesta": "O139 Bengal"
+  },
+  {
+    "pregunta": "¿En qué año ocurrió una epidemia de cólera en Bangladés después de inundaciones?",
+    "opciones": ["2000", "2004", "2005", "2006"],
+    "respuesta": "2004"
+  },
+  {
+    "pregunta": "¿Dónde ocurrió un brote significativo de cólera en 2008-2009?",
+    "opciones": ["Zimbabue", "Etiopía", "Sudán", "Somalia"],
+    "respuesta": "Zimbabue"
+  },
+  {
+    "pregunta": "¿En qué país ocurrió una epidemia de cólera tras el terremoto de 2010?",
+    "opciones": ["Haití", "Chile", "México", "Japón"],
+    "respuesta": "Haití"
+  },
+  {
+    "pregunta": "¿Cuántos casos de cólera se estiman anualmente en el mundo?",
+    "opciones": ["1-2 millones", "3-5 millones", "5-10 millones", "10-15 millones"],
+    "respuesta": "3-5 millones"
+  },
+  {
+    "pregunta": "¿Cuántos fallecimientos anuales se estiman debido al cólera?",
+    "opciones": ["50,000", "80,000", "120,000", "150,000"],
+    "respuesta": "120,000"
+  },
+  {
+    "pregunta": "¿Cuántos microorganismos de *Vibrio cholerae* se necesitan para causar la enfermedad en un pH gástrico normal?",
+    "opciones": ["10^5", "10^7", "10^8", "10^10"],
+    "respuesta": "10^8"
+  },
+  {
+    "pregunta": "¿Cuál es la principal forma de transmisión del cólera?",
+    "opciones": ["Aire contaminado", "Agua contaminada", "Contacto directo con personas infectadas", "Insectos"],
+    "respuesta": "Agua contaminada"
+  },
+  {
+    "pregunta": "¿En qué personas se presenta mayor riesgo de sufrir cólera grave?",
+    "opciones": ["Niños sanos", "Personas con sistemas inmunitarios debilitados", "Adultos sanos", "Ancianos sin enfermedades previas"],
+    "respuesta": "Personas con sistemas inmunitarios debilitados"
+  },
+  {
+    "pregunta": "¿Cuándo suelen aparecer los síntomas del cólera tras la ingestión del microorganismo?",
+    "opciones": ["1-2 horas", "6-12 horas", "2-3 días", "5-7 días"],
+    "respuesta": "2-3 días"
+  },
+  {
+    "pregunta": "¿Cómo se describen las heces características del cólera?",
+    "opciones": ["Heces con sangre y mucosidad", "Heces incoloras e inodoras", "Heces líquidas con proteínas", "Heces duras y de color verde"],
+    "respuesta": "Heces incoloras e inodoras"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es una complicación del cólera?",
+    "opciones": ["Hiperpotasemia", "Acidosis metabólica", "Aumento de la presión arterial", "Hipotensión sin pérdida de líquidos"],
+    "respuesta": "Acidosis metabólica"
+  },
+  {
+    "pregunta": "¿Cuál es el factor clave para reducir la mortalidad por cólera?",
+    "opciones": ["Tratamiento antibiótico temprano", "Reposición precoz de líquidos y electrólitos", "Uso de antivirales", "Evitar el consumo de alimentos contaminados"],
+    "respuesta": "Reposición precoz de líquidos y electrólitos"
+  },
+  {
+    "pregunta": "¿Cuál es la tasa de mortalidad en pacientes no tratados por cólera?",
+    "opciones": ["Menor al 10%", "Menor al 30%", "Menor al 50%", "Hasta el 70%"],
+    "respuesta": "Hasta el 70%"
+  },
+  {
+    "pregunta": "¿Cómo se diagnostica el cólera?",
+    "opciones": ["Solo por síntomas clínicos", "Mediante microscopía directa, inmunoanálisis y cultivo", "Por análisis de sangre", "Mediante radiografías"],
+    "respuesta": "Mediante microscopía directa, inmunoanálisis y cultivo"
+  },
+  {
+    "pregunta": "¿Cuál es el tratamiento principal para prevenir el shock hipovolémico en pacientes con cólera?",
+    "opciones": ["Uso de antibióticos", "Reposición de líquidos", "Cirugía", "Reposición de nutrientes"],
+    "respuesta": "Reposición de líquidos"
+  },
+  {
+    "pregunta": "¿Cuál es el antibiótico de elección para el tratamiento del cólera en niños y adultos?",
+    "opciones": ["Penicilina", "Azitromicina", "Amoxicilina", "Tetraciclina"],
+    "respuesta": "Azitromicina"
+  },
+  {
+    "pregunta": "¿Qué antibiótico puede usarse como alternativa al tratamiento con azitromicina en adultos?",
+    "opciones": ["Ciprofloxacino", "Clindamicina", "Levofloxacino", "Rifampicina"],
+    "respuesta": "Ciprofloxacino"
+  },
+  {
+    "pregunta": "¿Qué medio selectivo se utiliza para cultivar *Vibrio cholerae*?",
+    "opciones": ["Agar MacConkey", "Agar sangre", "Agar TCBS", "Agar nutritivo"],
+    "respuesta": "Agar TCBS"
+  },
+  {
+    "pregunta": "¿Qué caldo se utiliza para enriquecer el cultivo de *Vibrio cholerae*?",
+    "opciones": ["Caldo nutritivo", "Caldo de peptona alcalino", "Caldo de tioglicolato", "Caldo de peptonas ácidas"],
+    "respuesta": "Caldo de peptona alcalino"
+  },
+  {
+    "pregunta": "¿Qué mejora las condiciones para prevenir el cólera?",
+    "opciones": ["Mejorar la calidad del aire", "Mejorar las condiciones sanitarias y acceso a agua potable", "Vacunación masiva", "Aislamiento de las personas infectadas"],
+    "respuesta": "Mejorar las condiciones sanitarias y acceso a agua potable"
+  },
+  {
+    "pregunta": "¿Qué tipo de heces se observan en la progresión del cólera?",
+    "opciones": ["Heces sanguinolentas", "Heces en agua de arroz", "Heces con mucosidad y sangre", "Heces con un fuerte olor a ácido"],
+    "respuesta": "Heces en agua de arroz"
+  },
+  {
+    "pregunta": "¿Qué complicación puede surgir debido a la pérdida de líquidos en el cólera?",
+    "opciones": ["Hipertensión", "Shock hipovolémico", "Hipertermia", "Aumento de la glucosa en sangre"],
+    "respuesta": "Shock hipovolémico"
+  },
+  {
+    "pregunta": "¿Cuál es el tipo de *Vibrio cholerae* que se utiliza en los cultivos para su diagnóstico?",
+    "opciones": ["*V. cholerae* O1 El Tor", "*V. cholerae* O139 Bengal", "*V. cholerae* O2", "*V. cholerae* O1 Classical"],
+    "respuesta": "*V. cholerae* O1 El Tor"
+  }
+]

@@ -1,0 +1,1302 @@
+[
+    {
+        "pregunta": "¿Qué define el alcance del marco CyBOK?",
+        "opciones": [
+            "Las normas ISO de ciberseguridad",
+            "Las buenas prácticas de programación",
+            "Sus 21 KA organizadas en cinco categorías",
+            "La clasificación de los tipos de ataques"
+        ],
+        "respuesta": "Sus 21 KA organizadas en cinco categorías"
+    },
+    {
+        "pregunta": "¿Cuál es uno de los enfoques clave en la gestión de riesgos de ciberseguridad?",
+        "opciones": [
+            "El diseño de hardware",
+            "La programación orientada a objetos",
+            "La gobernanza de riesgos",
+            "El análisis de big data"
+        ],
+        "respuesta": "La gobernanza de riesgos"
+    },
+    {
+        "pregunta": "¿Qué tema abarca el KA de Derecho y regulación?",
+        "opciones": [
+            "La gestión de usuarios en la nube",
+            "La ciberdefensa estatal",
+            "La jurisdicción y la protección de datos",
+            "Los algoritmos de cifrado simétrico"
+        ],
+        "respuesta": "La jurisdicción y la protección de datos"
+    },
+    {
+        "pregunta": "¿Cuál es una preocupación clave del subtema de privacidad y derechos en línea?",
+        "opciones": [
+            "El uso de certificados digitales",
+            "El control de acceso a bases de datos",
+            "La autonomía de los individuos",
+            "La velocidad de conexión a Internet"
+        ],
+        "respuesta": "La autonomía de los individuos"
+    },
+    {
+        "pregunta": "¿Qué cubre el KA de criptografía?",
+        "opciones": [
+            "Técnicas de intrusión",
+            "Primitivas, esquemas y protocolos",
+            "Gestión de bases de datos",
+            "Seguridad en redes sociales"
+        ],
+        "respuesta": "Primitivas, esquemas y protocolos"
+    },
+    {
+        "pregunta": "¿Qué analiza el subtema de seguridad del sistema operativo?",
+        "opciones": [
+            "La interoperabilidad entre sistemas",
+            "El rendimiento de los discos duros",
+            "El modelo de atacante y el endurecimiento del sistema",
+            "Los algoritmos de compresión de datos"
+        ],
+        "respuesta": "El modelo de atacante y el endurecimiento del sistema"
+    },
+    {
+        "pregunta": "¿Qué tema trata el KA de verificación formal?",
+        "opciones": [
+            "La integración de bases de datos",
+            "La verificación de propiedades de seguridad",
+            "El desarrollo de interfaces gráficas",
+            "El uso de contraseñas seguras"
+        ],
+        "respuesta": "La verificación de propiedades de seguridad"
+    },
+    {
+        "pregunta": "¿Qué incluye el estudio de adversarios y operaciones maliciosas?",
+        "opciones": [
+            "La creación de software educativo",
+            "La caracterización de actores como hacktivistas y ciberdelincuentes",
+            "La protección de redes sociales",
+            "El cifrado de datos personales"
+        ],
+        "respuesta": "La caracterización de actores como hacktivistas y ciberdelincuentes"
+    },
+    {
+        "pregunta": "¿Cuál es el enfoque principal del subtema de investigación digital?",
+        "opciones": [
+            "El desarrollo de antivirus",
+            "La implementación de firewalls",
+            "La realización de investigaciones forenses digitales",
+            "La programación de sistemas distribuidos"
+        ],
+        "respuesta": "La realización de investigaciones forenses digitales"
+    },
+    {
+        "pregunta": "¿Qué analiza el KA de seguridad del hardware?",
+        "opciones": [
+            "La gestión de identidades en línea",
+            "La configuración de redes privadas",
+            "Los ataques de canal lateral y troyanos de hardware",
+            "Los lenguajes de programación para microcontroladores"
+        ],
+        "respuesta": "Los ataques de canal lateral y troyanos de hardware"
+    },
+    {
+        "pregunta": "¿Qué subtema del CyBOK se enfoca en los modelos descentralizados como P2P?",
+        "opciones": [
+            "Seguridad del sistema operativo",
+            "Verificación formal",
+            "Seguridad de los sistemas distribuidos",
+            "Gestión de riesgos de ciberseguridad"
+        ],
+        "respuesta": "Seguridad de los sistemas distribuidos"
+    },
+    {
+        "pregunta": "¿Cuál es una función clave de la autenticación en sistemas distribuidos?",
+        "opciones": [
+            "Optimizar el uso de recursos",
+            "Controlar el acceso y verificar identidades",
+            "Acelerar el procesamiento paralelo",
+            "Reducir el consumo energético"
+        ],
+        "respuesta": "Controlar el acceso y verificar identidades"
+    },
+    {
+        "pregunta": "¿Qué tipo de vulnerabilidad incluye condiciones de carrera?",
+        "opciones": [
+            "Vulnerabilidades de implementación",
+            "Errores de cifrado",
+            "Fallos en redes inalámbricas",
+            "Desbordamientos en HTML"
+        ],
+        "respuesta": "Vulnerabilidades de implementación"
+    },
+    {
+        "pregunta": "¿Qué concepto se refiere al control de acceso basado en diálogos de permisos?",
+        "opciones": [
+            "Modelos de cifrado móvil",
+            "Control de acceso en aplicaciones web y móviles",
+            "Verificación de firmas digitales",
+            "Autenticación con tarjetas inteligentes"
+        ],
+        "respuesta": "Control de acceso en aplicaciones web y móviles"
+    },
+    {
+        "pregunta": "¿Qué se busca con un ciclo de vida de software seguro?",
+        "opciones": [
+            "Reducir el uso de hardware costoso",
+            "Asegurar la integración de seguridad en todo el proceso de desarrollo",
+            "Aumentar la velocidad de desarrollo",
+            "Eliminar la necesidad de pruebas automatizadas"
+        ],
+        "respuesta": "Asegurar la integración de seguridad en todo el proceso de desarrollo"
+    },
+    {
+        "pregunta": "¿Qué tipo de adversario puede estar motivado por fines políticos o sociales?",
+        "opciones": [
+            "Ciberdelincuentes organizados",
+            "Hacktivistas",
+            "Actores estatales",
+            "Estafadores financieros"
+        ],
+        "respuesta": "Hacktivistas"
+    },
+    {
+        "pregunta": "¿Qué tecnología se usa comúnmente para prevenir intrusiones?",
+        "opciones": [
+            "Compiladores de bajo nivel",
+            "Sistemas de detección de intrusiones (IDS)",
+            "Proveedores de DNS públicos",
+            "Bases de datos distribuidas"
+        ],
+        "respuesta": "Sistemas de detección de intrusiones (IDS)"
+    },
+    {
+        "pregunta": "¿Qué actividad es parte del análisis forense digital?",
+        "opciones": [
+            "Despliegue de honeypots",
+            "Análisis de datos digitales",
+            "Implementación de IA en redes",
+            "Optimización de algoritmos"
+        ],
+        "respuesta": "Análisis de datos digitales"
+    },
+    {
+        "pregunta": "¿Cuál es uno de los objetivos de la seguridad de la red?",
+        "opciones": [
+            "Reducir el tráfico de red",
+            "Aumentar la latencia",
+            "Garantizar la confidencialidad y disponibilidad",
+            "Evitar el uso de protocolos modernos"
+        ],
+        "respuesta": "Garantizar la confidencialidad y disponibilidad"
+    },
+    {
+        "pregunta": "¿Qué amenaza específica es tratada por la seguridad de los sistemas ciberfísicos?",
+        "opciones": [
+            "Acceso no autorizado a bases de datos",
+            "Errores en compilación de código",
+            "Amenazas a dispositivos médicos y sistemas de transporte",
+            "Fallos en actualizaciones de software"
+        ],
+        "respuesta": "Amenazas a dispositivos médicos y sistemas de transporte"
+    },
+    {
+        "pregunta": "¿Qué técnica de seguridad aprovecha la reciprocidad del canal inalámbrico?",
+        "opciones": [
+            "Redundancia de hardware",
+            "Sandboxing distribuido",
+            "Establecimiento de claves en la capa física",
+            "Control de acceso jerárquico"
+        ],
+        "respuesta": "Establecimiento de claves en la capa física"
+    },
+    {
+        "pregunta": "¿Qué describe mejor al riesgo en el contexto de la seguridad?",
+        "opciones": [
+            "La causa raíz de una vulnerabilidad técnica",
+            "La posibilidad de que ocurra un evento adverso que afecte a un sistema",
+            "Una lista de amenazas detectadas en un sistema",
+            "La cantidad de recursos que consume un sistema inseguro"
+        ],
+        "respuesta": "La posibilidad de que ocurra un evento adverso que afecte a un sistema"
+    },
+    {
+        "pregunta": "¿Cuál es uno de los objetivos principales de la gestión de riesgos?",
+        "opciones": [
+            "Optimizar el rendimiento del sistema",
+            "Minimizar las interrupciones de red",
+            "Garantizar la continuidad del negocio",
+            "Reducir el tiempo de desarrollo"
+        ],
+        "respuesta": "Garantizar la continuidad del negocio"
+    },
+    {
+        "pregunta": "¿Qué aspecto humano puede influir en la interpretación de la información sobre riesgos?",
+        "opciones": [
+            "Velocidad de procesamiento de datos",
+            "Nivel de tráfico en la red",
+            "Creencias personales",
+            "Capacidad de almacenamiento del sistema"
+        ],
+        "respuesta": "Creencias personales"
+    },
+    {
+        "pregunta": "¿Qué se recomienda para una comunicación eficaz de riesgos?",
+        "opciones": [
+            "Evitar hablar de consecuencias",
+            "Establecer canales encriptados únicamente",
+            "Usar lenguaje técnico para demostrar autoridad",
+            "Adaptar el mensaje a la audiencia y usar un lenguaje claro"
+        ],
+        "respuesta": "Adaptar el mensaje a la audiencia y usar un lenguaje claro"
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de métrica de seguridad?",
+        "opciones": [
+            "La cantidad de memoria RAM disponible",
+            "El número de empleados que completan formación en seguridad",
+            "El número de visitas al sitio web",
+            "La frecuencia de cambios en el sistema operativo"
+        ],
+        "respuesta": "El número de empleados que completan formación en seguridad"
+    },
+    {
+        "pregunta": "¿Para qué se utilizan las métricas en seguridad?",
+        "opciones": [
+            "Desarrollar nuevas funciones del sistema",
+            "Medir el costo del hardware",
+            "Supervisar y evaluar la seguridad de un sistema",
+            "Eliminar automáticamente vulnerabilidades"
+        ],
+        "respuesta": "Supervisar y evaluar la seguridad de un sistema"
+    },
+    {
+        "pregunta": "¿Qué diferencia a la perspectiva de componentes en la gestión de riesgos?",
+        "opciones": [
+            "Se enfoca en el sistema completo y sus interacciones",
+            "Considera exclusivamente amenazas externas",
+            "Analiza riesgos asociados a elementos específicos",
+            "Evalúa solo aspectos financieros del riesgo"
+        ],
+        "respuesta": "Analiza riesgos asociados a elementos específicos"
+    },
+    {
+        "pregunta": "¿Qué ventaja tiene la perspectiva de sistemas frente a la de componentes?",
+        "opciones": [
+            "Permite medir el rendimiento de cada componente",
+            "Es más simple y rápida de aplicar",
+            "Identifica riesgos que surgen de la interacción entre componentes",
+            "Solo se necesita cuando hay ataques activos"
+        ],
+        "respuesta": "Identifica riesgos que surgen de la interacción entre componentes"
+    },
+    {
+        "pregunta": "¿Cuál es una característica principal del método Octave Allegro?",
+        "opciones": [
+            "Se basa en métricas cuantitativas",
+            "Se enfoca en amenazas externas exclusivamente",
+            "Utiliza escenarios reales y un enfoque cualitativo",
+            "Está centrado en los derechos de privacidad de los usuarios"
+        ],
+        "respuesta": "Utiliza escenarios reales y un enfoque cualitativo"
+    },
+    {
+        "pregunta": "¿Cuál es una debilidad del enfoque STRIDE?",
+        "opciones": [
+            "No permite modelar amenazas sistemáticamente",
+            "Es demasiado abstracto para entornos reales",
+            "Puede no capturar todos los fallos potenciales",
+            "Se enfoca solo en riesgos financieros"
+        ],
+        "respuesta": "Puede no capturar todos los fallos potenciales"
+    },
+    {
+        "pregunta": "¿Qué distingue al enfoque NIST SP800-30/39?",
+        "opciones": [
+            "Aborda principalmente la formación del personal",
+            "Se enfoca en la gestión de riesgos tecnológicos",
+            "Utiliza entrevistas para evaluar el clima organizacional",
+            "Prioriza exclusivamente riesgos físicos"
+        ],
+        "respuesta": "Se enfoca en la gestión de riesgos tecnológicos"
+    },
+    {
+        "pregunta": "¿Por qué es importante considerar la cultura de seguridad en una organización?",
+        "opciones": [
+            "Permite prescindir de políticas formales",
+            "Evita la inversión en herramientas tecnológicas",
+            "Facilita la adopción y cumplimiento de políticas de seguridad",
+            "Limita la necesidad de formación técnica"
+        ],
+        "respuesta": "Facilita la adopción y cumplimiento de políticas de seguridad"
+    },
+    {
+        "pregunta": "¿Qué puede causar una cultura de seguridad débil en una organización?",
+        "opciones": [
+            "Mayor cumplimiento normativo",
+            "Reducción del riesgo tecnológico",
+            "Negligencia y aumento de incidentes de seguridad",
+            "Automatización de procesos seguros"
+        ],
+        "respuesta": "Negligencia y aumento de incidentes de seguridad"
+    },
+    {
+        "pregunta": "¿Qué establece el derecho sustantivo en el contexto de la ciberseguridad?",
+        "opciones": [
+            "Procedimientos para denunciar un ataque",
+            "Sanciones económicas por ciberataques",
+            "Derechos y obligaciones sobre el uso de datos",
+            "El diseño de controles técnicos de seguridad"
+        ],
+        "respuesta": "Derechos y obligaciones sobre el uso de datos"
+    },
+    {
+        "pregunta": "¿Cuál es el propósito principal del derecho procesal en ciberseguridad?",
+        "opciones": [
+            "Definir la estructura de los sistemas TI",
+            "Desarrollar políticas internas de acceso",
+            "Establecer procedimientos para hacer cumplir el derecho sustantivo",
+            "Formar comités de seguridad informática"
+        ],
+        "respuesta": "Establecer procedimientos para hacer cumplir el derecho sustantivo"
+    },
+    {
+        "pregunta": "¿Qué criterio es clave al elegir un método de evaluación de riesgos?",
+        "opciones": [
+            "El diseño gráfico del informe",
+            "El tipo de sistema evaluado y los recursos disponibles",
+            "La disponibilidad de personal de marketing",
+            "La facilidad de uso para clientes externos"
+        ],
+        "respuesta": "El tipo de sistema evaluado y los recursos disponibles"
+    },
+    {
+        "pregunta": "¿Cuál es una dificultad principal al aplicar la jurisdicción en delitos cibernéticos?",
+        "opciones": [
+            "La falta de jueces especializados en tecnología",
+            "El uso de contraseñas débiles por parte de los usuarios",
+            "La naturaleza transfronteriza de Internet",
+            "La alta velocidad de las redes modernas"
+        ],
+        "respuesta": "La naturaleza transfronteriza de Internet"
+    },
+    {
+        "pregunta": "¿Qué factor puede considerarse para determinar la jurisdicción en el entorno en línea?",
+        "opciones": [
+            "El número de clics en el sitio web",
+            "La dirección IP de los usuarios legítimos",
+            "La ubicación de los servidores implicados",
+            "El tipo de navegador utilizado"
+        ],
+        "respuesta": "La ubicación de los servidores implicados"
+    },
+    {
+        "pregunta": "¿Qué responsabilidad tiene un proveedor de servicios de confianza?",
+        "opciones": [
+            "Proteger la privacidad mediante redes sociales",
+            "Garantizar la seguridad y fiabilidad de sus servicios",
+            "Capacitar al usuario en gestión de contraseñas",
+            "Otorgar licencias de navegación segura"
+        ],
+        "respuesta": "Garantizar la seguridad y fiabilidad de sus servicios"
+    },
+    {
+        "pregunta": "¿Cuál es un derecho del usuario dentro de los servicios de confianza?",
+        "opciones": [
+            "Acceso a todas las bases de datos gubernamentales",
+            "Rechazo a todo tipo de autenticación digital",
+            "Esperar un nivel adecuado de seguridad y protección",
+            "Utilizar claves públicas sin restricciones"
+        ],
+        "respuesta": "Esperar un nivel adecuado de seguridad y protección"
+    },
+    {
+        "pregunta": "¿Qué puede generar la negligencia en ciberseguridad desde el punto de vista legal?",
+        "opciones": [
+            "Multas por no actualizar redes sociales",
+            "Responsabilidad legal por daños y perjuicios",
+            "Pérdida de acceso a internet",
+            "Limitación en el uso de cifrado"
+        ],
+        "respuesta": "Responsabilidad legal por daños y perjuicios"
+    },
+    {
+        "pregunta": "¿Cuál es una causa común de negligencia en ciberseguridad?",
+        "opciones": [
+            "Uso de conexiones rápidas",
+            "Falta de herramientas gráficas",
+            "No ejercer el cuidado razonable sobre sistemas y datos",
+            "Implementar firewalls redundantes"
+        ],
+        "respuesta": "No ejercer el cuidado razonable sobre sistemas y datos"
+    },
+    {
+        "pregunta": "¿Qué tipo de información se considera PII?",
+        "opciones": [
+            "Datos públicos de empresas",
+            "Información del clima local",
+            "Nombre y datos biométricos de una persona",
+            "Noticias de interés general"
+        ],
+        "respuesta": "Nombre y datos biométricos de una persona"
+    },
+    {
+        "pregunta": "¿Qué establece el RGPD en relación con la PII?",
+        "opciones": [
+            "Normas para el monitoreo de redes sociales",
+            "Estándares de diseño web accesible",
+            "Reglas estrictas sobre tratamiento y almacenamiento de datos personales",
+            "Protocolos de cifrado para juegos en línea"
+        ],
+        "respuesta": "Reglas estrictas sobre tratamiento y almacenamiento de datos personales"
+    },
+    {
+        "pregunta": "¿Qué factor interno puede dificultar el cumplimiento de prácticas de seguridad?",
+        "opciones": [
+            "Uso de Wi-Fi público",
+            "Memoria a corto plazo limitada",
+            "Disponibilidad de antivirus gratuito",
+            "Actualización automática del sistema"
+        ],
+        "respuesta": "Memoria a corto plazo limitada"
+    },
+    {
+        "pregunta": "¿Qué situación contextual puede afectar negativamente la seguridad del usuario?",
+        "opciones": [
+            "Seguir una rutina segura",
+            "Recibir formación constante",
+            "Tener prisa y omitir pasos de seguridad",
+            "Utilizar autenticación de dos factores"
+        ],
+        "respuesta": "Tener prisa y omitir pasos de seguridad"
+    },
+    {
+        "pregunta": "¿Qué estrategia mejora la usabilidad de tareas de seguridad según las capacidades humanas?",
+        "opciones": [
+            "Aumentar la complejidad de las contraseñas",
+            "Minimizar la carga cognitiva y física del usuario",
+            "Utilizar interfaces gráficas complejas",
+            "Obligar a cambiar contraseñas semanalmente"
+        ],
+        "respuesta": "Minimizar la carga cognitiva y física del usuario"
+    },
+    {
+        "pregunta": "¿Cómo deben diseñarse las tareas poco frecuentes de seguridad?",
+        "opciones": [
+            "Con interfaces minimalistas sin ayuda",
+            "Priorizando rapidez y fuerza física",
+            "Guiando al usuario y reduciendo lo que debe recordar",
+            "Con múltiples opciones avanzadas para el usuario"
+        ],
+        "respuesta": "Guiando al usuario y reduciendo lo que debe recordar"
+    },
+    {
+        "pregunta": "¿Qué método formal puede usarse para evaluar la carga de trabajo en seguridad?",
+        "opciones": [
+            "Tasa de transferencia de datos",
+            "Índice de Masa Corporal (IMC)",
+            "Índice de Carga de Trabajo de la NASA (TLX)",
+            "Velocidad de conexión a Internet"
+        ],
+        "respuesta": "Índice de Carga de Trabajo de la NASA (TLX)"
+    },
+    {
+        "pregunta": "¿Qué permite identificar el método GOMS en tareas de seguridad?",
+        "opciones": [
+            "El tipo de cifrado ideal",
+            "El impacto de un ataque DDoS",
+            "El esfuerzo requerido en las tareas del usuario",
+            "La calidad de la red inalámbrica"
+        ],
+        "respuesta": "El esfuerzo requerido en las tareas del usuario"
+    },
+    {
+        "pregunta": "¿Qué hace la 'Contextual Inquiry' en el análisis de seguridad?",
+        "opciones": [
+            "Simula ataques cibernéticos",
+            "Combina observación y entrevista en entornos reales",
+            "Desarrolla algoritmos de cifrado",
+            "Implementa software de seguridad automáticamente"
+        ],
+        "respuesta": "Combina observación y entrevista en entornos reales"
+    },
+    {
+        "pregunta": "¿Qué se puede lograr observando a los usuarios en su entorno mediante 'Contextual Inquiry'?",
+        "opciones": [
+            "Detectar virus informáticos",
+            "Obtener métricas de velocidad de red",
+            "Identificar obstáculos de usabilidad y riesgos",
+            "Verificar el nivel de cifrado aplicado"
+        ],
+        "respuesta": "Identificar obstáculos de usabilidad y riesgos"
+    },
+    {
+        "pregunta": "¿Qué representa cada capa del modelo de 'queso suizo' en seguridad?",
+        "opciones": [
+            "Un único punto de control absoluto",
+            "Una capa de cifrado para el tráfico web",
+            "Una defensa con posibles vulnerabilidades",
+            "Un nivel de respaldo de datos en la nube"
+        ],
+        "respuesta": "Una defensa con posibles vulnerabilidades"
+    },
+    {
+        "pregunta": "¿Qué ocurre cuando los agujeros de las capas del modelo de 'queso suizo' se alinean?",
+        "opciones": [
+            "Se produce una defensa exitosa",
+            "Se detecta automáticamente una amenaza",
+            "Se genera un fallo en cadena y ocurre un incidente",
+            "Se refuerzan las políticas de acceso"
+        ],
+        "respuesta": "Se genera un fallo en cadena y ocurre un incidente"
+    },
+    {
+        "pregunta": "¿Qué estrategia es clave para mantener la concienciación en ciberseguridad en los empleados?",
+        "opciones": [
+            "Aplicar castigos por errores",
+            "Proveer formación periódica y relevante",
+            "Limitar el acceso a internet",
+            "Aumentar la vigilancia digital"
+        ],
+        "respuesta": "Proveer formación periódica y relevante"
+    },
+    {
+        "pregunta": "¿Qué elemento contribuye a una formación eficaz en seguridad?",
+        "opciones": [
+            "Contenido técnico avanzado sin explicación",
+            "Simulacros y boletines informativos",
+            "Prohibición del uso de dispositivos personales",
+            "Cursos obligatorios mensuales para todos"
+        ],
+        "respuesta": "Simulacros y boletines informativos"
+    },
+    {
+        "pregunta": "¿Cuál es un principio clave de una cultura de 'Seguridad Positiva'?",
+        "opciones": [
+            "Evitar reportes de incidentes",
+            "Responsabilizar solo al departamento de TI",
+            "Incentivar el reporte abierto de amenazas",
+            "Reforzar la vigilancia constante del personal"
+        ],
+        "respuesta": "Incentivar el reporte abierto de amenazas"
+    },
+    {
+        "pregunta": "¿Qué actitud refleja una cultura de seguridad positiva?",
+        "opciones": [
+            "Castigar los errores humanos",
+            "Ignorar incidentes menores",
+            "Capacitar para decisiones seguras",
+            "Reforzar el miedo a los ciberataques"
+        ],
+        "respuesta": "Capacitar para decisiones seguras"
+    },
+    {
+        "pregunta": "¿Cuál es una preocupación principal sobre el tratamiento de datos personales?",
+        "opciones": [
+            "La velocidad del procesamiento",
+            "La pérdida de conexión a internet",
+            "La recopilación excesiva sin consentimiento",
+            "El uso de software de código abierto"
+        ],
+        "respuesta": "La recopilación excesiva sin consentimiento"
+    },
+    {
+        "pregunta": "¿Qué riesgo puede surgir del perfilado y la toma de decisiones automatizada?",
+        "opciones": [
+            "Mayor eficiencia del sistema",
+            "Discriminación y exclusión",
+            "Reducción de costos",
+            "Aumento del ancho de banda"
+        ],
+        "respuesta": "Discriminación y exclusión"
+    },
+    {
+        "pregunta": "¿Cómo puede definirse la privacidad para que sea útil en diseño de sistemas?",
+        "opciones": [
+            "Como restricción de todo acceso a datos",
+            "Como transparencia de código fuente",
+            "Como control sobre la información personal",
+            "Como eliminación automática de registros"
+        ],
+        "respuesta": "Como control sobre la información personal"
+    },
+    {
+        "pregunta": "¿Qué principio apoya la 'privacidad por diseño'?",
+        "opciones": [
+            "Retención indefinida de datos",
+            "Minimización de datos y transparencia",
+            "Automatización sin validación",
+            "Compartición amplia de datos"
+        ],
+        "respuesta": "Minimización de datos y transparencia"
+    },
+    {
+        "pregunta": "¿Qué hace la ofuscación de datos?",
+        "opciones": [
+            "Cifra los datos con clave pública",
+            "Elimina todos los datos sensibles",
+            "Transforma los datos para que sean difíciles de entender",
+            "Comprueba la integridad de los datos"
+        ],
+        "respuesta": "Transforma los datos para que sean difíciles de entender"
+    },
+    {
+        "pregunta": "¿Cuál es una característica principal de la encriptación?",
+        "opciones": [
+            "Hace que los datos sean accesibles sin claves",
+            "Convierte los datos en un formato ilegible sin clave de descifrado",
+            "Solo aplica a datos en tránsito",
+            "Requiere que el usuario esté conectado a internet"
+        ],
+        "respuesta": "Convierte los datos en un formato ilegible sin clave de descifrado"
+    },
+    {
+        "pregunta": "¿Qué técnica ayuda a evaluar el riesgo de inferencia en datos anonimizados?",
+        "opciones": [
+            "Hashing",
+            "Análisis de regresión",
+            "Prueba de k-anonimato",
+            "Compresión de datos"
+        ],
+        "respuesta": "Prueba de k-anonimato"
+    },
+    {
+        "pregunta": "¿Qué estrategia puede mitigar los riesgos de reidentificación?",
+        "opciones": [
+            "Incrementar la velocidad del procesamiento",
+            "Reducir la resolución de pantalla",
+            "Agregar ruido a los datos",
+            "Almacenar datos en formato XML"
+        ],
+        "respuesta": "Agregar ruido a los datos"
+    },
+    {
+        "pregunta": "¿Cómo pueden las organizaciones mejorar la comprensión de políticas de privacidad?",
+        "opciones": [
+            "Usando lenguaje técnico legal",
+            "Escondiendo los términos largos",
+            "Aplicando visualizaciones e interfaces interactivas",
+            "Obligando a leer todo el texto antes de aceptar"
+        ],
+        "respuesta": "Aplicando visualizaciones e interfaces interactivas"
+    },
+    {
+        "pregunta": "¿Qué herramienta facilita la toma de decisiones informadas sobre privacidad?",
+        "opciones": [
+            "Notificaciones contextuales",
+            "Contraseñas obligatorias de más de 20 caracteres",
+            "Listas negras de usuarios",
+            "Anuncios emergentes"
+        ],
+        "respuesta": "Notificaciones contextuales"
+    },
+    {
+        "pregunta": "¿Qué se evalúa con el modelado adversarial?",
+        "opciones": [
+            "La usabilidad del sistema",
+            "La velocidad del cifrado de datos",
+            "La capacidad de un adversario para inferir información",
+            "La compatibilidad de los navegadores web"
+        ],
+        "respuesta": "La capacidad de un adversario para inferir información"
+    },
+    {
+        "pregunta": "¿Para qué se modelan los conocimientos y estrategias de un adversario?",
+        "opciones": [
+            "Para prevenir errores humanos",
+            "Para simular ataques informáticos reales",
+            "Para identificar vulnerabilidades en mecanismos de anonimización",
+            "Para mejorar el diseño gráfico de la aplicación"
+        ],
+        "respuesta": "Para identificar vulnerabilidades en mecanismos de anonimización"
+    },
+    {
+        "pregunta": "¿Qué es el malware?",
+        "opciones": [
+            "Un sistema operativo seguro",
+            "Un tipo de firewall",
+            "Software malicioso que daña o explota sistemas",
+            "Un protocolo de red para anonimato"
+        ],
+        "respuesta": "Software malicioso que daña o explota sistemas"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes es una actividad maliciosa típica del malware?",
+        "opciones": [
+            "Reducir el consumo energético",
+            "Optimizar la velocidad del procesador",
+            "Robar información confidencial",
+            "Aumentar la capacidad de almacenamiento"
+        ],
+        "respuesta": "Robar información confidencial"
+    },
+    {
+        "pregunta": "¿Qué se hace durante el análisis estático de malware?",
+        "opciones": [
+            "Se ejecuta el malware en un entorno real",
+            "Se analiza el código sin ejecutarlo",
+            "Se rastrea la ubicación del atacante",
+            "Se evalúa el impacto financiero del malware"
+        ],
+        "respuesta": "Se analiza el código sin ejecutarlo"
+    },
+    {
+        "pregunta": "¿Cuál es el propósito del análisis dinámico de malware?",
+        "opciones": [
+            "Obtener firmas digitales del malware",
+            "Reducir el tamaño del código malicioso",
+            "Observar el comportamiento del malware en ejecución",
+            "Eliminar automáticamente el malware"
+        ],
+        "respuesta": "Observar el comportamiento del malware en ejecución"
+    },
+    {
+        "pregunta": "¿Qué característica tienen los entornos utilizados para análisis de malware?",
+        "opciones": [
+            "Conectividad total a internet",
+            "Ejecutan software sin restricciones",
+            "Están aislados para contener el malware",
+            "Operan directamente sobre servidores de producción"
+        ],
+        "respuesta": "Están aislados para contener el malware"
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de entorno seguro para analizar malware?",
+        "opciones": [
+            "Servidor DNS",
+            "Máquina virtual",
+            "Cortafuegos perimetral",
+            "Router inalámbrico"
+        ],
+        "respuesta": "Máquina virtual"
+    },
+    {
+        "pregunta": "¿Qué hace la monitorización basada en host?",
+        "opciones": [
+            "Controla el acceso a páginas web",
+            "Analiza tráfico de red desde servidores",
+            "Observa actividades sospechosas en puntos finales",
+            "Cifra los archivos del sistema operativo"
+        ],
+        "respuesta": "Observa actividades sospechosas en puntos finales"
+    },
+    {
+        "pregunta": "¿Qué permite detectar la monitorización basada en red?",
+        "opciones": [
+            "Cambios en el hardware del equipo",
+            "Conexiones con servidores de comando y control",
+            "Errores de programación en código fuente",
+            "Actualizaciones fallidas del sistema"
+        ],
+        "respuesta": "Conexiones con servidores de comando y control"
+    },
+    {
+        "pregunta": "¿Qué herramienta utiliza firmas y heurísticas para detectar malware?",
+        "opciones": [
+            "Firewall",
+            "Sistema de respaldo",
+            "Software antivirus",
+            "Cortafuegos de aplicaciones web"
+        ],
+        "respuesta": "Software antivirus"
+    },
+    {
+        "pregunta": "¿Qué técnica de respuesta al malware implica desconectar el sistema de la red?",
+        "opciones": [
+            "Restauración",
+            "Atribución",
+            "Aislamiento",
+            "Depuración"
+        ],
+        "respuesta": "Aislamiento"
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo del análisis forense tras un ataque de malware?",
+        "opciones": [
+            "Actualizar el sistema operativo",
+            "Instalar software de protección",
+            "Determinar cómo ocurrió el ataque y qué se vio afectado",
+            "Encriptar los datos del sistema"
+        ],
+        "respuesta": "Determinar cómo ocurrió el ataque y qué se vio afectado"
+    },
+    {
+        "pregunta": "¿Qué se busca con la atribución en la respuesta a ataques de malware?",
+        "opciones": [
+            "Identificar vulnerabilidades del sistema",
+            "Determinar la ubicación del malware en la red",
+            "Identificar a los atacantes responsables",
+            "Optimizar el rendimiento del sistema"
+        ],
+        "respuesta": "Identificar a los atacantes responsables"
+    },
+    {
+        "pregunta": "¿Cuál es uno de los objetivos principales de las operaciones de seguridad y la gestión de incidentes (SOIM)?",
+        "opciones": [
+            "Desarrollar aplicaciones móviles",
+            "Minimizar los tiempos de respuesta de red",
+            "Gestionar riesgos de seguridad y responder a incidentes",
+            "Optimizar el rendimiento del hardware"
+        ],
+        "respuesta": "Gestionar riesgos de seguridad y responder a incidentes"
+    },
+    {
+        "pregunta": "¿Qué implica la monitorización de seguridad?",
+        "opciones": [
+            "Realizar copias de seguridad automáticas",
+            "Analizar datos para detectar actividades sospechosas",
+            "Actualizar software antivirus",
+            "Cifrar toda la red empresarial"
+        ],
+        "respuesta": "Analizar datos para detectar actividades sospechosas"
+    },
+    {
+        "pregunta": "¿Cuál es una función de la mejora continua en SOIM?",
+        "opciones": [
+            "Reducir la velocidad del tráfico de red",
+            "Aumentar el ancho de banda disponible",
+            "Actualizar políticas y medidas tras incidentes de seguridad",
+            "Eliminar registros de eventos antiguos"
+        ],
+        "respuesta": "Actualizar políticas y medidas tras incidentes de seguridad"
+    },
+    {
+        "pregunta": "¿Qué tipo de sistemas se incluyen comúnmente en la arquitectura de SOIM?",
+        "opciones": [
+            "Sistemas CRM y ERP",
+            "Sistemas de diseño gráfico",
+            "Sistemas SIEM y herramientas de análisis forense",
+            "Sistemas de respaldo financiero"
+        ],
+        "respuesta": "Sistemas SIEM y herramientas de análisis forense"
+    },
+    {
+        "pregunta": "¿Cuál es una fuente común de datos utilizada en la monitorización de seguridad?",
+        "opciones": [
+            "Libros contables",
+            "Registros de sistema",
+            "Historias clínicas",
+            "Datos meteorológicos"
+        ],
+        "respuesta": "Registros de sistema"
+    },
+    {
+        "pregunta": "¿Qué información proporcionan los registros de red?",
+        "opciones": [
+            "Historial de navegación de usuarios",
+            "Estado de las impresoras",
+            "Tráfico de red, direcciones IP y protocolos",
+            "Códigos fuente de software"
+        ],
+        "respuesta": "Tráfico de red, direcciones IP y protocolos"
+    },
+    {
+        "pregunta": "¿Qué ofrecen las fuentes de inteligencia sobre amenazas?",
+        "opciones": [
+            "Nuevas licencias de software",
+            "Tácticas de atacantes y vulnerabilidades recientes",
+            "Contraseñas predeterminadas de usuarios",
+            "Protocolos de enrutamiento de red"
+        ],
+        "respuesta": "Tácticas de atacantes y vulnerabilidades recientes"
+    },
+    {
+        "pregunta": "¿Cómo funciona la detección de usos indebidos?",
+        "opciones": [
+            "Compara eventos con firmas de ataques conocidos",
+            "Bloquea automáticamente todos los puertos",
+            "Desactiva los antivirus del sistema",
+            "Desconecta todos los dispositivos inalámbricos"
+        ],
+        "respuesta": "Compara eventos con firmas de ataques conocidos"
+    },
+    {
+        "pregunta": "¿Qué hace la detección de anomalías?",
+        "opciones": [
+            "Ignora actividades normales del sistema",
+            "Elimina automáticamente archivos desconocidos",
+            "Detecta desviaciones del comportamiento normal",
+            "Restringe el acceso a todos los servicios de red"
+        ],
+        "respuesta": "Detecta desviaciones del comportamiento normal"
+    },
+    {
+        "pregunta": "¿Qué técnica utiliza la detección de anomalías para identificar comportamientos inusuales?",
+        "opciones": [
+            "Reglas de firewall",
+            "Cifrado simétrico",
+            "Aprendizaje automático y estadística",
+            "Simulación de red"
+        ],
+        "respuesta": "Aprendizaje automático y estadística"
+    },
+    {
+        "pregunta": "¿Cuál es una función principal de los sistemas SIEM en la gestión de seguridad de la información?",
+        "opciones": [
+            "Proporcionar entretenimiento a los empleados",
+            "Correlacionar eventos de diferentes fuentes para identificar amenazas",
+            "Reducir el consumo de energía en los servidores",
+            "Aumentar la velocidad de navegación en la red"
+        ],
+        "respuesta": "Correlacionar eventos de diferentes fuentes para identificar amenazas"
+    },
+    {
+        "pregunta": "¿Cuál es un objetivo principal del uso de honeypots en ciberseguridad?",
+        "opciones": [
+            "Aumentar la capacidad del servidor",
+            "Atraer atacantes para observar sus tácticas y técnicas",
+            "Optimizar la transferencia de archivos",
+            "Reducir el tamaño del backup"
+        ],
+        "respuesta": "Atraer atacantes para observar sus tácticas y técnicas"
+    },
+    {
+        "pregunta": "¿Cuál es una de las fases del ciclo de vida de la gestión de incidentes?",
+        "opciones": [
+            "Desfragmentación del disco",
+            "Preparación",
+            "Desarrollo de software",
+            "Análisis de mercado"
+        ],
+        "respuesta": "Preparación"
+    },
+    {
+        "pregunta": "¿Qué principio asegura que las pruebas digitales no hayan sido manipuladas?",
+        "opciones": [
+            "Cadena de suministro",
+            "Autenticidad",
+            "Disponibilidad",
+            "Escalabilidad"
+        ],
+        "respuesta": "Autenticidad"
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de la cadena de custodia en el análisis forense digital?",
+        "opciones": [
+            "Mejorar la velocidad de análisis de datos",
+            "Reducir el tamaño de los archivos digitales",
+            "Documentar el manejo de las pruebas digitales desde su recolección hasta su presentación",
+            "Eliminar pruebas no relevantes"
+        ],
+        "respuesta": "Documentar el manejo de las pruebas digitales desde su recolección hasta su presentación"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes artefactos puede revelar los sitios web visitados por un usuario?",
+        "opciones": [
+            "Archivos de precarga",
+            "Registros del sistema",
+            "Historial del navegador web",
+            "Cadena de custodia"
+        ],
+        "respuesta": "Historial del navegador web"
+    },
+    {
+        "pregunta": "¿Qué modelo conceptual ayuda a comprender las estrategias de análisis usadas por los forenses digitales?",
+        "opciones": [
+            "Modelo de tareas cognitivas",
+            "Modelo OSI",
+            "Modelo de red neuronal",
+            "Modelo de ciclo de vida de software"
+        ],
+        "respuesta": "Modelo de tareas cognitivas"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes es una técnica utilizada en el análisis forense de la memoria principal?",
+        "opciones": [
+            "Compresión de archivos",
+            "Volcado de memoria",
+            "Desfragmentación del disco",
+            "Indexación de bases de datos"
+        ],
+        "respuesta": "Volcado de memoria"
+    },
+    {
+        "pregunta": "¿Qué desafío principal presenta el análisis forense en entornos de computación en la nube?",
+        "opciones": [
+            "Alta latencia de red",
+            "Pérdida de energía",
+            "Naturaleza distribuida de los datos",
+            "Costos de almacenamiento"
+        ],
+        "respuesta": "Naturaleza distribuida de los datos"
+    },
+    {
+        "pregunta": "¿Qué describe mejor el proceso de 'forrajeo' en una investigación forense?",
+        "opciones": [
+            "Eliminar archivos no relevantes",
+            "Buscar pruebas de forma iterativa y refinada",
+            "Clasificar correos electrónicos por fecha",
+            "Compactar evidencia para almacenamiento"
+        ],
+        "respuesta": "Buscar pruebas de forma iterativa y refinada"
+    },
+    {
+        "pregunta": "¿Qué característica distingue a la criptografía asimétrica de la simétrica?",
+        "opciones": [
+            "Usa dos claves: una pública y una privada",
+            "No requiere cifrado",
+            "Usa la misma clave para cifrar y descifrar",
+            "Solo se utiliza en redes privadas"
+        ],
+        "respuesta": "Usa dos claves: una pública y una privada"
+    },
+    {
+        "pregunta": "¿Para qué sirven las funciones hash en criptografía?",
+        "opciones": [
+            "Reducir el tamaño del archivo",
+            "Aumentar la velocidad de transferencia",
+            "Verificar la integridad de los datos",
+            "Dividir la clave criptográfica"
+        ],
+        "respuesta": "Verificar la integridad de los datos"
+    },
+    {
+        "pregunta": "¿Qué función cumple una firma digital?",
+        "opciones": [
+            "Eliminar virus del mensaje",
+            "Asegurar el ancho de banda",
+            "Proporcionar autenticación e integridad",
+            "Encriptar imágenes multimedia"
+        ],
+        "respuesta": "Proporcionar autenticación e integridad"
+    },
+    {
+        "pregunta": "¿Qué describe mejor el modelo de atacante en seguridad de sistemas operativos?",
+        "opciones": [
+            "Una guía de instalación de software",
+            "Una lista de usuarios registrados",
+            "Una definición de capacidades, recursos y objetivos de un atacante",
+            "Una política de respaldo de información"
+        ],
+        "respuesta": "Una definición de capacidades, recursos y objetivos de un atacante"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes elementos forma parte del modelo de atacante?",
+        "opciones": [
+            "Ubicación del servidor",
+            "Motivación del atacante",
+            "Frecuencia de actualizaciones",
+            "Capacidad de almacenamiento"
+        ],
+        "respuesta": "Motivación del atacante"
+    },
+    {
+        "pregunta": "¿Qué principio establece que un usuario solo debe tener los permisos necesarios para su tarea?",
+        "opciones": [
+            "Principio de máxima disponibilidad",
+            "Separación de funciones",
+            "Principio de mínimo privilegio",
+            "Control de redundancia"
+        ],
+        "respuesta": "Principio de mínimo privilegio"
+    },
+    {
+        "pregunta": "¿Qué modelo busca evitar que una sola vulnerabilidad comprometa todo el sistema?",
+        "opciones": [
+            "Modelo de acceso directo",
+            "Separación de privilegios",
+            "Modelo de sistema abierto",
+            "Jerarquía de ejecución"
+        ],
+        "respuesta": "Separación de privilegios"
+    },
+    {
+        "pregunta": "¿Cuál es el propósito principal de los métodos formales en seguridad informática?",
+        "opciones": [
+            "Reducir el costo de desarrollo",
+            "Facilitar la interfaz de usuario",
+            "Garantizar rigurosamente la seguridad mediante técnicas matemáticas",
+            "Optimizar la velocidad de ejecución"
+        ],
+        "respuesta": "Garantizar rigurosamente la seguridad mediante técnicas matemáticas"
+    },
+    {
+        "pregunta": "¿Qué técnica formal permite comprobar la lógica de un programa sin ejecutarlo?",
+        "opciones": [
+            "Análisis dinámico",
+            "Compilación cruzada",
+            "Análisis estático",
+            "Depuración en tiempo real"
+        ],
+        "respuesta": "Análisis estático"
+    },
+    {
+        "pregunta": "¿Qué método se utiliza para analizar el comportamiento de un programa durante su ejecución?",
+        "opciones": [
+            "Prueba de teoremas interactiva",
+            "Análisis dinámico",
+            "Control de versiones",
+            "Verificación de sintaxis"
+        ],
+        "respuesta": "Análisis dinámico"
+    },
+    {
+        "pregunta": "¿Cuál es una limitación reconocida de los métodos formales?",
+        "opciones": [
+            "Son incompatibles con sistemas operativos modernos",
+            "No funcionan en arquitecturas distribuidas",
+            "Requieren mucha mano de obra y experiencia",
+            "Solo pueden aplicarse en sistemas en línea"
+        ],
+        "respuesta": "Requieren mucha mano de obra y experiencia"
+    },
+    {
+        "pregunta": "¿Qué formato de registro de eventos fue desarrollado por HP/Arcsight y utiliza Syslog y codificación clave/valor?",
+        "opciones": [
+            "CIM",
+            "LEEF",
+            "CEF",
+            "CADF"
+        ],
+        "respuesta": "CEF"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes formatos de eventos utiliza JSON y fue desarrollado por TheOpenGroup, DMTF y NetIQ?",
+        "opciones": [
+            "CEE",
+            "CADF",
+            "IDMEF",
+            "LEEF"
+        ],
+        "respuesta": "CADF"
+    },
+    {
+        "pregunta": "¿Qué formato de eventos utiliza XML y UML, y fue desarrollado por IETF para el protocolo IDXP?",
+        "opciones": [
+            "CEF",
+            "IDMEF",
+            "LEEF",
+            "CADF"
+        ],
+        "respuesta": "IDMEF"
+    },
+    {
+        "pregunta": "¿Cuál es una característica principal del formato LEEF?",
+        "opciones": [
+            "Codificación en XML con UML",
+            "Formato plano con 50 atributos",
+            "Codificación en JSON con clases",
+            "Transporte mediante protocolo IDXP"
+        ],
+        "respuesta": "Formato plano con 50 atributos"
+    },
+    {
+        "pregunta": "¿Qué modelo de análisis para detección de intrusiones utiliza firmas o reglas?",
+        "opciones": [
+            "Detección de anomalías",
+            "Análisis de flujo",
+            "Detección de uso indebido",
+            "Aprendizaje supervisado"
+        ],
+        "respuesta": "Detección de uso indebido"
+    },
+    {
+        "pregunta": "¿Qué técnica detecta desviaciones del comportamiento normal del sistema?",
+        "opciones": [
+            "Detección de uso indebido",
+            "Detección de anomalías",
+            "Detección reactiva",
+            "Filtrado de paquetes"
+        ],
+        "respuesta": "Detección de anomalías"
+    },
+    {
+        "pregunta": "¿Qué enfoque combina el uso de firmas y detección de comportamientos anómalos?",
+        "opciones": [
+            "Análisis pasivo",
+            "Análisis dinámico",
+            "Detección combinada de uso indebido y anomalías",
+            "Modelo de reputación"
+        ],
+        "respuesta": "Detección combinada de uso indebido y anomalías"
+    },
+    {
+        "pregunta": "¿Qué método utiliza técnicas estadísticas y de clasificación para detectar intrusiones?",
+        "opciones": [
+            "Filtrado de contenido",
+            "Aprendizaje automático",
+            "Reglas de firewall",
+            "Comparación binaria"
+        ],
+        "respuesta": "Aprendizaje automático"
+    },
+    {
+        "pregunta": "¿Cuál es uno de los principales enfoques de la seguridad en la capa física?",
+        "opciones": [
+            "Proteger el software de intrusiones",
+            "Prevenir accesos no autorizados a través de redes inalámbricas",
+            "Prevenir amenazas como escuchas ilegales y sabotajes",
+            "Cifrar la información transmitida en la capa de aplicación"
+        ],
+        "respuesta": "Prevenir amenazas como escuchas ilegales y sabotajes"
+    },
+    {
+        "pregunta": "¿Qué técnica ayuda a proteger la capa física contra la manipulación de los medios de transmisión?",
+        "opciones": [
+            "Criptografía asimétrica",
+            "Blindaje de cables",
+            "Firewall de red",
+            "Cifrado TLS"
+        ],
+        "respuesta": "Blindaje de cables"
+    },
+    {
+        "pregunta": "¿Qué aspecto protege principalmente la seguridad de las telecomunicaciones?",
+        "opciones": [
+            "Evitar el acceso físico al hardware",
+            "Cifrar imágenes y videos",
+            "Proteger la confidencialidad, integridad y disponibilidad de la información",
+            "Detectar anomalías en aplicaciones web"
+        ],
+        "respuesta": "Proteger la confidencialidad, integridad y disponibilidad de la información"
+    },
+    {
+        "pregunta": "¿Qué componente puede actuar como raíz de confianza en el diseño de hardware?",
+        "opciones": [
+            "Chip de red",
+            "Firewall embebido",
+            "TPM (Trusted Platform Module)",
+            "Antivirus de firmware"
+        ],
+        "respuesta": "TPM (Trusted Platform Module)"
+    },
+    {
+        "pregunta": "¿Cuál es el propósito principal de definir un modelo de amenaza durante el diseño de hardware?",
+        "opciones": [
+            "Seleccionar herramientas de análisis de red",
+            "Determinar el sistema operativo compatible",
+            "Identificar posibles atacantes y sus técnicas",
+            "Decidir la velocidad del procesador"
+        ],
+        "respuesta": "Identificar posibles atacantes y sus técnicas"
+    },
+    {
+        "pregunta": "¿Qué técnica a nivel de circuito puede ayudar a mitigar ataques de canal lateral?",
+        "opciones": [
+            "Segmentación de red",
+            "Ofuscación de código",
+            "Escaneo de puertos",
+            "Cifrado con clave simétrica"
+        ],
+        "respuesta": "Ofuscación de código"
+    },
+    {
+        "pregunta": "¿Por qué es importante la selección de componentes en el diseño seguro de hardware?",
+        "opciones": [
+            "Para optimizar el rendimiento del sistema",
+            "Para asegurar compatibilidad con software de terceros",
+            "Para garantizar autenticidad y confiabilidad del hardware",
+            "Para reducir el costo del producto final"
+        ],
+        "respuesta": "Para garantizar autenticidad y confiabilidad del hardware"
+    },
+    {
+        "pregunta": "¿Qué medida ayuda a proteger el hardware contra ataques físicos?",
+        "opciones": [
+            "Uso de contraseñas robustas",
+            "Instalación de antivirus",
+            "Protección contra la extracción de componentes",
+            "Cifrado de archivos"
+        ],
+        "respuesta": "Protección contra la extracción de componentes"
+    }
+]

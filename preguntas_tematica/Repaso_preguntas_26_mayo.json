@@ -1,0 +1,457 @@
+[
+  {
+    "pregunta": "¿Cuál es la principal función de la apolipoproteína Apo AI?",
+    "opciones": [
+      "Transporte de triglicéridos a tejidos periféricos",
+      "Captación de lipoproteínas por hepatocitos",
+      "Participación en el transporte inverso de colesterol",
+      "Regulación de la lipasa hepática"
+    ],
+    "respuesta": "Participación en el transporte inverso de colesterol"
+  },
+  {
+    "pregunta": "¿Qué apolipoproteína está relacionada con la enfermedad de Alzheimer?",
+    "opciones": ["Apo AI", "Apo AII", "Apo B", "Apo E"],
+    "respuesta": "Apo E"
+  },
+  {
+    "pregunta": "¿Cuál es el principal órgano de síntesis de la Apo B?",
+    "opciones": ["Riñón", "Hígado y enterocitos", "Intestino", "Páncreas"],
+    "respuesta": "Hígado y enterocitos"
+  },
+  {
+    "pregunta": "¿Qué receptores reconocen LDL modificadas como oxidadas o acetiladas?",
+    "opciones": [
+      "Receptor LDL",
+      "Receptor APOB/E",
+      "Receptores depuradores inespecíficos",
+      "ABCA1"
+    ],
+    "respuesta": "Receptores depuradores inespecíficos"
+  },
+  {
+    "pregunta": "¿Qué transportador participa en el paso de colesterol de los macrófagos a HDL?",
+    "opciones": ["CD36", "ABCG1", "LDL-R", "Apo B"],
+    "respuesta": "ABCG1"
+  },
+  {
+    "pregunta": "¿Qué condición incrementa la expresión del receptor LDL?",
+    "opciones": [
+      "Alta concentración intracelular de colesterol",
+      "Déficit de triglicéridos",
+      "Agotamiento celular de colesterol libre",
+      "Presencia de Apo E"
+    ],
+    "respuesta": "Agotamiento celular de colesterol libre"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes lipoproteínas está involucrada directamente en el transporte inverso de colesterol?",
+    "opciones": ["LDL", "HDL", "VLDL", "Quilomicrones"],
+    "respuesta": "HDL"
+  },
+  {
+    "pregunta": "¿Cuál es la primera etapa del proceso de aterogénesis?",
+    "opciones": [
+      "Formación de trombos",
+      "Ruptura de la placa",
+      "Lesión endotelial",
+      "Acumulación de lípidos"
+    ],
+    "respuesta": "Lesión endotelial"
+  },
+  {
+    "pregunta": "¿Qué célula se forma cuando un monocito capta LDL oxidadas?",
+    "opciones": ["Plaqueta", "Macrófago", "Célula espumosa", "Megacariocito"],
+    "respuesta": "Célula espumosa"
+  },
+  {
+    "pregunta": "¿Qué tipo de dislipidemia implica niveles altos tanto de colesterol como de triglicéridos?",
+    "opciones": [
+      "Hipercolesterolemia",
+      "Hipertrigliceridemia",
+      "Dislipidemia mixta",
+      "Colesterolemia secundaria"
+    ],
+    "respuesta": "Dislipidemia mixta"
+  },
+  {
+    "pregunta": "¿Qué apolipoproteína regula enzimas involucradas en el metabolismo de los triglicéridos?",
+    "opciones": ["Apo AII", "Apo B", "Apo C", "Apo E"],
+    "respuesta": "Apo C"
+  },
+  {
+    "pregunta": "¿Cuál es el receptor hepático que permite la captación directa del colesterol transportado por HDL?",
+    "opciones": ["CD36", "SR-B1", "ABCG1", "LDL-R"],
+    "respuesta": "SR-B1"
+  },
+  {
+    "pregunta": "¿Qué característica tiene el receptor CD36?",
+    "opciones": [
+      "Regulado por colesterol intracelular",
+      "Presente solo en el hígado",
+      "Se une solo a LDL nativas",
+      "Presente en células como macrófagos y células endoteliales"
+    ],
+    "respuesta": "Presente en células como macrófagos y células endoteliales"
+  },
+  {
+    "pregunta": "¿Qué lipoproteína transporta colesterol hacia los tejidos periféricos?",
+    "opciones": ["HDL", "LDL", "VLDL", "IDL"],
+    "respuesta": "LDL"
+  },
+  {
+    "pregunta": "¿Cuál es el efecto del colesterol libre sobre la síntesis de colesterol celular?",
+    "opciones": [
+      "La estimula por retroalimentación positiva",
+      "No tiene efecto",
+      "La inhibe por retroalimentación negativa",
+      "Aumenta la expresión de Apo AI"
+    ],
+    "respuesta": "La inhibe por retroalimentación negativa"
+  },
+  {
+    "pregunta": "¿Qué tipo de dislipidemia presenta un plasma de aspecto lechoso si los TG superan los 500 mg/dL?",
+    "opciones": [
+      "Hipercolesterolemia",
+      "Hipertrigliceridemia",
+      "Dislipidemia mixta",
+      "Hiperlipidemia secundaria"
+    ],
+    "respuesta": "Hipertrigliceridemia"
+  },
+  {
+    "pregunta": "¿Qué apolipoproteína estabiliza la estructura de las HDL y regula la lipasa hepática?",
+    "opciones": ["Apo AI", "Apo AII", "Apo B", "Apo E"],
+    "respuesta": "Apo AII"
+  },
+  {
+    "pregunta": "¿Cuál es una causa común de dislipidemia mixta?",
+    "opciones": [
+      "Genética únicamente",
+      "Consumo excesivo de proteínas",
+      "Dieta cetogénica",
+      "Combinación de factores genéticos y ambientales"
+    ],
+    "respuesta": "Combinación de factores genéticos y ambientales"
+  },
+  {
+    "pregunta": "¿Qué proteína facilita el paso de colesterol de macrófagos a HDL en el transporte inverso?",
+    "opciones": ["LDL-R", "ABCA1", "Apo B", "CD36"],
+    "respuesta": "ABCA1"
+  },
+  {
+    "pregunta": "¿Qué evento puede desencadenar una trombosis en la aterogénesis?",
+    "opciones": [
+      "La llegada de monocitos",
+      "La oxidación de LDL",
+      "La ruptura de la placa",
+      "La acumulación de Apo AI"
+    ],
+    "respuesta": "La ruptura de la placa"
+  },
+  {
+    "pregunta": "¿Qué describe la cooperatividad en la hemoglobina?",
+    "opciones": [
+      "La capacidad de transportar CO₂",
+      "El cambio de color al unir oxígeno",
+      "La influencia de una subunidad sobre la afinidad de las otras por O₂",
+      "La unión de la hemoglobina al hierro"
+    ],
+    "respuesta": "La influencia de una subunidad sobre la afinidad de las otras por O₂"
+  },
+  {
+    "pregunta": "¿Qué estado tiene menor afinidad por el oxígeno en la hemoglobina?",
+    "opciones": ["Estado relajado (R)", "Estado tenso (T)", "Estado intermedio", "Estado disociado"],
+    "respuesta": "Estado tenso (T)"
+  },
+  {
+    "pregunta": "¿Qué ocurre cuando el CO₂ aumenta en el organismo?",
+    "opciones": [
+      "La curva de disociación se desplaza a la izquierda",
+      "La hemoglobina capta más oxígeno",
+      "La curva de disociación se desplaza a la derecha",
+      "La afinidad por el oxígeno aumenta"
+    ],
+    "respuesta": "La curva de disociación se desplaza a la derecha"
+  },
+  {
+    "pregunta": "¿Cuál es el efecto del pH bajo sobre la afinidad de la hemoglobina por el oxígeno?",
+    "opciones": [
+      "Aumenta la afinidad",
+      "No tiene efecto",
+      "Reduce la afinidad",
+      "Impide la liberación de O₂"
+    ],
+    "respuesta": "Reduce la afinidad"
+  },
+  {
+    "pregunta": "¿Qué describe el efecto Bohr?",
+    "opciones": [
+      "La unión de la hemoglobina al CO₂",
+      "El efecto de la temperatura sobre la afinidad",
+      "La reducción de la afinidad de la Hb por el O₂ en pH bajo",
+      "La transformación de oxígeno en radicales libres"
+    ],
+    "respuesta": "La reducción de la afinidad de la Hb por el O₂ en pH bajo"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene un aumento de temperatura en la afinidad de la hemoglobina por el oxígeno?",
+    "opciones": [
+      "Aumenta la afinidad",
+      "Reduce la afinidad",
+      "No cambia la afinidad",
+      "La convierte en mioglobina"
+    ],
+    "respuesta": "Reduce la afinidad"
+  },
+  {
+    "pregunta": "¿Qué sucede con la curva de disociación de la oxihemoglobina cuando disminuye la temperatura?",
+    "opciones": [
+      "Se desplaza a la izquierda",
+      "Se desplaza a la derecha",
+      "Permanece igual",
+      "Se aplana completamente"
+    ],
+    "respuesta": "Se desplaza a la izquierda"
+  },
+  {
+    "pregunta": "¿Qué condición clínica implica una pCO₂ elevada y disminución de la afinidad por el oxígeno?",
+    "opciones": [
+      "Hipotermia",
+      "Cetoacidosis diabética",
+      "EPOC",
+      "Anemia"
+    ],
+    "respuesta": "EPOC"
+  },
+  {
+    "pregunta": "¿Por qué un paciente con cetoacidosis puede presentar hipoxia tisular a pesar de tener pO₂ normal?",
+    "opciones": [
+      "Porque la acidosis disminuye la afinidad de la Hb por el O₂",
+      "Porque no hay suficiente hemoglobina",
+      "Porque la temperatura es alta",
+      "Porque hay más dióxido de carbono en los pulmones"
+    ],
+    "respuesta": "Porque la acidosis disminuye la afinidad de la Hb por el O₂"
+  },
+  {
+    "pregunta": "¿Qué ocurre con la afinidad de la hemoglobina por el oxígeno en un paciente con hipotermia?",
+    "opciones": [
+      "Aumenta la afinidad",
+      "Disminuye la afinidad",
+      "No cambia",
+      "La hemoglobina se desnaturaliza"
+    ],
+    "respuesta": "Aumenta la afinidad"
+  },
+  {
+    "pregunta": "¿Qué puede causar hipoxia en tejidos a pesar de una buena oxigenación en pacientes hipotérmicos?",
+    "opciones": [
+      "Aumento del pCO₂",
+      "Disminución del pH",
+      "Alta afinidad de la Hb por el O₂, que impide su liberación",
+      "Reducción de la cantidad de hemoglobina"
+    ],
+    "respuesta": "Alta afinidad de la Hb por el O₂, que impide su liberación"
+  },
+  {
+    "pregunta": "¿Qué indica una pO₂ baja en la gasometría arterial?",
+    "opciones": [
+      "Hipercapnia",
+      "Hipoxemia",
+      "Alcalosis respiratoria",
+      "Buena oxigenación"
+    ],
+    "respuesta": "Hipoxemia"
+  },
+  {
+    "pregunta": "¿Qué indica un valor elevado de pCO₂ en una gasometría arterial?",
+    "opciones": [
+      "Alcalosis metabólica",
+      "Hiperventilación",
+      "Hipercapnia",
+      "Buena eliminación de CO₂"
+    ],
+    "respuesta": "Hipercapnia"
+  },
+  {
+    "pregunta": "¿Cuáles son las enzimas que hidrolizan los triacilgliceroles de cadena corta y media (<12 C) en la boca y el estómago?",
+    "opciones": ["Lipasa lingual y gástrica", "Lipasa pancreática", "Fosfolipasa A₂", "Colesterol esterase"],
+    "respuesta": "Lipasa lingual y gástrica"
+  },
+  {
+    "pregunta": "¿En qué órgano se producen las sales biliares que emulsifican las grasas?",
+    "opciones": ["Hígado", "Vesícula biliar", "Intestino delgado", "Páncreas"],
+    "respuesta": "Hígado"
+  },
+  {
+    "pregunta": "¿Desde dónde se secretan las sales biliares hacia el intestino delgado?",
+    "opciones": ["Vesícula biliar", "Hígado", "Páncreas", "Estómago"],
+    "respuesta": "Vesícula biliar"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de las sales biliares en la digestión de lípidos?",
+    "opciones": ["Emulsionar triglicéridos formando micelas", "Activar la amilasa pancreática", "Neutralizar la acidez gástrica", "Hidrólisis de esteres de colesterol"],
+    "respuesta": "Emulsionar triglicéridos formando micelas"
+  },
+  {
+    "pregunta": "¿Qué enzima pancreática hidroliza los triglicéridos en el intestino delgado?",
+    "opciones": ["Lipasa pancreática", "Fosfolipasa A₂", "Lipasa lingual", "Colesterol esterase"],
+    "respuesta": "Lipasa pancreática"
+  },
+  {
+    "pregunta": "¿Qué enzima hidroliza los fosfolípidos de la dieta?",
+    "opciones": ["Fosfolipasa A₂", "Lipasa pancreática", "Colesterol esterase", "Lipasa gástrica"],
+    "respuesta": "Fosfolipasa A₂"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un producto final de la digestión de lípidos en el intestino delgado?",
+    "opciones": ["Monoacilgliceroles", "Lisofosfolípidos", "Glucosa", "Colesterol"],
+    "respuesta": "Glucosa"
+  },
+  {
+    "pregunta": "Los ácidos grasos de cadena corta y media (C4-C12) entran en la circulación unidos principalmente a:",
+    "opciones": ["Albúmina sérica", "Quilomicrones", "HDL", "LDL"],
+    "respuesta": "Albúmina sérica"
+  },
+  {
+    "pregunta": "¿Qué lipoproteína transporta los triacilgliceroles de la dieta desde el intestino a los tejidos?",
+    "opciones": ["Quilomicrones", "VLDL", "LDL", "HDL"],
+    "respuesta": "Quilomicrones"
+  },
+  {
+    "pregunta": "¿Qué componente constituye aproximadamente el 80-90 % de un quilomicrón recién formado?",
+    "opciones": ["Triacilgliceroles", "Colesterol", "Proteínas", "Fosfolípidos"],
+    "respuesta": "Triacilgliceroles"
+  },
+  {
+    "pregunta": "¿Cuál es la enzima que hidroliza los triacilgliceroles de los quilomicrones en los capilares?",
+    "opciones": ["Lipoproteína lipasa", "Lipasa pancreática", "Hormona-sensible lipasa", "Fosfolipasa A₂"],
+    "respuesta": "Lipoproteína lipasa"
+  },
+  {
+    "pregunta": "La lipoproteína lipasa se localiza principalmente en:",
+    "opciones": ["Endotelio capilar de músculo y tejido adiposo", "Hepatocitos", "Macrófagos", "Enterocitos"],
+    "respuesta": "Endotelio capilar de músculo y tejido adiposo"
+  },
+  {
+    "pregunta": "¿Cuál es el destino principal de los ácidos grasos liberados por la LPL en el músculo?",
+    "opciones": ["Producción de energía (ATP)", "Almacenamiento de grasa", "Síntesis de fosfolípidos", "Conversión en glucosa"],
+    "respuesta": "Producción de energía (ATP)"
+  },
+  {
+    "pregunta": "¿Qué ocurre con los ácidos grasos liberados en los adipocitos tras la acción de la LPL?",
+    "opciones": ["Se almacenan como grasa", "Se convierten en cuerpos cetónicos", "Se oxidan a CO₂", "Se secretan como VLDL"],
+    "respuesta": "Se almacenan como grasa"
+  },
+  {
+    "pregunta": "Después de la hidrólisis de los triacilgliceroles por la LPL, el glicerol se transporta principalmente al:",
+    "opciones": ["Hígado", "Riñón", "Corazón", "Músculo"],
+    "respuesta": "Hígado"
+  },
+  {
+    "pregunta": "¿Qué lipoproteína es el remanente de VLDL tras la pérdida de triacilgliceroles?",
+    "opciones": ["IDL", "LDL", "HDL", "Quilomicrón"],
+    "respuesta": "IDL"
+  },
+  {
+    "pregunta": "¿Cuál es la principal lipoproteína encargada de entregar colesterol a los tejidos periféricos?",
+    "opciones": ["LDL", "HDL", "VLDL", "IDL"],
+    "respuesta": "LDL"
+  },
+  {
+    "pregunta": "¿Qué lipoproteína recoge el exceso de colesterol de los tejidos y lo lleva al hígado?",
+    "opciones": ["HDL", "LDL", "VLDL", "Quilomicrones"],
+    "respuesta": "HDL"
+  },
+  {
+    "pregunta": "Durante el ayuno, los ácidos grasos liberados del tejido adiposo viajan en la sangre unidos a:",
+    "opciones": ["Albúmina", "Quilomicrones", "VLDL", "LDL"],
+    "respuesta": "Albúmina"
+  },
+  {
+    "pregunta": "¿Cuál es el producto hepático derivado de los ácidos grasos que sirve como combustible al cerebro en ayuno prolongado?",
+    "opciones": ["Cuerpos cetónicos", "Glucosa", "Urea", "Glucógeno"],
+    "respuesta": "Cuerpos cetónicos"
+  },
+  {
+    "pregunta": "¿Qué lipoproteína se sintetiza en el hígado a partir de carbohidratos de la dieta?",
+    "opciones": ["VLDL", "LDL", "HDL", "IDL"],
+    "respuesta": "VLDL"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un transportador plasmático de lípidos?",
+    "opciones": ["Amilasa", "Quilomicrones", "VLDL", "Albúmina"],
+    "respuesta": "Amilasa"
+  },
+  {
+    "pregunta": "En los enterocitos, la combinación de ácidos grasos y monoacilgliceroles da lugar a:",
+    "opciones": ["Triacilgliceroles", "Colesterol", "Fosfolípidos", "Lisofosfolípidos"],
+    "respuesta": "Triacilgliceroles"
+  },
+  {
+    "pregunta": "Tras participar en la digestión, las sales biliares en el intestino delgado:",
+    "opciones": ["Se reabsorben y vuelven al hígado", "Se eliminan totalmente en las heces", "Se convierten en hormonas esteroides", "Se almacenan en el páncreas"],
+    "respuesta": "Se reabsorben y vuelven al hígado"
+  },
+  {
+    "pregunta": "¿Cuál es el principal efecto de la emulsificación de grasas por las sales biliares?",
+    "opciones": ["Aumentar la superficie para la acción de las lipasas", "Neutralizar el quimo ácido", "Activar la amilasa pancreática", "Convertir triglicéridos en glucosa"],
+    "respuesta": "Aumentar la superficie para la acción de las lipasas"
+  },
+  {
+    "pregunta": "La proteína plasmática a la que se unen los ácidos grasos de cadena corta y media es:",
+    "opciones": ["Albúmina", "Transferrina", "Hemoglobina", "Apo B-48"],
+    "respuesta": "Albúmina"
+  },
+  {
+    "pregunta": "¿Cuál es una de las principales funciones de la insulina?",
+    "opciones": ["Incrementar la lipólisis", "Estimular la gluconeogénesis", "Favorecer el almacenamiento de glucosa como glucógeno", "Estimular la secreción de glucagón"],
+    "respuesta": "Favorecer el almacenamiento de glucosa como glucógeno"
+  },
+  {
+    "pregunta": "¿Cuál es la principal fuente de energía durante el ejercicio prolongado?",
+    "opciones": ["Glucosa", "Aminoácidos", "Ácidos grasos", "Piruvato"],
+    "respuesta": "Ácidos grasos"
+  },
+  {
+    "pregunta": "¿Cuál es el principal sitio de acción del glucagón?",
+    "opciones": ["Músculo esquelético", "Páncreas", "Hígado", "Tejido adiposo"],
+    "respuesta": "Hígado"
+  },
+  {
+    "pregunta": "¿Qué transportador de glucosa depende de la insulina?",
+    "opciones": ["GLUT2", "GLUT3", "GLUT4", "SGLT1"],
+    "respuesta": "GLUT4"
+  },
+  {
+    "pregunta": "¿Qué hormona actúa como antagonista de la insulina en el músculo?",
+    "opciones": ["Glucagón", "Adrenalina", "Cortisol", "Hormona del crecimiento"],
+    "respuesta": "Adrenalina"
+  },
+  {
+    "pregunta": "¿Qué proceso metabólico predomina durante el ayuno prolongado?",
+    "opciones": ["Glucogenólisis", "Gluconeogénesis", "Lipogénesis", "Síntesis de proteínas"],
+    "respuesta": "Gluconeogénesis"
+  },
+  {
+    "pregunta": "¿Qué ocurre cuando se libera insulina después de una comida?",
+    "opciones": ["Aumenta la secreción de glucagón", "Se suprime la secreción de glucagón", "Disminuye el transporte de glucosa", "Se inhibe la gluconeogénesis"],
+    "respuesta": "Se suprime la secreción de glucagón"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes vías es catabólica?",
+    "opciones": ["Síntesis de glucógeno", "Lipogénesis", "Glucogenólisis", "Síntesis de proteínas"],
+    "respuesta": "Glucogenólisis"
+  },
+  {
+    "pregunta": "¿Qué hormona aumenta la lipólisis y la cetogénesis a partir de la acetil-CoA?",
+    "opciones": ["Insulina", "Glucagón", "Cortisol", "Hormona del crecimiento"],
+    "respuesta": "Glucagón"
+  },
+  {
+    "pregunta": "¿Cuál es un producto final de la oxidación de ácidos grasos?",
+    "opciones": ["Glucosa-6-fosfato", "Triglicéridos", "Cuerpos cetónicos", "Ácido láctico"],
+    "respuesta": "Cuerpos cetónicos"
+  }
+]

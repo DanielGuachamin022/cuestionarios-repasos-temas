@@ -1,0 +1,207 @@
+[
+  {
+    "pregunta": "¿Cómo se describe la morfología de *Corynebacterium diphtheriae*?",
+    "opciones": ["Cocobacilo Gramnegativo", "Bacilo Grampositivo pleomórfico", "Cocodo Grampositivo", "Bacilo Gramnegativo"],
+    "respuesta": "Bacilo Grampositivo pleomórfico"
+  },
+  {
+    "pregunta": "¿Qué característica NO posee *Corynebacterium diphtheriae*?",
+    "opciones": ["Esporas", "Cápsula", "Inmovilidad", "Anaerobiosis facultativa"],
+    "respuesta": "Esporas"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes biotipos de *Corynebacterium diphtheriae* es el causante de la mayoría de las enfermedades?",
+    "opciones": ["Mitis", "Gravis", "Intermedius", "Diphtheriae"],
+    "respuesta": "Mitis"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de la toxina diftérica?",
+    "opciones": ["Inhibir la síntesis de proteínas eucariotas", "Activar la síntesis de proteínas eucariotas", "Destruir las células bacterianas", "Bloquear la replicación viral"],
+    "respuesta": "Inhibir la síntesis de proteínas eucariotas"
+  },
+  {
+    "pregunta": "¿Cómo se llama la subunidad que se encarga de la translocación de la toxina diftérica?",
+    "opciones": ["Subunidad A", "Subunidad B", "Subunidad C", "Subunidad D"],
+    "respuesta": "Subunidad B"
+  },
+  {
+    "pregunta": "¿Qué tipo de célula afecta principalmente la toxina diftérica?",
+    "opciones": ["Células bacterianas", "Células nerviosas y cardíacas", "Células de la piel", "Células epiteliales respiratorias"],
+    "respuesta": "Células nerviosas y cardíacas"
+  },
+  {
+    "pregunta": "¿Cómo ingresa la toxina diftérica a la célula?",
+    "opciones": ["Por difusión pasiva", "Mediante endocitosis", "Por osmosis", "Por transducción viral"],
+    "respuesta": "Mediante endocitosis"
+  },
+  {
+    "pregunta": "¿Qué tipo de transmisión tiene *Corynebacterium diphtheriae*?",
+    "opciones": ["Transmisión por aire", "Transmisión por contacto cutáneo directo o gotitas respiratorias", "Transmisión sexual", "Transmisión por mosquitos"],
+    "respuesta": "Transmisión por contacto cutáneo directo o gotitas respiratorias"
+  },
+  {
+    "pregunta": "¿Dónde se encuentra el reservorio de *Corynebacterium diphtheriae*?",
+    "opciones": ["En animales infectados", "En humanos portadores asintomáticos", "En el suelo", "En el agua potable"],
+    "respuesta": "En humanos portadores asintomáticos"
+  },
+  {
+    "pregunta": "¿Qué tipo de manifestación es común en la difteria cutánea?",
+    "opciones": ["Lesiones ulcerativas en la piel", "Eritema facial", "Dolor abdominal", "Cefalea intensa"],
+    "respuesta": "Lesiones ulcerativas en la piel"
+  },
+  {
+    "pregunta": "¿Qué evolución tienen las lesiones de la difteria cutánea?",
+    "opciones": ["Desarrollan una pápula que evoluciona a úlcera crónica recubierta por una membrana grisácea", "Desaparecen espontáneamente en pocos días", "Se convierten en abscesos purulentos", "Forman pápulas rojas que se convierten en cicatrices"],
+    "respuesta": "Desarrollan una pápula que evoluciona a úlcera crónica recubierta por una membrana grisácea"
+  },
+  {
+    "pregunta": "¿Cuál es el síntoma principal de la difteria respiratoria?",
+    "opciones": ["Faringitis exudativa", "Dolor abdominal severo", "Hemorragias nasales", "Edema en las piernas"],
+    "respuesta": "Faringitis exudativa"
+  },
+  {
+    "pregunta": "¿Qué forma toma el exudado en la difteria respiratoria?",
+    "opciones": ["Sólida y espesa, con aspecto de seudomembrana grisácea", "Liquida y amarillenta", "Espumosa y rojiza", "Dura y escamosa"],
+    "respuesta": "Sólida y espesa, con aspecto de seudomembrana grisácea"
+  },
+  {
+    "pregunta": "¿Qué complicación sistémica puede ocurrir en las 1-2 semanas posteriores a la difteria?",
+    "opciones": ["Miocarditis", "Fiebre tifoidea", "Linfadenitis", "Rash cutáneo"],
+    "respuesta": "Miocarditis"
+  },
+  {
+    "pregunta": "¿Qué tipo de parálisis es común en las complicaciones neurológicas de la difteria?",
+    "opciones": ["Parálisis oculomotora", "Parálisis facial", "Parálisis respiratoria", "Parálisis generalizada"],
+    "respuesta": "Parálisis oculomotora"
+  },
+  {
+    "pregunta": "¿En qué áreas es más prevalente la difteria?",
+    "opciones": ["Áreas rurales", "Áreas urbanas pobres con hacinamiento", "Áreas frías", "Áreas costeras"],
+    "respuesta": "Áreas urbanas pobres con hacinamiento"
+  },
+  {
+    "pregunta": "¿Qué tipo de bacterias son los portadores asintomáticos de *Corynebacterium diphtheriae*?",
+    "opciones": ["Bacterias virales", "Bacterias Grampositivas", "Bacterias Gramnegativas", "Bacterias anaeróbicas estrictas"],
+    "respuesta": "Bacterias Grampositivas"
+  },
+  {
+    "pregunta": "¿Qué fenómeno patológico ocurre debido a la toxina diftérica en las células afectadas?",
+    "opciones": ["Muerte celular", "Multiplicación bacteriana", "Inmunidad celular", "Producción de pus"],
+    "respuesta": "Muerte celular"
+  },
+  {
+    "pregunta": "¿Qué región de la toxina diftérica se encarga de unirse al receptor celular?",
+    "opciones": ["Subunidad A", "Subunidad B", "Subunidad C", "Subunidad D"],
+    "respuesta": "Subunidad B"
+  },
+  {
+    "pregunta": "¿Qué ocurre con las células afectadas por la toxina diftérica?",
+    "opciones": ["Aumentan su capacidad de división", "Son destruidas por necrosis", "Se multiplican sin control", "Activan mecanismos de defensa celular"],
+    "respuesta": "Son destruidas por necrosis"
+  },
+  {
+    "pregunta": "¿Cuándo suele desarrollarse la miocarditis diftérica después de la infección inicial?",
+    "opciones": ["Inmediatamente", "1-2 semanas", "1-2 días", "4-5 semanas"],
+    "respuesta": "1-2 semanas"
+  },
+  {
+    "pregunta": "¿En qué momento suelen mejorar los síntomas faríngeos en la miocarditis diftérica?",
+    "opciones": ["Antes del inicio de la miocarditis", "Simultáneamente al inicio de la miocarditis", "Cuando empiezan a mejorar los síntomas faríngeos", "Después de la insuficiencia cardíaca"],
+    "respuesta": "Cuando empiezan a mejorar los síntomas faríngeos"
+  },
+  {
+    "pregunta": "¿Cómo puede manifestarse la miocarditis diftérica?",
+    "opciones": ["De forma aguda o gradual", "Solo de forma gradual", "Solo de forma aguda", "Con fiebre alta y dolor torácico"],
+    "respuesta": "De forma aguda o gradual"
+  },
+  {
+    "pregunta": "¿Qué complicación puede surgir de la miocarditis diftérica?",
+    "opciones": ["Insuficiencia renal", "Insuficiencia cardíaca congestiva y muerte", "Parálisis generalizada", "Hemorragias internas"],
+    "respuesta": "Insuficiencia cardíaca congestiva y muerte"
+  },
+  {
+    "pregunta": "¿Dónde comienza típicamente la neuropatía diftérica?",
+    "opciones": ["En el paladar blando y la faringe", "En las manos y pies", "En los nervios periféricos", "En la piel de las extremidades"],
+    "respuesta": "En el paladar blando y la faringe"
+  },
+  {
+    "pregunta": "¿Qué parálisis se desarrolla a medida que la neuropatía diftérica progresa hacia el cráneo?",
+    "opciones": ["Parálisis facial", "Parálisis oculomotora y ciliar", "Parálisis respiratoria", "Parálisis de los miembros inferiores"],
+    "respuesta": "Parálisis oculomotora y ciliar"
+  },
+  {
+    "pregunta": "¿Cómo se denomina la complicación más avanzada de la neuropatía diftérica?",
+    "opciones": ["Parálisis facial", "Neuritis periférica generalizada", "Parálisis central", "Desmielinización"],
+    "respuesta": "Neuritis periférica generalizada"
+  },
+  {
+    "pregunta": "¿Cómo es el proceso de recuperación de la neuropatía diftérica?",
+    "opciones": ["Rápido y sin secuelas", "Lento y puede requerir rehabilitación extensa", "Inmediato", "Sin posibilidad de recuperación"],
+    "respuesta": "Lento y puede requerir rehabilitación extensa"
+  },
+  {
+    "pregunta": "¿Qué tipo de muestras se utilizan para el diagnóstico de *Corynebacterium diphtheriae*?",
+    "opciones": ["Muestras de sangre", "Muestras de orina", "Muestras de nasofaringe y garganta", "Muestras de piel"],
+    "respuesta": "Muestras de nasofaringe y garganta"
+  },
+  {
+    "pregunta": "¿En qué medio se cultivan las muestras para diagnosticar *Corynebacterium diphtheriae*?",
+    "opciones": ["Agar sangre enriquecido y medio de Tinsdale", "Agar MacConkey", "Agar sabouraud", "Agar Eosin Methylene Blue"],
+    "respuesta": "Agar sangre enriquecido y medio de Tinsdale"
+  },
+  {
+    "pregunta": "¿Cómo se describe la apariencia de las colonias de *Corynebacterium diphtheriae* en el medio de Tinsdale?",
+    "opciones": ["Colonias rosadas", "Colonias grisáceas a negruzcas con halo marrón", "Colonias grandes y blancas", "Colonias transparentes"],
+    "respuesta": "Colonias grisáceas a negruzcas con halo marrón"
+  },
+  {
+    "pregunta": "¿Qué prueba se utiliza para detectar la producción de toxina diftérica?",
+    "opciones": ["Prueba de Elek", "Prueba de cultivo en agar sangre", "Prueba PCR", "Prueba de anticuerpos séricos"],
+    "respuesta": "Prueba de Elek"
+  },
+  {
+    "pregunta": "¿Qué detecta la PCR en el diagnóstico de la difteria?",
+    "opciones": ["La presencia de anticuerpos", "El gen de la exotoxina", "El crecimiento bacteriano", "La resistencia a antibióticos"],
+    "respuesta": "El gen de la exotoxina"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal en el tratamiento de la difteria?",
+    "opciones": ["Eliminar el virus", "Neutralizar la exotoxina", "Reducir la fiebre", "Prevenir la parálisis"],
+    "respuesta": "Neutralizar la exotoxina"
+  },
+  {
+    "pregunta": "¿Qué antibióticos se utilizan en el tratamiento de *Corynebacterium diphtheriae*?",
+    "opciones": ["Penicilina o eritromicina", "Amoxicilina", "Ciprofloxacino", "Vancomicina"],
+    "respuesta": "Penicilina o eritromicina"
+  },
+  {
+    "pregunta": "¿Qué medidas de soporte son esenciales en el tratamiento de la difteria?",
+    "opciones": ["Reposo, aislamiento y mantenimiento de vías respiratorias", "Inmunización activa", "Tratamiento con antivirales", "Administración de analgésicos"],
+    "respuesta": "Reposo, aislamiento y mantenimiento de vías respiratorias"
+  },
+  {
+    "pregunta": "¿Qué aspecto es clave en el tratamiento de la difteria para evitar daños graves?",
+    "opciones": ["Administración precoz de antitoxina diftérica", "Uso prolongado de antibióticos", "Rehabilitación física", "Inmunización pasiva"],
+    "respuesta": "Administración precoz de antitoxina diftérica"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo del tratamiento antibiótico en la difteria?",
+    "opciones": ["Eliminar la bacteria y detener la producción de toxina", "Reducir la inflamación", "Inactivar la toxina diftérica", "Controlar las arritmias cardíacas"],
+    "respuesta": "Eliminar la bacteria y detener la producción de toxina"
+  },
+  {
+    "pregunta": "¿Cuál es la estrategia de prevención primaria para la difteria?",
+    "opciones": ["Vacunación con toxoide diftérico", "Tratamiento con antibióticos preventivos", "Uso de mascarillas", "Evitar el contacto directo con infectados"],
+    "respuesta": "Vacunación con toxoide diftérico"
+  },
+  {
+    "pregunta": "¿Cada cuántos años se debe administrar la dosis de recuerdo del toxoide diftérico?",
+    "opciones": ["Cada 5 años", "Cada 10 años", "Cada 2 años", "Cada 15 años"],
+    "respuesta": "Cada 10 años"
+  },
+  {
+    "pregunta": "¿Qué se debe hacer con las personas expuestas a casos de difteria?",
+    "opciones": ["Tratarlas con antibióticos", "Aislarlas en hospitales", "Inmunizarlas con la vacuna", "Realizarles un diagnóstico de laboratorio"],
+    "respuesta": "Tratarlas con antibióticos"
+  }
+]

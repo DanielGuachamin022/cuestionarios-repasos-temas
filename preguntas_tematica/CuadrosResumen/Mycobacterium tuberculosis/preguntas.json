@@ -1,0 +1,222 @@
+[
+    {
+        "pregunta": "¿Cómo se describe la morfología de *Mycobacterium tuberculosis*?",
+        "opciones": ["Coco Grampositivo", "Bacilo Grampositivo largo y fino", "Bacilo Gramnegativo corto", "Coco Gramnegativo"],
+        "respuesta": "Bacilo Grampositivo largo y fino"
+    },
+    {
+        "pregunta": "¿Cuál es el metabolismo de *Mycobacterium tuberculosis*?",
+        "opciones": ["Aerobio facultativo", "Anaerobio estricto", "Aerobio estricto", "Anaerobio facultativo"],
+        "respuesta": "Aerobio estricto"
+    },
+    {
+        "pregunta": "¿Qué característica tiene la pared celular de *M. tuberculosis*?",
+        "opciones": ["Es simple y rica en proteínas", "Es compleja y rica en lípidos", "Es delgada y sin lípidos", "Es gruesa y rica en carbohidratos"],
+        "respuesta": "Es compleja y rica en lípidos"
+    },
+    {
+        "pregunta": "¿Cómo ingresa *M. tuberculosis* al cuerpo humano?",
+        "opciones": ["Por la piel", "Por vías respiratorias", "Por contacto directo", "Por el sistema digestivo"],
+        "respuesta": "Por vías respiratorias"
+    },
+    {
+        "pregunta": "¿Dónde se multiplica *M. tuberculosis* después de ser fagocitado?",
+        "opciones": ["En los ganglios linfáticos", "En los pulmones", "En los macrófagos alveolares", "En el corazón"],
+        "respuesta": "En los macrófagos alveolares"
+    },
+    {
+        "pregunta": "¿Cuánto tiempo tarda el sistema inmunitario en destruir muchos bacilos de *M. tuberculosis*?",
+        "opciones": ["1-2 semanas", "2-4 semanas", "4-6 semanas", "6-8 semanas"],
+        "respuesta": "2-4 semanas"
+    },
+    {
+        "pregunta": "¿Qué sucede con los bacilos que sobreviven a la respuesta inmune?",
+        "opciones": ["Mueren rápidamente", "Se diseminan a otros órganos", "Se quedan en los pulmones", "Son eliminados por los cilios respiratorios"],
+        "respuesta": "Se diseminan a otros órganos"
+    },
+    {
+        "pregunta": "¿Qué porcentaje de la población mundial se estima que está infectada con *M. tuberculosis*?",
+        "opciones": ["1/4", "1/3", "1/2", "2/3"],
+        "respuesta": "1/3"
+    },
+    {
+        "pregunta": "¿Cuántos casos activos de tuberculosis se registran anualmente?",
+        "opciones": ["5 millones", "8 millones", "10.4 millones", "12 millones"],
+        "respuesta": "10.4 millones"
+    },
+    {
+        "pregunta": "¿Cuántos casos de tuberculosis multirresistente se reportan cada año?",
+        "opciones": ["200 mil", "460 mil", "700 mil", "1 millón"],
+        "respuesta": "460 mil"
+    },
+    {
+        "pregunta": "¿Cuántas muertes anuales son causadas por la tuberculosis?",
+        "opciones": ["800 mil", "1.2 millones", "1.7 millones", "2 millones"],
+        "respuesta": "1.7 millones"
+    },
+    {
+        "pregunta": "¿Cómo se diseminan los bacilos de tuberculosis en el aire?",
+        "opciones": ["Por la tos de pacientes con TB pulmonar activa", "Por la sudoración de pacientes infectados", "Por contacto con superficies contaminadas", "Por el contacto sexual"],
+        "respuesta": "Por la tos de pacientes con TB pulmonar activa"
+    },
+    {
+        "pregunta": "¿Qué sucede con las partículas grandes de aerosoles que contienen bacilos?",
+        "opciones": ["Se inhalan directamente", "Quedan atrapadas en las superficies mucosas y son eliminadas", "Se diseminan en el aire", "No tienen efecto"],
+        "respuesta": "Quedan atrapadas en las superficies mucosas y son eliminadas"
+    },
+    {
+        "pregunta": "¿Cuánto tiempo permanecen viables los bacilos de tuberculosis en el aire?",
+        "opciones": ["Al menos 10 minutos", "Al menos 30 minutos", "Al menos 1 hora", "Al menos 2 horas"],
+        "respuesta": "Al menos 30 minutos"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes grupos es de riesgo para contraer tuberculosis?",
+        "opciones": ["Personas con un sistema inmunológico fuerte", "Niños pequeños", "Personas sin hogar", "Trabajadores de oficina"],
+        "respuesta": "Personas sin hogar"
+    },
+    {
+        "pregunta": "¿Qué factor aumenta la susceptibilidad a la tuberculosis en los alcohólicos y drogadictos?",
+        "opciones": ["Tener un sistema inmunitario comprometido", "Falta de actividad física", "Exposición al sol", "Consumo de alimentos contaminados"],
+        "respuesta": "Tener un sistema inmunitario comprometido"
+    },
+    {
+        "pregunta": "¿Dónde se propaga rápidamente la tuberculosis en los reclusos?",
+        "opciones": ["En el sistema digestivo", "En espacios cerrados y hacinados", "En áreas de trabajo", "En zonas rurales"],
+        "respuesta": "En espacios cerrados y hacinados"
+    },
+    {
+        "pregunta": "¿Qué grupo tiene un mayor riesgo de tuberculosis debido a un sistema inmunitario debilitado?",
+        "opciones": ["Personas jóvenes", "Pacientes VIH", "Personas con dieta saludable", "Personas con antecedentes de alergias"],
+        "respuesta": "Pacientes VIH"
+    },
+    {
+        "pregunta": "¿Cuál es la forma más común y contagiosa de tuberculosis?",
+        "opciones": ["Tuberculosis ósea", "Tuberculosis renal", "Tuberculosis pulmonar", "Tuberculosis meníngea"],
+        "respuesta": "Tuberculosis pulmonar"
+    },
+    {
+        "pregunta": "¿Qué parte del cuerpo afecta principalmente la tuberculosis ósea?",
+        "opciones": ["Columna vertebral", "Huesos de las piernas", "Cráneo", "Muñeca"],
+        "respuesta": "Columna vertebral"
+    },
+    {
+        "pregunta": "¿Qué sistema del cuerpo se ve comprometido en la tuberculosis renal?",
+        "opciones": ["Sistema digestivo", "Sistema genitourinario", "Sistema nervioso", "Sistema cardiovascular"],
+        "respuesta": "Sistema genitourinario"
+    },
+    {
+        "pregunta": "¿Qué forma de tuberculosis tiene una alta mortalidad?",
+        "opciones": ["Tuberculosis ósea", "Tuberculosis meníngea", "Tuberculosis pulmonar", "Tuberculosis renal"],
+        "respuesta": "Tuberculosis meníngea"
+    },
+    {
+        "pregunta": "¿Cómo comienza típicamente la tuberculosis pulmonar?",
+        "opciones": ["De manera súbita", "De manera insidiosa", "De manera grave", "De manera inmediata"],
+        "respuesta": "De manera insidiosa"
+    },
+    {
+        "pregunta": "¿Qué síntomas suelen presentar los pacientes con tuberculosis pulmonar?",
+        "opciones": ["Malestar general, tos, sudoración nocturna", "Fiebre alta, dolor torácico, náuseas", "Cansancio extremo, dolor de cabeza", "Dolor abdominal, pérdida de apetito"],
+        "respuesta": "Malestar general, tos, sudoración nocturna"
+    },
+    {
+        "pregunta": "¿Qué tipo de esputo pueden producir los pacientes con tuberculosis pulmonar?",
+        "opciones": ["Escaso y hemoptísico", "Escaso y claro", "Abundante y espumoso", "Escaso y de color amarillo"],
+        "respuesta": "Escaso y hemoptísico"
+    },
+    {
+        "pregunta": "¿Qué indica la producción de esputo hemoptísico en pacientes con tuberculosis pulmonar?",
+        "opciones": ["Infección viral", "Destrucción tisular", "Reacción al tratamiento", "Mejora en el estado de salud"],
+        "respuesta": "Destrucción tisular"
+    },
+    {
+        "pregunta": "¿Qué tipo de pruebas se utilizan para apoyar el diagnóstico clínico de tuberculosis pulmonar?",
+        "opciones": ["Análisis de sangre", "Pruebas radiológicas", "Análisis de orina", "Exámenes de piel"],
+        "respuesta": "Pruebas radiológicas"
+    },
+    {
+        "pregunta": "¿En qué consiste la prueba cutánea de tuberculina?",
+        "opciones": ["Inyección de derivado proteico purificado (PPD) intradérmico", "Inyección de antibióticos", "Extracción de sangre", "Tinción de bacilos"],
+        "respuesta": "Inyección de derivado proteico purificado (PPD) intradérmico"
+    },
+    {
+        "pregunta": "¿Cuántas horas se debe esperar para evaluar la reacción a la prueba cutánea de tuberculina?",
+        "opciones": ["24-48 horas", "48-72 horas", "72-96 horas", "96-120 horas"],
+        "respuesta": "48-72 horas"
+    },
+    {
+        "pregunta": "¿Qué significa una induración de ≥10 mm en la prueba de tuberculina?",
+        "opciones": ["Indica exposición previa a M. tuberculosis", "Indica infección activa", "Indica alergia a la prueba", "Indica resistencia al tratamiento"],
+        "respuesta": "Indica exposición previa a M. tuberculosis"
+    },
+    {
+        "pregunta": "¿Qué limitación tiene la prueba cutánea de tuberculina?",
+        "opciones": ["No detecta infecciones antiguas", "Puede dar falsos positivos por BCG o micobacterias no tuberculosas", "No se realiza correctamente en niños", "Es solo efectiva para la tuberculosis activa"],
+        "respuesta": "Puede dar falsos positivos por BCG o micobacterias no tuberculosas"
+    },
+    {
+        "pregunta": "¿Qué método de tinción se utiliza para el diagnóstico microscópico de tuberculosis?",
+        "opciones": ["Tinción de Gram", "Tinción de Ziehl-Neelsen", "Tinción de Giemsa", "Tinción de Wright"],
+        "respuesta": "Tinción de Ziehl-Neelsen"
+    },
+    {
+        "pregunta": "¿Qué caracteriza a los bacilos en la tinción de Ziehl-Neelsen?",
+        "opciones": ["Aparecen como bastones rojos sobre fondo azul", "Aparecen como esferas azules", "Aparecen como bastones verdes", "Aparecen como líneas amarillas"],
+        "respuesta": "Aparecen como bastones rojos sobre fondo azul"
+    },
+    {
+        "pregunta": "¿Qué variante de tinción no requiere calentamiento y es utilizada para el diagnóstico de tuberculosis?",
+        "opciones": ["Método de Gram", "Método de Kinyoun", "Fluorocromo de Truant", "Tinción de Wright"],
+        "respuesta": "Método de Kinyoun"
+    },
+    {
+        "pregunta": "¿Qué utiliza el fluorocromo de Truant para detectar los bacilos de tuberculosis?",
+        "opciones": ["Auramina-rodamina", "Carbolfucsina", "Cristal violeta", "Azul de metileno"],
+        "respuesta": "Auramina-rodamina"
+    },
+    {
+        "pregunta": "¿Cómo se recolectan las muestras para el diagnóstico por cultivo de tuberculosis?",
+        "opciones": ["Durante las primeras 24 horas de la enfermedad", "Durante las primeras muestras respiratorias de la mañana por 3 días consecutivos", "En cualquier momento del día", "Solo durante la noche"],
+        "respuesta": "Durante las primeras muestras respiratorias de la mañana por 3 días consecutivos"
+    },
+    {
+        "pregunta": "¿Qué medio de cultivo se utiliza para la detección de *M. tuberculosis*?",
+        "opciones": ["Agar Sabouraud", "Medios con huevo (Lowenstein-Jensen) y agar (Middlebrook)", "Agar sangre", "Agar MacConkey"],
+        "respuesta": "Medios con huevo (Lowenstein-Jensen) y agar (Middlebrook)"
+    },
+    {
+        "pregunta": "¿Cuánto tiempo requiere el cultivo para detectar *M. tuberculosis*?",
+        "opciones": ["1-2 semanas", "4 semanas o más", "12 horas", "6 horas"],
+        "respuesta": "4 semanas o más"
+    },
+    {
+        "pregunta": "¿Qué técnica molecular acorta significativamente el tiempo de detección de *M. tuberculosis*?",
+        "opciones": ["Amplificación de Ácidos Nucleicos", "Cultivo en caldo", "Tinción de Gram", "Prueba cutánea de tuberculina"],
+        "respuesta": "Amplificación de Ácidos Nucleicos"
+    },
+    {
+        "pregunta": "¿Cuál es la duración mínima total del tratamiento antibiótico para la tuberculosis?",
+        "opciones": ["2-3 meses", "4-5 meses", "6-9 meses", "12 meses"],
+        "respuesta": "6-9 meses"
+    },
+    {
+        "pregunta": "¿Cuáles son los medicamentos utilizados en la fase inicial del tratamiento de tuberculosis?",
+        "opciones": ["Isoniazida, Etambutol, Pirazinamida, Rifampicina", "Isoniazida y Rifampicina", "Amoxicilina y Azitromicina", "Levofloxacino y Rifampicina"],
+        "respuesta": "Isoniazida, Etambutol, Pirazinamida, Rifampicina"
+    },
+    {
+        "pregunta": "¿Qué medicamentos se utilizan en la fase de continuación del tratamiento de tuberculosis?",
+        "opciones": ["Isoniazida y Rifampicina", "Isoniazida y etambutol", "Pirazinamida y etambutol", "Rifampicina y levofloxacino"],
+        "respuesta": "Isoniazida y Rifampicina"
+    },
+    {
+        "pregunta": "¿Qué cepas de *M. tuberculosis* son resistentes a los fármacos de segunda línea como kanamicina y amikacina?",
+        "opciones": ["Cepas XDR (extremadamente resistentes)", "Cepas MDR (multirresistentes)", "Cepas virulentas", "Cepas resistentes solo a Rifampicina"],
+        "respuesta": "Cepas XDR (extremadamente resistentes)"
+    },
+    {
+        "pregunta": "¿Qué vacuna se utiliza para prevenir la tuberculosis en países donde la enfermedad es endémica?",
+        "opciones": ["Vacuna BCG (M. bovis atenuado)", "Vacuna contra la gripe", "Vacuna contra la neumonía", "Vacuna contra el sarampión"],
+        "respuesta": "Vacuna BCG (M. bovis atenuado)"
+    }
+]

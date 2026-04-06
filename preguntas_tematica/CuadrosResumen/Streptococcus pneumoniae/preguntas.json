@@ -1,0 +1,212 @@
+[
+  {
+    "pregunta": "¿Cuál es el diámetro de los cocos grampositivos elongados descritos en la información?",
+    "opciones": ["0,5 a 1,2 μm", "1 a 2 μm", "0,2 a 0,5 μm", "1,5 a 2,5 μm"],
+    "respuesta": "0,5 a 1,2 μm"
+  },
+  {
+    "pregunta": "¿Qué tipo de oxígeno requiere la bacteria mencionada?",
+    "opciones": ["Anaerobios obligados", "Anaerobios facultativos", "Aerobios obligados", "Facultativos aeróbicos"],
+    "respuesta": "Anaerobios facultativos"
+  },
+  {
+    "pregunta": "¿Cuál es la característica principal de las colonias que se cultivan en agar sangre?",
+    "opciones": ["Beta hemolíticas", "Alfa hemolíticas", "Gamma hemolíticas", "No hemolíticas"],
+    "respuesta": "Alfa hemolíticas"
+  },
+  {
+    "pregunta": "¿Qué sustancia produce la bacteria que degrada la hemoglobina en el agar sangre?",
+    "opciones": ["Neumolisina", "Toxina alfa", "Hemolisina", "Catalasa"],
+    "respuesta": "Neumolisina"
+  },
+  {
+    "pregunta": "¿Dónde habita normalmente esta bacteria en las personas sanas?",
+    "opciones": ["En el tracto respiratorio superior", "En el aparato digestivo", "En los pulmones", "En el aparato urinario"],
+    "respuesta": "En el tracto respiratorio superior"
+  },
+  {
+    "pregunta": "¿Cuál es la principal vía de diseminación de esta bacteria a otras partes del cuerpo?",
+    "opciones": ["Por contacto directo con secreciones respiratorias", "Por contacto con objetos contaminados", "Por contacto con sangre infectada", "Por el aire"],
+    "respuesta": "Por contacto directo con secreciones respiratorias"
+  },
+  {
+    "pregunta": "¿A qué órganos puede migrar la bacteria desde los pulmones?",
+    "opciones": ["Al cerebro", "A los riñones", "Al corazón", "A los ojos"],
+    "respuesta": "Al cerebro"
+  },
+  {
+    "pregunta": "¿Qué función tiene la cápsula en la bacteria?",
+    "opciones": ["Protege a la bacteria de los leucocitos", "Aumenta la virulencia de la bacteria", "Ayuda a la bacteria a adherirse a superficies", "Destruye las células del huésped"],
+    "respuesta": "Protege a la bacteria de los leucocitos"
+  },
+  {
+    "pregunta": "¿Qué hace la neumolisina?",
+    "opciones": ["Destruye células del epitelio ciliado y fagocíticas", "Ayuda a la bacteria a dividirse rápidamente", "Bloquea la acción de los antibióticos", "Inactiva las defensas del huésped"],
+    "respuesta": "Destruye células del epitelio ciliado y fagocíticas"
+  },
+  {
+    "pregunta": "¿Qué son las autolisinas?",
+    "opciones": ["Enzimas que hidrolizan componentes celulares", "Proteínas que ayudan en la adherencia", "Sustancias que destruyen células del huésped", "Toxinas que causan la hemólisis"],
+    "respuesta": "Enzimas que hidrolizan componentes celulares"
+  },
+  {
+    "pregunta": "¿Qué función tiene la proteína A de unión a colina?",
+    "opciones": ["Adhesina para epitelio nasofaríngeo", "Protege contra los antibióticos", "Induce la fagocitosis", "Destruye la membrana celular"],
+    "respuesta": "Adhesina para epitelio nasofaríngeo"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de personas sanas puede ser portadora asintomática de esta bacteria?",
+    "opciones": ["20% a 60%", "5% a 10%", "50% a 80%", "30% a 40%"],
+    "respuesta": "20% a 60%"
+  },
+  {
+    "pregunta": "¿Qué grupo etario tiene mayor prevalencia de colonización por esta bacteria?",
+    "opciones": ["Niños pequeños", "Adultos mayores", "Mujeres embarazadas", "Adultos jóvenes"],
+    "respuesta": "Niños pequeños"
+  },
+  {
+    "pregunta": "¿A qué grupo de personas se les considera de alto riesgo para infecciones por esta bacteria?",
+    "opciones": ["Niños y ancianos", "Adolescentes", "Personas con diabetes", "Adultos jóvenes saludables"],
+    "respuesta": "Niños y ancianos"
+  },
+  {
+    "pregunta": "¿En qué situación es más común la transmisión de esta bacteria entre adultos?",
+    "opciones": ["Cuando conviven con niños", "Cuando viajan al extranjero", "Cuando hacen ejercicio físico", "Cuando tienen contacto con animales"],
+    "respuesta": "Cuando conviven con niños"
+  },
+  {
+    "pregunta": "¿Cuándo comienza la colonización inicial por esta bacteria?",
+    "opciones": ["Alrededor de los 6 meses de edad", "Al nacer", "A los 2 años de edad", "A los 10 años de edad"],
+    "respuesta": "Alrededor de los 6 meses de edad"
+  },
+  {
+    "pregunta": "¿Cuál es el principal medio de transmisión de esta bacteria?",
+    "opciones": ["Gotitas respiratorias", "Por alimentos contaminados", "Por contacto con agua sucia", "Por mordeduras de insectos"],
+    "respuesta": "Gotitas respiratorias"
+  },
+  {
+    "pregunta": "¿En qué parte del cuerpo se puede dar la autoinoculación de la bacteria desde la nasofaringe?",
+    "opciones": ["Al oído o a los senos paranasales", "A la piel", "A los pulmones", "Al aparato urinario"],
+    "respuesta": "Al oído o a los senos paranasales"
+  },
+  {
+    "pregunta": "¿Por qué se considera que la bacteria no sobrevive mucho tiempo fuera del cuerpo humano?",
+    "opciones": ["Porque no es ubicua en el ambiente", "Porque necesita un ambiente húmedo", "Porque se desintegra rápidamente", "Porque es muy frágil"],
+    "respuesta": "Porque no es ubicua en el ambiente"
+  },
+  {
+    "pregunta": "¿Qué factor de virulencia se encarga de hacer la bacteria más resistente a los fagocitos?",
+    "opciones": ["La cápsula", "La proteína A de unión a colina", "Las autolisinas", "La neumolisina"],
+    "respuesta": "La cápsula"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la toxina que crea poros en las membranas celulares del huésped?",
+    "opciones": ["Neumolisina", "Hemolisina", "Toxina A", "Citoquina"],
+    "respuesta": "Neumolisina"
+  },
+  {
+    "pregunta": "¿Cuántos niños menores de 5 años fallecen anualmente debido a neumonía o meningitis neumocócica?",
+    "opciones": ["750,000", "1,000,000", "500,000", "300,000"],
+    "respuesta": "750,000"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de pacientes con neumonía muestra *Streptococcus pneumoniae* en los cultivos de esputo?",
+    "opciones": ["50%", "60%", "70%", "40%"],
+    "respuesta": "50%"
+  },
+  {
+    "pregunta": "¿Cuál es la principal causa de mortalidad asociada a neumonía neumocócica?",
+    "opciones": ["Consolidación lobar", "Fiebre mantenida", "Otitis media", "Bacteriemia"],
+    "respuesta": "Consolidación lobar"
+  },
+  {
+    "pregunta": "¿Qué síntoma es común en la neumonía neumocócica?",
+    "opciones": ["Tos productiva con esputo sanguinolento", "Dolor abdominal", "Vómitos frecuentes", "Cefaleas constantes"],
+    "respuesta": "Tos productiva con esputo sanguinolento"
+  },
+  {
+    "pregunta": "¿Qué grave consecuencia puede tener la meningitis neumocócica?",
+    "opciones": ["Defectos neurológicos graves en supervivientes", "Dificultades respiratorias permanentes", "Pérdida de visión parcial", "Parálisis permanente"],
+    "respuesta": "Defectos neurológicos graves en supervivientes"
+  },
+  {
+    "pregunta": "¿En qué grupo de edad es especialmente grave la meningitis neumocócica?",
+    "opciones": ["Niños", "Adultos mayores", "Adultos jóvenes", "Infantes mayores de 1 año"],
+    "respuesta": "Niños"
+  },
+  {
+    "pregunta": "¿Qué infección es común en los niños pequeños debido a *S. pneumoniae*?",
+    "opciones": ["Otitis media", "Sinusitis", "Neumonía", "Meningitis"],
+    "respuesta": "Otitis media"
+  },
+  {
+    "pregunta": "¿Qué otro tipo de infección frecuente puede causar *S. pneumoniae* además de la neumonía?",
+    "opciones": ["Sinusitis", "Cistitis", "Meningitis viral", "Infección urinaria"],
+    "respuesta": "Sinusitis"
+  },
+  {
+    "pregunta": "¿Qué es la bacteriemia?",
+    "opciones": ["Presencia de bacterias en sangre", "Inflamación del oído medio", "Pérdida de células sanguíneas", "Toxinas en el torrente sanguíneo"],
+    "respuesta": "Presencia de bacterias en sangre"
+  },
+  {
+    "pregunta": "¿Qué procedimiento se utiliza para obtener muestras para diagnóstico de infecciones neumocócicas?",
+    "opciones": ["Hisopado nasofaríngeo", "Análisis de orina", "Toma de muestras fecales", "Biopsia de pulmón"],
+    "respuesta": "Hisopado nasofaríngeo"
+  },
+  {
+    "pregunta": "¿Qué medio se usa para cultivar *S. pneumoniae* en el laboratorio?",
+    "opciones": ["Agar sangre", "Agar MacConkey", "Agar sabouraud", "Agar chocolate"],
+    "respuesta": "Agar sangre"
+  },
+  {
+    "pregunta": "¿Qué tipo de hemólisis ocurre cuando *S. pneumoniae* crece en agar sangre?",
+    "opciones": ["Alfa hemolítica", "Beta hemolítica", "Gamma hemolítica", "No hemolítica"],
+    "respuesta": "Alfa hemolítica"
+  },
+  {
+    "pregunta": "¿Qué método se utiliza para diagnosticar rápidamente neumonía y meningitis neumocócica?",
+    "opciones": ["Tinción de Gram", "PCR", "Cultivo en agar", "Prueba de sensibilidad"],
+    "respuesta": "Tinción de Gram"
+  },
+  {
+    "pregunta": "¿Qué prueba molecular es utilizada para identificar cepas en muestras clínicas?",
+    "opciones": ["PCR", "Tinción de Gram", "Cultivo en medio enriquecido", "Prueba de sensibilidad a antibióticos"],
+    "respuesta": "PCR"
+  },
+  {
+    "pregunta": "¿Cuál es el tratamiento histórico de elección para las infecciones neumocócicas?",
+    "opciones": ["Penicilina", "Cefalosporinas", "Vancomicina", "Macrólidos"],
+    "respuesta": "Penicilina"
+  },
+  {
+    "pregunta": "¿A qué antibióticos presenta resistencia comúnmente *S. pneumoniae*?",
+    "opciones": ["A macrólidos, tetraciclinas y cefalosporinas", "A penicilina y vancomicina", "A ampicilina y ciprofloxacino", "A todos los antibióticos beta-lactámicos"],
+    "respuesta": "A macrólidos, tetraciclinas y cefalosporinas"
+  },
+  {
+    "pregunta": "¿Qué antibióticos se utilizan actualmente para tratar cepas resistentes de *S. pneumoniae*?",
+    "opciones": ["Cefalosporinas de tercera generación y vancomicina", "Penicilina y amoxicilina", "Tetraciclinas y amikacina", "Eritromicina y clindamicina"],
+    "respuesta": "Cefalosporinas de tercera generación y vancomicina"
+  },
+  {
+    "pregunta": "¿Cuál es la vacuna contra el polisacárido neumocócico?",
+    "opciones": ["PPSV23", "PCV13", "BCG", "Hib"],
+    "respuesta": "PPSV23"
+  },
+  {
+    "pregunta": "¿A qué serotipos protege la vacuna PPSV23?",
+    "opciones": ["23 serotipos diferentes de *S. pneumoniae*", "13 serotipos diferentes de *S. pneumoniae*", "5 serotipos diferentes de *S. pneumoniae*", "10 serotipos diferentes de *S. pneumoniae*"],
+    "respuesta": "23 serotipos diferentes de *S. pneumoniae*"
+  },
+  {
+    "pregunta": "¿Cuál es la vacuna recomendada especialmente para niños menores de 2 años?",
+    "opciones": ["PCV13", "PPSV23", "BCG", "Hib"],
+    "respuesta": "PCV13"
+  },
+  {
+    "pregunta": "¿Cómo ha influido la inmunización en la incidencia de la enfermedad neumocócica?",
+    "opciones": ["Ha reducido significativamente la incidencia", "No ha tenido impacto", "Ha aumentado la incidencia", "Solo ha afectado a niños pequeños"],
+    "respuesta": "Ha reducido significativamente la incidencia"
+  }
+]

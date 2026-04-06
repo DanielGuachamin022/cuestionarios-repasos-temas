@@ -1,0 +1,202 @@
+[
+  {
+    "pregunta": "¿Cuál es la morfología de estos cocos grampositivos?",
+    "opciones": ["En cadenas", "En racimos irregulares", "En forma de bacilos", "En diplococos"],
+    "respuesta": "En racimos irregulares"
+  },
+  {
+    "pregunta": "¿Qué enzima producen estos microorganismos que permite diferenciarlos de los estreptococos?",
+    "opciones": ["Ureasa", "Catalasa", "Oxidasa", "Lactamasa"],
+    "respuesta": "Catalasa"
+  },
+  {
+    "pregunta": "¿Qué propiedad metabólica presentan estos cocos grampositivos?",
+    "opciones": ["Anaerobios estrictos", "Aerobios estrictos", "Anaerobios facultativos", "Microaerófilos"],
+    "respuesta": "Anaerobios facultativos"
+  },
+  {
+    "pregunta": "¿Qué estructura facilita la adhesión a tejidos y dispositivos médicos?",
+    "opciones": ["Cápsula", "Pili", "Biopelícula", "Flagelo"],
+    "respuesta": "Biopelícula"
+  },
+  {
+    "pregunta": "¿Cuál es una característica de resistencia importante?",
+    "opciones": ["Resistencia al calor extremo", "Sobrevivir a la desecación", "Formación de esporas", "Resistencia a radiación UV"],
+    "respuesta": "Sobrevivir a la desecación"
+  },
+  {
+    "pregunta": "¿Qué serotipos capsulares causan el 75% de las infecciones humanas?",
+    "opciones": ["1 y 2", "3 y 4", "5 y 8", "10 y 12"],
+    "respuesta": "5 y 8"
+  },
+  {
+    "pregunta": "¿Qué enzima junto con la catalasa es fundamental para la identificación?",
+    "opciones": ["Coagulasa", "Oxidasa", "Ureasa", "Proteasa"],
+    "respuesta": "Coagulasa"
+  },
+  {
+    "pregunta": "¿Qué tipo de toxinas producen estos microorganismos?",
+    "opciones": ["Neurotoxinas", "Citotoxinas", "Enterotoxinas exclusivamente", "Toxinas botulínicas"],
+    "respuesta": "Citotoxinas"
+  },
+  {
+    "pregunta": "¿Qué función tienen las toxinas exfoliativas ETA y ETB?",
+    "opciones": ["Destruir neutrófilos", "Romper puentes intercelulares del estrato granuloso", "Inducir diarrea severa", "Inhibir la fagocitosis"],
+    "respuesta": "Romper puentes intercelulares del estrato granuloso"
+  },
+  {
+    "pregunta": "¿Qué característica presenta la toxina 1 del síndrome del shock tóxico?",
+    "opciones": ["Es una neurotoxina potente", "Es un superantígeno", "Es un inhibidor enzimático", "Es una hemolisina"],
+    "respuesta": "Es un superantígeno"
+  },
+  {
+    "pregunta": "¿Qué función tiene la hialuronidasa?",
+    "opciones": ["Hidrolizar ADN", "Hidrolizar lípidos", "Hidrolizar ácidos hialurónicos del tejido conjuntivo", "Formar coágulos de fibrina"],
+    "respuesta": "Hidrolizar ácidos hialurónicos del tejido conjuntivo"
+  },
+  {
+    "pregunta": "¿Qué efecto producen las enterotoxinas?",
+    "opciones": ["Parálisis muscular", "Fiebre y escalofríos inmediatos", "Náuseas y vómitos", "Ceguera temporal"],
+    "respuesta": "Náuseas y vómitos"
+  },
+  {
+    "pregunta": "¿Qué función tiene la proteína A?",
+    "opciones": ["Incrementar la motilidad bacteriana", "Inhibir la eliminación mediada por anticuerpos", "Permitir la formación de esporas", "Estimular la fagocitosis"],
+    "respuesta": "Inhibir la eliminación mediada por anticuerpos"
+  },
+  {
+    "pregunta": "¿Qué estructura inhibe la quimiotaxis y la fagocitosis?",
+    "opciones": ["Biopelícula", "Ácido teicoico", "Cápsula", "Peptidoglucano"],
+    "respuesta": "Cápsula"
+  },
+  {
+    "pregunta": "¿Qué función tiene el peptidoglucano en la patogenicidad?",
+    "opciones": ["Inhibe formación de biofilm", "Estimula producción de pirógeno endógeno", "Evita la adherencia a tejidos", "Destruye tejidos musculares"],
+    "respuesta": "Estimula producción de pirógeno endógeno"
+  },
+  {
+    "pregunta": "¿A qué molécula se une el ácido teicoico?",
+    "opciones": ["Hemoglobina", "Fibronectina", "Lipopolisacárido", "Colágeno tipo I"],
+    "respuesta": "Fibronectina"
+  },
+  {
+    "pregunta": "¿Qué enzima convierte fibrinógeno en fibrina?",
+    "opciones": ["Hialuronidasa", "Coagulasa", "Lipasas", "Nucleasas"],
+    "respuesta": "Coagulasa"
+  },
+  {
+    "pregunta": "¿Qué enzimas hidrolizan los lípidos?",
+    "opciones": ["Lipasas", "Nucleasas", "Fibrinolisina", "Coagulasa"],
+    "respuesta": "Lipasas"
+  },
+  {
+    "pregunta": "¿Qué toxinas estimulan la proliferación de linfocitos T y liberación de citocinas?",
+    "opciones": ["Citotoxinas", "Enterotoxinas", "Lipasas", "Nucleasas"],
+    "respuesta": "Enterotoxinas"
+  },
+  {
+    "pregunta": "¿Qué enzima disuelve los coágulos de fibrina?",
+    "opciones": ["Fibrinolisina", "Catalasa", "Ureasa", "Coagulasa"],
+    "respuesta": "Fibrinolisina"
+  },
+  {
+    "pregunta": "¿Dónde suelen encontrarse de forma habitual estos microorganismos?",
+    "opciones": ["Solo en el tracto respiratorio", "En la flora normal de piel y mucosas", "En el agua contaminada", "En el suelo exclusivamente"],
+    "respuesta": "En la flora normal de piel y mucosas"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de adultos sanos son portadores permanentes en la nasofaringe?",
+    "opciones": ["5%", "10%", "15%", "25%"],
+    "respuesta": "15%"
+  },
+  {
+    "pregunta": "¿Cuál es el sitio más frecuente de colonización en niños mayores y adultos?",
+    "opciones": ["Aparato digestivo", "Región perianal", "Nasofaringe", "Piel seca"],
+    "respuesta": "Nasofaringe"
+  },
+  {
+    "pregunta": "¿Qué medida es fundamental para evitar la transmisión entre pacientes?",
+    "opciones": ["Uso de antibióticos preventivos", "Lavado adecuado de manos", "Aislamiento absoluto de todos los pacientes", "Uso obligatorio de mascarillas N95"],
+    "respuesta": "Lavado adecuado de manos"
+  },
+  {
+    "pregunta": "¿Qué sitio presentan los neonatos como frecuente colonización?",
+    "opciones": ["Oído medio", "Muñón umbilical y región perianal", "Hígado", "Tracto urinario"],
+    "respuesta": "Muñón umbilical y región perianal"
+  },
+  {
+    "pregunta": "¿Qué tipo de enfermedades son causadas exclusivamente por la acción de toxinas?",
+    "opciones": ["Infecciones invasivas", "Enfermedades por toxinas", "Infecciones oportunistas", "Septicemias"],
+    "respuesta": "Enfermedades por toxinas"
+  },
+  {
+    "pregunta": "¿Qué condición incrementa el riesgo de infección por estos microorganismos?",
+    "opciones": ["Ejercicio intenso", "Uso de vitaminas", "Hospitalización", "Contaminación ambiental baja"],
+    "respuesta": "Hospitalización"
+  },
+  {
+    "pregunta": "¿Qué caracteriza al síndrome de la piel escaldada?",
+    "opciones": ["Abscesos profundos en extremidades", "Descamación diseminada del epitelio en lactantes", "Lesiones llenas de pus en adultos", "Diarrea profusa"],
+    "respuesta": "Descamación diseminada del epitelio en lactantes"
+  },
+  {
+    "pregunta": "¿Cuál es el inicio típico de la intoxicación alimentaria?",
+    "opciones": ["Fiebre alta tras 48 horas", "Inicio rápido de vómitos intensos", "Tos persistente", "Lesiones purulentas en piel"],
+    "respuesta": "Inicio rápido de vómitos intensos"
+  },
+  {
+    "pregunta": "¿Qué característica presenta el shock tóxico?",
+    "opciones": ["Erupciones localizadas sin fiebre", "Hipertensión sistémica", "Fiebre, hipotensión y exantema maculoeritematoso", "Solo afectación pulmonar"],
+    "respuesta": "Fiebre, hipotensión y exantema maculoeritematoso"
+  },
+  {
+    "pregunta": "¿Qué lesión cutánea se caracteriza por vesículas llenas de pus sobre una base eritematosa?",
+    "opciones": ["Foliculitis", "Impétigo", "Forúnculo", "Erisipela"],
+    "respuesta": "Impétigo"
+  },
+  {
+    "pregunta": "¿Qué infección consiste en grandes nódulos dolorosos llenos de pus?",
+    "opciones": ["Ántrax", "Foliculitis", "Forúnculos", "Celulitis"],
+    "respuesta": "Forúnculos"
+  },
+  {
+    "pregunta": "¿Qué define al ántrax cutáneo en este contexto?",
+    "opciones": ["Lesión única sin dolor", "Unión de forúnculos con extensión subcutánea", "Úlceras necróticas profundas", "Placas eritematosas sin pus"],
+    "respuesta": "Unión de forúnculos con extensión subcutánea"
+  },
+  {
+    "pregunta": "¿Qué caracteriza la neumonía y empiema causados por estas bacterias?",
+    "opciones": ["Ausencia de fiebre", "Formación de abscesos pulmonares", "Solo tos leve", "Afectación exclusiva de bronquios"],
+    "respuesta": "Formación de abscesos pulmonares"
+  },
+  {
+    "pregunta": "¿Qué estructura del corazón se afecta en la endocarditis?",
+    "opciones": ["Miocardio", "Endotelio cardíaco", "Pericardio", "Válvulas pulmonares únicamente"],
+    "respuesta": "Endotelio cardíaco"
+  },
+  {
+    "pregunta": "¿Qué prueba de laboratorio es clave para la identificación en el diagnóstico?",
+    "opciones": ["Prueba de oxidasa", "Catalasa positiva y coagulasa", "Crecimiento en agar MacConkey", "Hemaglutinación"],
+    "respuesta": "Catalasa positiva y coagulasa"
+  },
+  {
+    "pregunta": "¿Qué tratamiento es necesario para lesiones localizadas?",
+    "opciones": ["Incisión y drenaje", "Solo analgésicos", "Lavado con agua", "Aplicación de frío local"],
+    "respuesta": "Incisión y drenaje"
+  },
+  {
+    "pregunta": "¿Cuál es el antibiótico intravenoso de elección mencionado?",
+    "opciones": ["Penicilina G", "Doxiciclina", "Vancomicina", "Ciprofloxacino"],
+    "respuesta": "Vancomicina"
+  },
+  {
+    "pregunta": "¿Qué medida preventiva es esencial en entornos hospitalarios?",
+    "opciones": ["Ventilación natural", "Higiene de manos", "Uso de suplementos vitamínicos", "Ejercicio del personal"],
+    "respuesta": "Higiene de manos"
+  },
+  {
+    "pregunta": "¿Qué manifestación clínica implica acumulación de material purulento en el espacio articular?",
+    "opciones": ["Osteomielitis", "Artritis séptica", "Bursitis", "Gota"],
+    "respuesta": "Artritis séptica"
+  }
+]

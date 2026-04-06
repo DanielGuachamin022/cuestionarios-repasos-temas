@@ -1,0 +1,602 @@
+[
+  {
+    "pregunta": "¿Quién creó el primer microscopio compuesto en 1595?",
+    "opciones": ["Zacharias Janssen", "Robert Hooke", "Anton van Leeuwenhoek", "Louis Pasteur"],
+    "respuesta": "Zacharias Janssen"
+  },
+  {
+    "pregunta": "¿Qué observó Robert Hooke en un trozo de corcho en 1665?",
+    "opciones": ["Virus", "Células", "Bacterias", "Hongos"],
+    "respuesta": "Células"
+  },
+  {
+    "pregunta": "¿Quién descubrió los 'animáculos', considerados los primeros microorganismos observados?",
+    "opciones": ["Anton van Leeuwenhoek", "Ferdinand Cohn", "Robert Koch", "Paul Ehrlich"],
+    "respuesta": "Anton van Leeuwenhoek"
+  },
+  {
+    "pregunta": "¿Qué científico estudió bacterias formadoras de endosporas del género Bacillus?",
+    "opciones": ["Ferdinand Cohn", "Louis Pasteur", "Edward Jenner", "Dmitri Ivanovsky"],
+    "respuesta": "Ferdinand Cohn"
+  },
+  {
+    "pregunta": "¿Qué técnica básica desarrolló Louis Pasteur en 1861 que es esencial en microbiología?",
+    "opciones": ["Esterilización", "Tinción de Gram", "PCR", "Secuenciación de ADN"],
+    "respuesta": "Esterilización"
+  },
+  {
+    "pregunta": "¿Qué científico estableció los postulados para demostrar que un microorganismo causa una enfermedad?",
+    "opciones": ["Robert Koch", "Louis Pasteur", "Fleming", "Ehrlich"],
+    "respuesta": "Robert Koch"
+  },
+  {
+    "pregunta": "¿Qué enfermedad causó el microorganismo que Robert Koch descubrió en 1882?",
+    "opciones": ["Tuberculosis", "Cólera", "Rabia", "Viruela"],
+    "respuesta": "Tuberculosis"
+  },
+  {
+    "pregunta": "¿Quién desarrolló la primera vacuna contra la viruela en 1796?",
+    "opciones": ["Edward Jenner", "Louis Pasteur", "Paul Ehrlich", "Ferdinand Cohn"],
+    "respuesta": "Edward Jenner"
+  },
+  {
+    "pregunta": "¿Qué científico descubrió los virus como agentes infecciosos más pequeños que las bacterias?",
+    "opciones": ["Dmitri Ivanovsky", "Robert Hooke", "Anton van Leeuwenhoek", "Alexander Fleming"],
+    "respuesta": "Dmitri Ivanovsky"
+  },
+  {
+    "pregunta": "¿Qué descubrió Alexander Fleming en 1928?",
+    "opciones": ["Penicilina", "Microscopio electrónico", "PCR", "Virus"],
+    "respuesta": "Penicilina"
+  },
+  {
+    "pregunta": "¿Quién desarrolló el microscopio electrónico en 1933?",
+    "opciones": ["Helmut Ruska", "Kary Mullis", "Robert Hooke", "Louis Pasteur"],
+    "respuesta": "Helmut Ruska"
+  },
+  {
+    "pregunta": "¿Qué técnica inventó Kary Mullis en 1983 que revolucionó la detección del ADN?",
+    "opciones": ["PCR", "Tinción de Gram", "CRISPR", "Secuenciación de proteínas"],
+    "respuesta": "PCR"
+  },
+  {
+    "pregunta": "¿Qué enfermedad viral moderna se diagnostica actualmente mediante pruebas de PCR?",
+    "opciones": ["COVID-19", "Tuberculosis", "Cólera", "Rabia"],
+    "respuesta": "COVID-19"
+  },
+  {
+    "pregunta": "¿Qué microorganismo se usa como insecticida biológico en la agricultura?",
+    "opciones": ["Bacillus thuringiensis", "Escherichia coli", "Streptococcus pneumoniae", "Mycobacterium tuberculosis"],
+    "respuesta": "Bacillus thuringiensis"
+  },
+  {
+    "pregunta": "¿Qué proceso desarrollado por Pasteur se usa para conservar alimentos?",
+    "opciones": ["Pasteurización", "Fermentación", "Esterilización", "Filtración"],
+    "respuesta": "Pasteurización"
+  },
+  {
+    "pregunta": "¿Qué microorganismos se emplean en la producción de yogur y queso?",
+    "opciones": ["Lactobacillus", "Staphylococcus", "Salmonella", "Mycobacterium"],
+    "respuesta": "Lactobacillus"
+  },
+  {
+    "pregunta": "¿Qué proceso permite a los microorganismos limpiar contaminantes como el petróleo?",
+    "opciones": ["Biorremediación", "Fermentación", "Fotosíntesis", "Nitrificación"],
+    "respuesta": "Biorremediación"
+  },
+  {
+    "pregunta": "¿Qué herramienta moderna permite modificar microorganismos con fines terapéuticos?",
+    "opciones": ["CRISPR-Cas9", "PCR", "Microscopio óptico", "Secuenciador automático"],
+    "respuesta": "CRISPR-Cas9"
+  },
+  {
+    "pregunta": "¿Qué rama de la microbiología estudia las bacterias formadoras de endosporas?",
+    "opciones": ["Bacteriología", "Micología", "Virología", "Parasitología"],
+    "respuesta": "Bacteriología"
+  },
+  {
+    "pregunta": "¿Qué función cumple la microbiota intestinal según los avances recientes?",
+    "opciones": ["Influye en la salud física y mental", "Produce virus", "Provoca infecciones", "Genera antibióticos"],
+    "respuesta": "Influye en la salud física y mental"
+  },
+  {
+    "pregunta": "¿Qué son los microorganismos según su definición?",
+    "opciones": ["Seres vivos microscópicos", "Moléculas orgánicas", "Virus artificiales", "Partículas minerales"],
+    "respuesta": "Seres vivos microscópicos"
+  },
+  {
+    "pregunta": "¿Cuál es el tamaño aproximado máximo de un microorganismo?",
+    "opciones": ["100 µm", "1 mm", "1 cm", "100 nm"],
+    "respuesta": "100 µm"
+  },
+  {
+    "pregunta": "¿Dónde pueden habitar los microorganismos?",
+    "opciones": ["Solo en el agua", "Solo en el cuerpo humano", "En todos los rincones del planeta", "Solo en el suelo"],
+    "respuesta": "En todos los rincones del planeta"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes estructuras caracteriza a una célula procariota?",
+    "opciones": ["Núcleo definido", "Pared celular", "Mitocondrias", "Cloroplastos"],
+    "respuesta": "Pared celular"
+  },
+  {
+    "pregunta": "¿Qué tipo de célula posee orgánulos como mitocondrias y cloroplastos?",
+    "opciones": ["Procariota", "Eucariota", "Arquea", "Acelular"],
+    "respuesta": "Eucariota"
+  },
+  {
+    "pregunta": "¿Qué elemento constituye aproximadamente el 50% de la masa seca bacteriana?",
+    "opciones": ["Carbono", "Nitrógeno", "Azufre", "Fósforo"],
+    "respuesta": "Carbono"
+  },
+  {
+    "pregunta": "¿Qué función tiene el magnesio en las bacterias?",
+    "opciones": ["Estabiliza ribosomas y material genético", "Activa la vitamina B12", "Sirve como fuente de energía", "Forma parte del ADN viral"],
+    "respuesta": "Estabiliza ribosomas y material genético"
+  },
+  {
+    "pregunta": "¿Cómo se reproducen principalmente las bacterias?",
+    "opciones": ["Por fisión binaria", "Por gemación", "Por fragmentación", "Por esporulación"],
+    "respuesta": "Por fisión binaria"
+  },
+  {
+    "pregunta": "¿Qué microorganismos poseen una pared celular de quitina?",
+    "opciones": ["Hongos", "Bacterias", "Virus", "Protozoos"],
+    "respuesta": "Hongos"
+  },
+  {
+    "pregunta": "¿Cuál es el tipo de célula de los protozoos?",
+    "opciones": ["Procariota", "Eucariota", "Acelular", "Pluricelular"],
+    "respuesta": "Eucariota"
+  },
+  {
+    "pregunta": "¿Qué tipo de microorganismo es un virus?",
+    "opciones": ["Acelular", "Procariota", "Eucariota", "Pluricelular"],
+    "respuesta": "Acelular"
+  },
+  {
+    "pregunta": "¿Qué material genético pueden tener los virus?",
+    "opciones": ["ADN o ARN", "Solo ADN", "Solo ARN", "ARN y proteínas"],
+    "respuesta": "ADN o ARN"
+  },
+  {
+    "pregunta": "¿Qué bacterias crecen mejor a temperaturas entre 20°C y 45°C?",
+    "opciones": ["Psicrófilas", "Mesófilas", "Termófilas", "Halófilas"],
+    "respuesta": "Mesófilas"
+  },
+  {
+    "pregunta": "¿Qué microorganismos obtienen energía de la luz?",
+    "opciones": ["Fotótrofos", "Quimiotrofos", "Heterótrofos", "Autótrofos"],
+    "respuesta": "Fotótrofos"
+  },
+  {
+    "pregunta": "¿Cuál es la fase del crecimiento bacteriano en la que las células se adaptan al medio?",
+    "opciones": ["Latencia", "Exponencial", "Estacionaria", "Muerte"],
+    "respuesta": "Latencia"
+  },
+  {
+    "pregunta": "¿Qué fase del crecimiento bacteriano se caracteriza por la duplicación constante de las células?",
+    "opciones": ["Exponencial", "Latencia", "Muerte", "Declinación"],
+    "respuesta": "Exponencial"
+  },
+  {
+    "pregunta": "¿Qué bacterias crecen mejor a pH neutro (5.5–8.0)?",
+    "opciones": ["Acidófilas", "Neutrófilas", "Alcalófilas", "Halófilas"],
+    "respuesta": "Neutrófilas"
+  },
+  {
+    "pregunta": "¿Cuál es el microorganismo utilizado para producir antibióticos como la penicilina?",
+    "opciones": ["Hongos", "Bacterias", "Virus", "Protozoos"],
+    "respuesta": "Hongos"
+  },
+  {
+    "pregunta": "¿Qué tipo de microorganismo causa enfermedades como la malaria?",
+    "opciones": ["Parásitos", "Bacterias", "Virus", "Hongos"],
+    "respuesta": "Parásitos"
+  },
+  {
+    "pregunta": "¿Qué método físico se utiliza comúnmente para esterilizar material microbiológico?",
+    "opciones": ["Autoclave (calor)", "Alcohol etílico", "Cloro", "Radiación UV"],
+    "respuesta": "Autoclave (calor)"
+  },
+  {
+    "pregunta": "¿Qué tipo de microorganismo realiza más fotosíntesis que las plantas?",
+    "opciones": ["Cianobacterias", "Hongos", "Virus", "Protozoos"],
+    "respuesta": "Cianobacterias"
+  },
+  {
+    "pregunta": "¿Qué elemento químico es esencial en los aminoácidos cisteína y metionina?",
+    "opciones": ["Azufre", "Fósforo", "Hierro", "Cobre"],
+    "respuesta": "Azufre"
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el tiempo necesario para que una célula bacteriana se divida en dos?",
+    "opciones": ["Tiempo de generación", "Tiempo de latencia", "Tiempo de incubación", "Tiempo de crecimiento"],
+    "respuesta": "Tiempo de generación"
+  },
+  {
+    "pregunta": "¿Qué tipo de bacterias pueden crecer tanto en presencia como en ausencia de oxígeno?",
+    "opciones": ["Anaerobias facultativas", "Aerobias estrictas", "Anaerobias estrictas", "Microaerófilas"],
+    "respuesta": "Anaerobias facultativas"
+  },
+  {
+    "pregunta": "¿Qué fase del crecimiento bacteriano se da cuando la tasa de muerte supera la de reproducción?",
+    "opciones": ["Fase de Muerte", "Fase Estacionaria", "Fase Exponencial", "Fase de Latencia"],
+    "respuesta": "Fase de Muerte"
+  },
+  {
+    "pregunta": "¿Qué componente celular caracteriza a las bacterias Gram positivas?",
+    "opciones": ["Pared gruesa de peptidoglucano", "Pared delgada", "Ausencia de pared", "Núcleo definido"],
+    "respuesta": "Pared gruesa de peptidoglucano"
+  },
+  {
+    "pregunta": "¿Qué función cumplen las fimbrias en las bacterias?",
+    "opciones": ["Adhesión a superficies", "Movimiento", "Reproducción", "Síntesis de proteínas"],
+    "respuesta": "Adhesión a superficies"
+  },
+  {
+    "pregunta": "¿Qué herramienta molecular se usa actualmente para estudiar el ADN microbiano?",
+    "opciones": ["PCR", "Autoclave", "Microscopio óptico", "Tinción de Gram"],
+    "respuesta": "PCR"
+  },
+  {
+    "pregunta": "¿Cuál es el papel principal de los probióticos en la salud humana?",
+    "opciones": ["Fortalecer el sistema inmunológico", "Causar infecciones", "Aumentar el colesterol", "Inhibir el metabolismo"],
+    "respuesta": "Fortalecer el sistema inmunológico"
+  },
+  {
+    "pregunta": "¿Qué función metabólica cumplen los elementos minerales en los microorganismos?",
+    "opciones": ["Actúan como catalizadores de reacciones bioquímicas", "Proveen energía directa", "Forman parte del ADN", "Sirven como aislantes térmicos"],
+    "respuesta": "Actúan como catalizadores de reacciones bioquímicas"
+  },
+  {
+    "pregunta": "¿Cuál es el principal objetivo del cultivo microbiano?",
+    "opciones": ["Aumentar la resistencia bacteriana", "Estudiar bacterias y hongos en detalle", "Disminuir la viabilidad de microorganismos", "Identificar virus en medios líquidos"],
+    "respuesta": "Estudiar bacterias y hongos en detalle"
+  },
+  {
+    "pregunta": "¿Qué factor NO influye directamente en el crecimiento microbiano?",
+    "opciones": ["pH", "Aireación", "Color del medio", "Temperatura"],
+    "respuesta": "Color del medio"
+  },
+  {
+    "pregunta": "Los medios diferenciales permiten:",
+    "opciones": ["Aislar virus", "Percibir diferencias morfológicas entre colonias", "Eliminar microorganismos patógenos", "Mantener la viabilidad del cultivo"],
+    "respuesta": "Percibir diferencias morfológicas entre colonias"
+  },
+  {
+    "pregunta": "¿Qué medio se usa para microorganismos exigentes que muestran hemólisis?",
+    "opciones": ["Agar nutritivo", "Agar sangre", "Agar chocolate", "Medio selectivo"],
+    "respuesta": "Agar sangre"
+  },
+  {
+    "pregunta": "El agar chocolate es ideal para cultivar:",
+    "opciones": ["E. coli", "Staphylococcus aureus", "Haemophilus influenzae", "Streptococcus pyogenes"],
+    "respuesta": "Haemophilus influenzae"
+  },
+  {
+    "pregunta": "Los medios de transporte tienen como finalidad:",
+    "opciones": ["Eliminar bacterias no deseadas", "Mantener la viabilidad hasta su cultivo", "Acelerar el crecimiento bacteriano", "Cambiar el pH del medio"],
+    "respuesta": "Mantener la viabilidad hasta su cultivo"
+  },
+  {
+    "pregunta": "Los anaerobios deben protegerse de:",
+    "opciones": ["La luz", "El oxígeno", "El frío", "Los antibióticos"],
+    "respuesta": "El oxígeno"
+  },
+  {
+    "pregunta": "¿Qué prueba se basa en la detección de anticuerpos?",
+    "opciones": ["Serología", "Microscopía", "Cultivo", "Detección de ácidos nucleicos"],
+    "respuesta": "Serología"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes microorganismos necesita un medio enriquecido con hierro y L-cisteína?",
+    "opciones": ["Campylobacter", "Legionella", "Chlamydia", "Mycobacterium"],
+    "respuesta": "Legionella"
+  },
+  {
+    "pregunta": "¿Qué característica se observa en la identificación visual de colonias bacterianas?",
+    "opciones": ["Composición química", "Olor y tamaño", "Resistencia a antibióticos", "Temperatura óptima"],
+    "respuesta": "Olor y tamaño"
+  },
+  {
+    "pregunta": "La biología del microorganismo influye en el éxito del cultivo porque:",
+    "opciones": ["Define la morfología de la célula", "Determina sus necesidades de crecimiento", "Controla la temperatura del medio", "Establece el color del cultivo"],
+    "respuesta": "Determina sus necesidades de crecimiento"
+  },
+  {
+    "pregunta": "En el cultivo en placa, una célula inicial da origen a:",
+    "opciones": ["Una colonia visible", "Un cultivo líquido", "Una hemólisis completa", "Una reacción bioquímica"],
+    "respuesta": "Una colonia visible"
+  },
+  {
+    "pregunta": "¿Cuál es un método moderno de identificación bacteriana?",
+    "opciones": ["Tinción de Gram", "Secuenciación de genes específicos", "Cultivo en caldo", "Prueba de oxidasa"],
+    "respuesta": "Secuenciación de genes específicos"
+  },
+  {
+    "pregunta": "Los medios selectivos se caracterizan por:",
+    "opciones": ["Permitir el crecimiento de todos los microorganismos", "Favorecer solo especies específicas", "No requerir nutrientes", "Ser usados solo en hongos"],
+    "respuesta": "Favorecer solo especies específicas"
+  },
+  {
+    "pregunta": "La microbiota humana se define como:",
+    "opciones": ["Patógenos que viven en el cuerpo", "Conjunto de microorganismos beneficiosos", "Virus y hongos externos", "Microorganismos presentes solo en el intestino"],
+    "respuesta": "Conjunto de microorganismos beneficiosos"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes funciones cumple la microbiota?",
+    "opciones": ["Aumentar el estrés oxidativo", "Proteger contra patógenos", "Inhibir la digestión", "Reducir la inmunidad"],
+    "respuesta": "Proteger contra patógenos"
+  },
+  {
+    "pregunta": "¿Qué vitamina es producida por bacterias intestinales?",
+    "opciones": ["Vitamina A", "Vitamina C", "Vitamina K", "Vitamina B12"],
+    "respuesta": "Vitamina K"
+  },
+  {
+    "pregunta": "El Proyecto Microbioma Humano busca:",
+    "opciones": ["Erradicar bacterias patógenas", "Comprender la composición y función de la microbiota", "Desarrollar antibióticos universales", "Clasificar enfermedades infecciosas"],
+    "respuesta": "Comprender la composición y función de la microbiota"
+  },
+  {
+    "pregunta": "La disbiosis se refiere a:",
+    "opciones": ["Equilibrio entre microbiota y sistema inmune", "Alteración del equilibrio microbiano normal", "Aumento de la flora intestinal", "Producción de nuevas bacterias beneficiosas"],
+    "respuesta": "Alteración del equilibrio microbiano normal"
+  },
+  {
+    "pregunta": "¿Qué factor puede alterar gravemente la microbiota?",
+    "opciones": ["Ejercicio físico", "Antibióticos", "Hidratación", "Descanso"],
+    "respuesta": "Antibióticos"
+  },
+  {
+    "pregunta": "El cultivo microbiano permite identificar virus en medios sólidos.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Falso"
+  },
+  {
+    "pregunta": "La temperatura óptima es igual para todos los microorganismos.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Falso"
+  },
+  {
+    "pregunta": "Los medios enriquecidos promueven el crecimiento no selectivo de bacterias.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Verdadero"
+  },
+  {
+    "pregunta": "La detección de ácidos nucleicos permite identificar el material genético de los microorganismos.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Verdadero"
+  },
+  {
+    "pregunta": "El agar nutritivo es un medio básico para la mayoría de bacterias.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Verdadero"
+  },
+  {
+    "pregunta": "La microscopía es un método de observación directa de microorganismos.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Verdadero"
+  },
+  {
+    "pregunta": "Chlamydia puede cultivarse fácilmente en medios sólidos comunes.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Falso"
+  },
+  {
+    "pregunta": "El olor es una característica útil en la identificación de ciertas bacterias.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Verdadero"
+  },
+  {
+    "pregunta": "Los medios de transporte destruyen microorganismos contaminantes.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Falso"
+  },
+  {
+    "pregunta": "Los gonococos son resistentes al calor y la desecación.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Falso"
+  },
+  {
+    "pregunta": "La microbiota humana se considera patógena en condiciones normales.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Falso"
+  },
+  {
+    "pregunta": "El intestino de un recién nacido es estéril al nacer.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Verdadero"
+  },
+  {
+    "pregunta": "La microbiota ayuda en la digestión y producción de nutrientes.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Verdadero"
+  },
+  {
+    "pregunta": "Los antibióticos pueden alterar el equilibrio de la microbiota.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Verdadero"
+  },
+  {
+    "pregunta": "El exceso de higiene puede afectar las poblaciones microbianas de la piel.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Verdadero"
+  },
+  {
+    "pregunta": "La disbiosis siempre produce enfermedades cutáneas.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Falso"
+  },
+  {
+    "pregunta": "El microbioma educa al sistema inmunitario desde el nacimiento.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Verdadero"
+  },
+  {
+    "pregunta": "Los medios para micobacterias se utilizan en el diagnóstico de tuberculosis.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Verdadero"
+  },
+  {
+    "pregunta": "La calidad del medio de cultivo no afecta el crecimiento bacteriano.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Falso"
+  },
+  {
+    "pregunta": "Los medios para hongos favorecen el crecimiento de especies fúngicas.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta": "Verdadero"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene la exposición a antibióticos sobre la microbiota intestinal?",
+    "opciones": [
+      "Solo elimina bacterias patógenas",
+      "Elimina bacterias patógenas y beneficiosas",
+      "Aumenta la flora protectora",
+      "Disminuye la resistencia a Clostridium difficile"
+    ],
+    "respuesta": "Elimina bacterias patógenas y beneficiosas"
+  },
+  {
+    "pregunta": "¿Qué microorganismo prolifera con mayor frecuencia tras la supresión de la flora intestinal normal?",
+    "opciones": [
+      "Lactobacillus acidophilus",
+      "Clostridium difficile",
+      "Bifidobacterium longum",
+      "Escherichia coli"
+    ],
+    "respuesta": "Clostridium difficile"
+  },
+  {
+    "pregunta": "¿Qué ocurre cuando se produce una alteración metabólica en la microbiota?",
+    "opciones": [
+      "Disminuye la absorción de nutrientes",
+      "Se reduce la eficiencia energética",
+      "Aumenta la absorción y el riesgo de obesidad",
+      "Se mejora la digestión de proteínas"
+    ],
+    "respuesta": "Aumenta la absorción y el riesgo de obesidad"
+  },
+  {
+    "pregunta": "¿Cuál es una consecuencia de la alteración microbiana vaginal?",
+    "opciones": [
+      "Incremento del pH ácido",
+      "Desarrollo de vaginitis",
+      "Aumento de lactobacilos",
+      "Disminución del flujo vaginal"
+    ],
+    "respuesta": "Desarrollo de vaginitis"
+  },
+  {
+    "pregunta": "¿Qué función cumplen los lactobacilos en la microbiota vaginal?",
+    "opciones": [
+      "Neutralizan el pH",
+      "Producen ácido láctico que protege contra patógenos",
+      "Favorecen la flora mixta",
+      "Aumentan la inflamación vaginal"
+    ],
+    "respuesta": "Producen ácido láctico que protege contra patógenos"
+  },
+  {
+    "pregunta": "¿Qué tipo de flora cutánea desaparece con el lavado?",
+    "opciones": [
+      "Flora residente",
+      "Flora temporal",
+      "Flora mixta",
+      "Flora patógena"
+    ],
+    "respuesta": "Flora temporal"
+  },
+  {
+    "pregunta": "¿Qué microorganismos predominan en la conjuntiva humana?",
+    "opciones": [
+      "Clostridium difficile y Lactobacillus",
+      "Staphylococcus epidermidis y Corynebacterium",
+      "Helicobacter pylori y E. coli",
+      "Prevotella y Fusobacterium"
+    ],
+    "respuesta": "Staphylococcus epidermidis y Corynebacterium"
+  },
+  {
+    "pregunta": "¿Cuál es el microorganismo predominante en los dientes?",
+    "opciones": [
+      "Prevotella melaninogenica",
+      "Streptococcus mutans",
+      "Fusobacterium spp.",
+      "Actinomyces spp."
+    ],
+    "respuesta": "Streptococcus mutans"
+  },
+  {
+    "pregunta": "¿En qué parte del intestino hay mayor densidad microbiana?",
+    "opciones": [
+      "Estómago",
+      "Intestino delgado",
+      "Colon",
+      "Esófago"
+    ],
+    "respuesta": "Colon"
+  },
+  {
+    "pregunta": "¿Qué filos bacterianos predominan en el colon?",
+    "opciones": [
+      "Firmicutes, Bacteroidetes y Actinobacteria",
+      "Proteobacteria y Clostridium",
+      "Lactobacillus y E. coli",
+      "Streptococcus y Fusobacterium"
+    ],
+    "respuesta": "Firmicutes, Bacteroidetes y Actinobacteria"
+  },
+  {
+    "pregunta": "¿Qué caracteriza a las bacterias del filo Bacteroidetes?",
+    "opciones": [
+      "Producen vitaminas del grupo B",
+      "Degradan polisacáridos complejos y regulan la inmunidad intestinal",
+      "Metabolizan proteínas y grasas",
+      "Generan inflamación intestinal"
+    ],
+    "respuesta": "Degradan polisacáridos complejos y regulan la inmunidad intestinal"
+  },
+  {
+    "pregunta": "¿Qué cambio ocurre en la microbiota vaginal durante la menopausia?",
+    "opciones": [
+      "Aumentan los lactobacilos",
+      "Disminuyen los lactobacilos y aumenta la flora mixta",
+      "El pH se vuelve más ácido",
+      "Desaparecen los microorganismos"
+    ],
+    "respuesta": "Disminuyen los lactobacilos y aumenta la flora mixta"
+  },
+  {
+    "pregunta": "¿Qué microorganismos se consideran patógenos oportunistas?",
+    "opciones": [
+      "Lactobacillus y Bifidobacterium",
+      "Staphylococcus aureus, E. coli y Candida",
+      "Firmicutes y Bacteroidetes",
+      "Actinobacteria y Proteobacteria"
+    ],
+    "respuesta": "Staphylococcus aureus, E. coli y Candida"
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene el Proyecto Microbioma Humano (HMP)?",
+    "opciones": [
+      "Eliminar microorganismos del cuerpo humano",
+      "Caracterizar los microbios humanos y su papel en la salud y enfermedad",
+      "Analizar únicamente bacterias intestinales",
+      "Desarrollar vacunas contra el microbioma"
+    ],
+    "respuesta": "Caracterizar los microbios humanos y su papel en la salud y enfermedad"
+  },
+  {
+    "pregunta": "¿Cuál es el órgano más grande del cuerpo humano en términos de superficie microbiana?",
+    "opciones": [
+      "Pulmones",
+      "Hígado",
+      "Piel",
+      "Intestino grueso"
+    ],
+    "respuesta": "Piel"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "pregunta": "¿Cuál es el tamaño de los bacilos gramnegativos?",
+    "opciones": ["0,3-1,0 × 1,0-6,0 μm", "0,5-1,5 × 2,0-7,0 μm", "0,1-0,8 × 1,0-5,0 μm", "0,4-1,2 × 1,5-6,0 μm"],
+    "respuesta": "0,3-1,0 × 1,0-6,0 μm"
+  },
+  {
+    "pregunta": "¿Cómo crecen los bacilos gramnegativos?",
+    "opciones": ["Solo de forma anaerobia", "Solo de forma aerobia", "De forma aerobia o anaerobia", "Solo en medios sólidos"],
+    "respuesta": "De forma aerobia o anaerobia"
+  },
+  {
+    "pregunta": "¿Qué propiedad bioquímica tienen los bacilos gramnegativos?",
+    "opciones": ["No fermentan glucosa", "Son catalasa-negativos", "Fermentan glucosa y reducen nitratos", "No reducen nitratos"],
+    "respuesta": "Fermentan glucosa y reducen nitratos"
+  },
+  {
+    "pregunta": "¿Qué permite la presencia de flagelos en las bacterias?",
+    "opciones": ["La movilidad", "La formación de esporas", "La protección contra antibióticos", "La adherencia a células huésped"],
+    "respuesta": "La movilidad"
+  },
+  {
+    "pregunta": "¿Qué bacteria no tiene flagelos?",
+    "opciones": ["Klebsiella", "Salmonella", "Escherichia coli", "Yersinia"],
+    "respuesta": "Klebsiella"
+  },
+  {
+    "pregunta": "¿Qué función tienen las fimbrias (pili) en las bacterias?",
+    "opciones": ["Formar esporas", "Moverse en su ambiente", "Adherirse a células huésped", "Realizar la fotosíntesis"],
+    "respuesta": "Adherirse a células huésped"
+  },
+  {
+    "pregunta": "¿Qué bacterias son conocidas por tener cápsulas prominentes?",
+    "opciones": ["Klebsiella", "Salmonella", "Shigella", "Proteus"],
+    "respuesta": "Klebsiella"
+  },
+  {
+    "pregunta": "¿Dónde se encuentran las bacterias en la vegetación?",
+    "opciones": ["Solo en las raíces", "En las plantas y materia vegetal", "En las flores", "En la savia de los árboles"],
+    "respuesta": "En las plantas y materia vegetal"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de las infecciones urinarias son causadas por bacilos gramnegativos?",
+    "opciones": ["50%", "60%", "70%", "80%"],
+    "respuesta": "70%"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de las bacteriemias son causadas por bacilos gramnegativos?",
+    "opciones": ["20%", "30%", "40%", "50%"],
+    "respuesta": "33%"
+  },
+  {
+    "pregunta": "¿Qué causa la mayoría de las infecciones intestinales?",
+    "opciones": ["Escherichia coli", "Salmonella Typhi", "Klebsiella pneumoniae", "Proteus vulgaris"],
+    "respuesta": "Escherichia coli"
+  },
+  {
+    "pregunta": "¿Qué tipo de patógeno es Salmonella Typhi?",
+    "opciones": ["Patógeno oportunista", "Patógeno estricto", "Patógeno por factores de virulencia", "Comensal"],
+    "respuesta": "Patógeno estricto"
+  },
+  {
+    "pregunta": "¿Qué tipo de patógeno es Escherichia coli en su mayoría?",
+    "opciones": ["Patógeno estricto", "Patógeno oportunista", "Patógeno por factores de virulencia", "Comensal"],
+    "respuesta": "Patógeno oportunista"
+  },
+  {
+    "pregunta": "¿Qué factor de virulencia adquiere Escherichia coli para ser patógeno?",
+    "opciones": ["Inmunidad", "Genes de virulencia", "Capacidad de formar biopelículas", "Absorción de nutrientes"],
+    "respuesta": "Genes de virulencia"
+  },
+  {
+    "pregunta": "¿Dónde se encuentran la mayoría de especies de Salmonella y Yersinia?",
+    "opciones": ["En el suelo", "En los animales", "En el agua", "En los humanos"],
+    "respuesta": "En los animales"
+  },
+  {
+    "pregunta": "¿Qué bacterias pueden ser portadoras humanas?",
+    "opciones": ["Shigella", "Klebsiella", "Proteus", "Salmonella Typhi"],
+    "respuesta": "Shigella"
+  },
+  {
+    "pregunta": "¿De dónde provienen las infecciones por E. coli?",
+    "opciones": ["De animales infectados", "De la flora intestinal", "Del aire", "De fuentes vegetales"],
+    "respuesta": "De la flora intestinal"
+  },
+  {
+    "pregunta": "¿Qué causa la diseminación endógena de E. coli?",
+    "opciones": ["Infección aérea", "Perforación del intestino", "Contacto con animales infectados", "Consumo de alimentos contaminados"],
+    "respuesta": "Perforación del intestino"
+  },
+  {
+    "pregunta": "¿En qué tipo de hábitats acuáticos se encuentran los bacilos gramnegativos?",
+    "opciones": ["En el mar", "En ríos y lagos", "En fuentes termales", "En aguas residuales"],
+    "respuesta": "En ríos y lagos"
+  },
+  {
+    "pregunta": "¿Qué bacterias están asociadas con la formación de biopelículas viscosas?",
+    "opciones": ["Klebsiella pneumoniae", "Shigella", "Proteus mirabilis", "Yersinia pestis"],
+    "respuesta": "Klebsiella pneumoniae"
+  },
+  {
+    "pregunta": "¿Qué bacterias son fermentadoras de lactosa?",
+    "opciones": ["Proteus, Salmonella, Shigella", "Escherichia, Klebsiella, Enterobacter", "Yersinia, Salmonella, Klebsiella", "Citrobacter, Shigella, Proteus"],
+    "respuesta": "Escherichia, Klebsiella, Enterobacter"
+  },
+  {
+    "pregunta": "¿Qué bacterias son no fermentadoras de lactosa?",
+    "opciones": ["Escherichia, Klebsiella, Citrobacter", "Proteus, Salmonella, Shigella", "Enterobacter, Serratia, Yersinia", "Salmonella, Klebsiella, Yersinia"],
+    "respuesta": "Proteus, Salmonella, Shigella"
+  },
+  {
+    "pregunta": "¿Cómo se presentan las colonias de bacterias fermentadoras de lactosa en agar MacConkey?",
+    "opciones": ["Colonias incoloras", "Colonias rosado-púrpura", "Colonias amarillas", "Colonias blancas"],
+    "respuesta": "Colonias rosado-púrpura"
+  },
+  {
+    "pregunta": "¿Qué caracteriza a las colonias de Klebsiella en agar MacConkey?",
+    "opciones": ["Son incoloras", "Son mucoides con cápsulas notorias", "Son grandes y de color verde", "Son pequeñas y de color amarillo"],
+    "respuesta": "Son mucoides con cápsulas notorias"
+  },
+  {
+    "pregunta": "¿Qué bacterias tienen resistencia a sales biliares?",
+    "opciones": ["Escherichia coli y Klebsiella", "Salmonella y Shigella", "Proteus y Yersinia", "Enterobacter y Serratia"],
+    "respuesta": "Salmonella y Shigella"
+  },
+  {
+    "pregunta": "¿Qué bacteria se caracteriza por su movilidad por flagelos?",
+    "opciones": ["Escherichia coli", "Klebsiella", "Proteus", "Salmonella"],
+    "respuesta": "Salmonella"
+  },
+  {
+    "pregunta": "¿Qué antibióticos son más efectivos en E. coli y P. mirabilis?",
+    "opciones": ["Todos los antibióticos", "Dependiendo de la prueba de sensibilidad", "Penicilinas siempre", "Macrólidos"],
+    "respuesta": "Dependiendo de la prueba de sensibilidad"
+  },
+  {
+    "pregunta": "¿Qué tipo de resistencia es común en infecciones nosocomiales?",
+    "opciones": ["Resistencia a antibióticos", "Resistencia a la desinfección", "Resistencia a la radiación", "Resistencia a los desinfectantes químicos"],
+    "respuesta": "Resistencia a antibióticos"
+  },
+  {
+    "pregunta": "¿Qué limita el uso empírico de carbapenémicos en el tratamiento?",
+    "opciones": ["Las β-lactamasas", "Las carbapenemasas", "Las enzimas de virulencia", "La resistencia a la cefalosporina"],
+    "respuesta": "Las carbapenemasas"
+  },
+  {
+    "pregunta": "¿Qué enzimas inactivan las penicilinas y cefalosporinas?",
+    "opciones": ["Carbapenemasas", "β-lactamasas", "Proteasas", "Amidasas"],
+    "respuesta": "β-lactamasas"
+  },
+  {
+    "pregunta": "¿Cuál es un factor de riesgo asociado con la resistencia bacteriana?",
+    "opciones": ["Uso indiscriminado de antibióticos", "Uso adecuado de vacunas", "Uso de antibióticos específicos", "Realizar pruebas de sensibilidad"],
+    "respuesta": "Uso indiscriminado de antibióticos"
+  },
+  {
+    "pregunta": "¿Qué procedimiento puede aumentar el riesgo de infecciones por bacterias gramnegativas?",
+    "opciones": ["Uso de mascarillas", "Procedimientos invasivos", "Uso de desinfectantes", "Uso de antibióticos tópicos"],
+    "respuesta": "Procedimientos invasivos"
+  },
+  {
+    "pregunta": "¿Qué aumenta el riesgo de infecciones urinarias en los pacientes?",
+    "opciones": ["Sondas urinarias", "Inmunización previa", "Uso de antibióticos orales", "Evacuación intestinal regular"],
+    "respuesta": "Sondas urinarias"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes factores aumenta la vulnerabilidad de los pacientes a infecciones en entornos hospitalarios?",
+    "opciones": ["Procedimientos invasivos", "Inmunodepresión", "Uso de medicamentos antivirales", "Uso de suplementos vitamínicos"],
+    "respuesta": "Inmunodepresión"
+  },
+  {
+    "pregunta": "¿Dónde se encuentra Salmonella comúnmente?",
+    "opciones": ["En aguas residuales", "En aves de corral y huevos", "En frutas y verduras", "En el aire"],
+    "respuesta": "En aves de corral y huevos"
+  },
+  {
+    "pregunta": "¿Qué medida preventiva es clave para controlar la transmisión de Shigella?",
+    "opciones": ["Lavado de manos", "Uso de mascarillas", "Desinfección del aire", "Uso de antibióticos"],
+    "respuesta": "Lavado de manos"
+  },
+  {
+    "pregunta": "¿Cómo se recomienda tratar la gastroenteritis causada por estas bacterias?",
+    "opciones": ["Con antibióticos", "Con tratamiento sintomático", "Con líquidos intravenosos", "Con medicamentos antivirales"],
+    "respuesta": "Con tratamiento sintomático"
+  },
+  {
+    "pregunta": "¿Qué antibióticos pueden aumentar el riesgo de síndrome urémico hemolítico (SHU) en niños con ECTS?",
+    "opciones": ["Antibióticos macrólidos", "Antibióticos β-lactámicos", "Antibióticos aminoglucósidos", "Antibióticos de amplio espectro"],
+    "respuesta": "Antibióticos β-lactámicos"
+  },
+  {
+    "pregunta": "¿Qué tratamiento es recomendado para infecciones sistémicas por Salmonella Typhi?",
+    "opciones": ["Tratamiento sintomático", "Antibióticos específicos", "Tratamiento con antivirales", "Cirugía"],
+    "respuesta": "Antibióticos específicos"
+  },
+  {
+    "pregunta": "¿Qué vacuna está disponible para prevenir infecciones por Salmonella Typhi?",
+    "opciones": ["Vacuna oral atenuada y polisacárido capsular Vi", "Vacuna de virus inactivados", "Vacuna conjugada hexavalente", "No existen vacunas disponibles"],
+    "respuesta": "Vacuna oral atenuada y polisacárido capsular Vi"
+  },
+  {
+    "pregunta": "¿A quién se recomienda la vacuna contra Salmonella Typhi?",
+    "opciones": ["A personas con enfermedades autoinmunes", "A quienes viajan a zonas endémicas", "A niños menores de 5 años", "A trabajadores de la salud"],
+    "respuesta": "A quienes viajan a zonas endémicas"
+  },
+  {
+    "pregunta": "¿Qué riesgo está asociado a Yersinia pestis respecto a la biotecnología?",
+    "opciones": ["Riesgo de bioterrorismo", "Resistencia a los antibióticos", "Propagación a través de aerosoles", "Resistencia a las vacunas"],
+    "respuesta": "Riesgo de bioterrorismo"
+  }
+]

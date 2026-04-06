@@ -1,0 +1,307 @@
+[
+  {
+    "pregunta": "¿Cuál es el tamaño típico de las espiroquetas enroscadas de la sífilis?",
+    "opciones": ["0,1-0,2 × 6-20 μm", "0,5-1 × 10-30 μm", "0,2-0,5 × 5-15 μm", "0,1-0,3 × 10-20 μm"],
+    "respuesta": "0,1-0,2 × 6-20 μm"
+  },
+  {
+    "pregunta": "¿En qué tipo de células crece la sífilis?",
+    "opciones": ["Células epiteliales de conejo", "Células humanas", "Células bacterianas", "Células de ratón"],
+    "respuesta": "Células epiteliales de conejo"
+  },
+  {
+    "pregunta": "¿Cuánto tiempo tarda la sífilis en duplicarse?",
+    "opciones": ["30 horas", "12 horas", "24 horas", "72 horas"],
+    "respuesta": "30 horas"
+  },
+  {
+    "pregunta": "¿Qué mecanismo de evasión utiliza la sífilis para resistir la fagocitosis?",
+    "opciones": ["Adherirse a la fibronectina del huésped", "Inhibir la respuesta inmune", "Escapar del sistema linfático", "Formar una cápsula bacteriana"],
+    "respuesta": "Adherirse a la fibronectina del huésped"
+  },
+  {
+    "pregunta": "¿Cuántas hemolisinas posee la sífilis?",
+    "opciones": ["Al menos 5 hemolisinas", "Solo una hemolisina", "10 hemolisinas", "No posee hemolisinas"],
+    "respuesta": "Al menos 5 hemolisinas"
+  },
+  {
+    "pregunta": "¿Qué facilita la hialuronidasa en la sífilis?",
+    "opciones": ["La infiltración perivascular en los tejidos", "La destrucción de células sanguíneas", "La evasión de la respuesta inmune", "La diseminación del virus"],
+    "respuesta": "La infiltración perivascular en los tejidos"
+  },
+  {
+    "pregunta": "¿Cuál es la principal causa del daño tisular en la sífilis?",
+    "opciones": ["La respuesta inmunitaria del paciente", "La toxina bacteriana", "El crecimiento rápido de la bacteria", "El contacto directo con los tejidos"],
+    "respuesta": "La respuesta inmunitaria del paciente"
+  },
+  {
+    "pregunta": "¿Qué puesto ocupa la sífilis en las enfermedades bacterianas de transmisión sexual más frecuentes en EE. UU.?",
+    "opciones": ["Tercero", "Primero", "Segundo", "Cuarto"],
+    "respuesta": "Tercero"
+  },
+  {
+    "pregunta": "¿Cuántos casos nuevos de sífilis fueron reportados en 2017 por los CDC?",
+    "opciones": ["100,000", "50,000", "150,000", "200,000"],
+    "respuesta": "100,000"
+  },
+  {
+    "pregunta": "¿Cuál es el riesgo estimado de contagio de la sífilis tras un único contacto sexual?",
+    "opciones": ["30%", "10%", "50%", "70%"],
+    "respuesta": "30%"
+  },
+  {
+    "pregunta": "¿Cuál es la vía principal de transmisión de la sífilis?",
+    "opciones": ["Contacto sexual", "Transfusión de sangre", "Transmisión congénita", "Contacto directo con heridas abiertas"],
+    "respuesta": "Contacto sexual"
+  },
+  {
+    "pregunta": "¿En qué fase es más contagiosa la sífilis?",
+    "opciones": ["Durante las primeras fases con lesiones activas", "Durante la fase latente", "En la fase terciaria", "En la fase de incubación"],
+    "respuesta": "Durante las primeras fases con lesiones activas"
+  },
+  {
+    "pregunta": "¿Qué puede causar la transmisión congénita de la sífilis?",
+    "opciones": ["Bacteriemia durante el embarazo", "Infección por transfusión sanguínea", "Contacto sexual de la madre con otra persona infectada", "Uso de medicamentos durante el embarazo"],
+    "respuesta": "Bacteriemia durante el embarazo"
+  },
+  {
+    "pregunta": "¿Cómo puede ocurrir la transmisión de la sífilis a través de transfusión?",
+    "opciones": ["Por sangre contaminada", "Por contacto directo con tejidos infectados", "Por el uso de agujas contaminadas", "Por inhalación de aerosoles"],
+    "respuesta": "Por sangre contaminada"
+  },
+  {
+    "pregunta": "¿Qué tipo de lesión se presenta en la sífilis primaria?",
+    "opciones": ["Chancro, una úlcera indolora", "Eritema y vesículas", "Úlcera dolorosa", "Heridas purulentas"],
+    "respuesta": "Chancro, una úlcera indolora"
+  },
+  {
+    "pregunta": "¿Cuánto tiempo dura la incubación de la sífilis primaria?",
+    "opciones": ["10-90 días", "1-7 días", "30-60 días", "90-120 días"],
+    "respuesta": "10-90 días"
+  },
+  {
+    "pregunta": "¿Qué característica tiene el chancro en la sífilis primaria?",
+    "opciones": ["Bordes elevados y dolor indoloro", "Pico y dolor intenso", "Mucosidad amarillenta", "Se convierte en una úlcera gangrenosa"],
+    "respuesta": "Bordes elevados y dolor indoloro"
+  },
+  {
+    "pregunta": "¿Qué ocurre 1-2 semanas después de la aparición del chancro?",
+    "opciones": ["Linfadenopatía, ganglios inflamados e indoloros", "Fiebre y malestar general", "Aparición de erupciones cutáneas", "Pérdida de peso significativa"],
+    "respuesta": "Linfadenopatía, ganglios inflamados e indoloros"
+  },
+  {
+    "pregunta": "¿Qué ocurre si no se trata la sífilis durante la fase primaria?",
+    "opciones": ["Puede progresar a la fase secundaria", "El paciente se recupera sin tratamiento", "La infección desaparece por sí sola", "No afecta otras partes del cuerpo"],
+    "respuesta": "Puede progresar a la fase secundaria"
+  },
+  {
+    "pregunta": "¿Qué se encuentra en el chancro de la sífilis primaria?",
+    "opciones": ["Abundantes microorganismos", "Pus y sangre", "Toxinas bacterianas", "Células muertas del tejido"],
+    "respuesta": "Abundantes microorganismos"
+  },
+  {
+    "pregunta": "¿Qué complicación puede surgir si no se trata la sífilis congénita?",
+    "opciones": ["Malformaciones y muerte fetal", "Fiebre en el recién nacido", "Lesiones cutáneas menores", "Contagio a otros bebés en el hospital"],
+    "respuesta": "Malformaciones y muerte fetal"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los síntomas más comunes del síndrome pseudogripal en la sífilis secundaria?",
+    "opciones": ["Dolor de garganta", "Erupciones cutáneas", "Fiebre con erupciones", "Lesiones dolorosas"],
+    "respuesta": "Dolor de garganta"
+  },
+  {
+    "pregunta": "¿Qué tipo de exantema puede aparecer en la sífilis secundaria?",
+    "opciones": ["Macular, papular, pustular", "Vesicular", "Ampollar", "Pápulas no pruriginosas"],
+    "respuesta": "Macular, papular, pustular"
+  },
+  {
+    "pregunta": "¿Dónde cubre el exantema mucocutáneo en la sífilis secundaria?",
+    "opciones": ["Toda la superficie cutánea, incluidas palmas y plantas", "Solo el rostro y el cuello", "En las extremidades superiores", "Solo en las zonas genitales"],
+    "respuesta": "Toda la superficie cutánea, incluidas palmas y plantas"
+  },
+  {
+    "pregunta": "¿Qué tipo de lesiones específicas se encuentran en la sífilis secundaria?",
+    "opciones": ["Condiloma lata y erosiones en mucosas", "Úlceras profundas en los genitales", "Pápulas no dolorosas en el cuerpo", "Vesículas en la zona genital"],
+    "respuesta": "Condiloma lata y erosiones en mucosas"
+  },
+  {
+    "pregunta": "¿Qué ocurre con las lesiones de la sífilis secundaria si no se tratan?",
+    "opciones": ["Desaparición espontánea en pocas semanas", "Evolución a la sífilis terciaria", "Aparecen nuevas lesiones dolorosas", "El exantema se convierte en crónico"],
+    "respuesta": "Desaparición espontánea en pocas semanas"
+  },
+  {
+    "pregunta": "¿Qué síntomas caracterizan la sífilis terciaria?",
+    "opciones": ["Demencia, meningitis y parálisis", "Fiebre alta y erupciones cutáneas", "Ulceraciones genitales y ganglios inflamados", "Dolor muscular y dificultad para respirar"],
+    "respuesta": "Demencia, meningitis y parálisis"
+  },
+  {
+    "pregunta": "¿Qué tipo de lesiones se desarrollan en la sífilis terciaria, conocidas como gomas?",
+    "opciones": ["Lesiones granulomatosas en huesos, piel y otros tejidos", "Úlceras en los genitales", "Exantema maculopapular", "Linfadenopatías dolorosas"],
+    "respuesta": "Lesiones granulomatosas en huesos, piel y otros tejidos"
+  },
+  {
+    "pregunta": "¿Cuánto tiempo puede transcurrir antes de que una persona evolucione a la sífilis terciaria?",
+    "opciones": ["Años o décadas", "Meses", "Días o semanas", "Solo unas pocas horas"],
+    "respuesta": "Años o décadas"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de los pacientes no tratados de sífilis evoluciona a la fase terciaria?",
+    "opciones": ["Un tercio", "La mitad", "Menos del 10%", "La mayoría"],
+    "respuesta": "Un tercio"
+  },
+  {
+    "pregunta": "¿Qué se entiende por sífilis congénita?",
+    "opciones": ["Transmisión de madre a feto durante la bacteriemia", "Infección adquirida por contacto sexual", "Contagio por transfusión sanguínea", "Infección por contacto con heridas abiertas"],
+    "respuesta": "Transmisión de madre a feto durante la bacteriemia"
+  },
+  {
+    "pregunta": "¿Cuáles son algunas de las manifestaciones tempranas de la sífilis congénita?",
+    "opciones": ["Rinitis, exantema maculopapular y descamativo", "Fiebre alta y vómitos", "Lesiones ulceradas en la piel", "Anemia y fatiga crónica"],
+    "respuesta": "Rinitis, exantema maculopapular y descamativo"
+  },
+  {
+    "pregunta": "¿Qué tipo de secuelas tardías pueden presentar los niños con sífilis congénita?",
+    "opciones": ["Malformaciones dentales y óseas, ceguera, sordera", "Fiebre recurrente y fatiga", "Problemas respiratorios y digestivos", "Enfermedades cardíacas leves"],
+    "respuesta": "Malformaciones dentales y óseas, ceguera, sordera"
+  },
+  {
+    "pregunta": "¿Cómo se visualizan las espiroquetas en el diagnóstico por microscopía de campo oscuro?",
+    "opciones": ["En exudados de lesiones", "En muestras de orina", "En sangre de pacientes sintomáticos", "En esputo de pacientes con tos"],
+    "respuesta": "En exudados de lesiones"
+  },
+  {
+    "pregunta": "¿Cuál es una limitación importante del diagnóstico por microscopía de campo oscuro?",
+    "opciones": ["Requiere examen inmediato por un especialista experimentado", "Solo funciona en muestras de sangre", "No permite ver espiroquetas en exudados", "Es útil solo para infecciones recientes"],
+    "respuesta": "Requiere examen inmediato por un especialista experimentado"
+  },
+  {
+    "pregunta": "¿Qué ventaja tienen los anticuerpos fluorescentes en el diagnóstico de la sífilis?",
+    "opciones": ["Permiten examinar muestras no viables", "Son más rápidos que la microscopía", "Detectan solo la fase terciaria", "Requieren menos equipo especializado"],
+    "respuesta": "Permiten examinar muestras no viables"
+  },
+  {
+    "pregunta": "¿Qué restricción tiene el diagnóstico por anticuerpos fluorescentes?",
+    "opciones": ["No se deben examinar muestras bucales o rectales por contaminación con espiroquetas no patógenas", "Solo se puede utilizar para muestras de sangre", "No es útil en la sífilis primaria", "Solo se puede usar en cultivos de laboratorio"],
+    "respuesta": "No se deben examinar muestras bucales o rectales por contaminación con espiroquetas no patógenas"
+  },
+  {
+    "pregunta": "¿Cuál es la principal técnica para diagnosticar la sífilis?",
+    "opciones": ["Serología", "Cultivo", "PCR", "Microscopía de campo oscuro"],
+    "respuesta": "Serología"
+  },
+  {
+    "pregunta": "¿Qué detecta la PCR en el diagnóstico de la sífilis?",
+    "opciones": ["La presencia de T. pallidum en lesiones genitales, sangre o LCR", "La cantidad de anticuerpos en el suero", "La respuesta inmune del paciente", "Las espiroquetas no patógenas en muestras"],
+    "respuesta": "La presencia de T. pallidum en lesiones genitales, sangre o LCR"
+  },
+  {
+    "pregunta": "¿Por qué no se recomienda el cultivo para diagnosticar la sífilis?",
+    "opciones": ["Porque T. pallidum no crece en cultivos artificiales", "Porque los cultivos son demasiado caros", "Porque solo crece en cultivos de células epiteliales", "Porque requiere condiciones especiales que no están disponibles"],
+    "respuesta": "Porque T. pallidum no crece en cultivos artificiales"
+  },
+  {
+    "pregunta": "¿Qué anticuerpos detecta la serología en el diagnóstico de sífilis?",
+    "opciones": ["IgG e IgA", "IgM e IgG", "IgA e IgE", "IgD e IgG"],
+    "respuesta": "IgG e IgA"
+  },
+  {
+    "pregunta": "¿Cuánto tiempo pueden persistir los anticuerpos IgG e IgA detectados en la serología para la sífilis?",
+    "opciones": ["Meses o años", "Semanas", "Solo durante la fase primaria", "Días"],
+    "respuesta": "Meses o años"
+  },
+  {
+    "pregunta": "¿Qué detecta la prueba del aliento con urea?",
+    "opciones": ["Actividad de ureasa", "Anticuerpos contra T. pallidum", "Proteínas de H. pylori", "Antígenos de sífilis en la saliva"],
+    "respuesta": "Actividad de ureasa"
+  },
+  {
+    "pregunta": "¿Cómo es la sensibilidad y especificidad de la prueba del aliento con urea?",
+    "opciones": ["Alta", "Baja", "Media", "Variable"],
+    "respuesta": "Alta"
+  },
+  {
+    "pregunta": "¿Qué tipo de muestra se usa para detectar antígeno de H. pylori mediante pruebas en heces?",
+    "opciones": ["Muestras fecales", "Muestras de sangre", "Exudados de heridas", "Orina"],
+    "respuesta": "Muestras fecales"
+  },
+  {
+    "pregunta": "¿Cuál es el método más utilizado para diagnosticar la sífilis?",
+    "opciones": ["Pruebas serológicas", "Prueba del aliento con urea", "Antígeno en heces", "Cultivo en laboratorio"],
+    "respuesta": "Pruebas serológicas"
+  },
+  {
+    "pregunta": "¿Qué anticuerpos se detectan en las pruebas serológicas para la sífilis?",
+    "opciones": ["Anticuerpos específicos contra T. pallidum o componentes tisulares alterados", "Anticuerpos contra H. pylori", "Anticuerpos contra la penicilina", "Anticuerpos contra virus"],
+    "respuesta": "Anticuerpos específicos contra T. pallidum o componentes tisulares alterados"
+  },
+  {
+    "pregunta": "¿Cuál es el tratamiento de elección para la sífilis?",
+    "opciones": ["Penicilina G Benzatina", "Doxiciclina", "Azitromicina", "Tetraciclinas"],
+    "respuesta": "Penicilina G Benzatina"
+  },
+  {
+    "pregunta": "¿Cuántas dosis de Penicilina G Benzatina se administran en las fases iniciales de la sífilis?",
+    "opciones": ["Una dosis única", "Tres dosis semanales", "Una dosis semanal", "Una dosis diaria durante una semana"],
+    "respuesta": "Una dosis única"
+  },
+  {
+    "pregunta": "¿Cómo se trata la sífilis congénita o tardía con Penicilina G Benzatina?",
+    "opciones": ["Tres dosis semanales", "Una dosis única", "Una dosis diaria", "Cinco dosis mensuales"],
+    "respuesta": "Tres dosis semanales"
+  },
+  {
+    "pregunta": "¿Qué alternativa se ofrece a los pacientes alérgicos a la penicilina?",
+    "opciones": ["Doxiciclina o azitromicina", "Ciprofloxacino", "Amoxicilina", "Eritromicina"],
+    "respuesta": "Doxiciclina o azitromicina"
+  },
+  {
+    "pregunta": "¿Por qué se requiere una monitorización estrecha al usar alternativas como la doxiciclina o azitromicina?",
+    "opciones": ["Porque pueden tener efectos secundarios significativos", "Porque son menos efectivas que la penicilina", "Porque tienen interacciones con otros medicamentos", "Porque solo funcionan en la sífilis secundaria"],
+    "respuesta": "Porque pueden tener efectos secundarios significativos"
+  },
+  {
+    "pregunta": "¿Qué deben hacer las mujeres embarazadas alérgicas a la penicilina?",
+    "opciones": ["Ser desensibilizadas a la penicilina", "Usar solo azitromicina", "Tomar antibióticos sin receta", "Evitar el tratamiento durante el embarazo"],
+    "respuesta": "Ser desensibilizadas a la penicilina"
+  },
+  {
+    "pregunta": "¿Cuál es la restricción respecto al uso de tetraciclinas durante el embarazo?",
+    "opciones": ["No deben usarse durante el embarazo", "Son la primera opción de tratamiento", "Se pueden usar solo en la fase terciaria", "Son efectivas solo en la sífilis primaria"],
+    "respuesta": "No deben usarse durante el embarazo"
+  },
+  {
+    "pregunta": "¿Cuál es una de las principales prácticas de prevención para evitar la sífilis?",
+    "opciones": ["Uso de preservativos y reducción de conductas de riesgo", "Tomar antibióticos profilácticos", "Realizarse pruebas serológicas solo en casos sintomáticos", "Evitar el contacto con personas infectadas"],
+    "respuesta": "Uso de preservativos y reducción de conductas de riesgo"
+  },
+  {
+    "pregunta": "¿Qué grupo de personas debe realizarse pruebas serológicas de sífilis con mayor frecuencia?",
+    "opciones": ["Grupos de riesgo y embarazadas", "Solo personas con síntomas", "Solo hombres", "Personas con antecedentes familiares de sífilis"],
+    "respuesta": "Grupos de riesgo y embarazadas"
+  },
+  {
+    "pregunta": "¿Qué se debe hacer con las parejas sexuales de pacientes infectados con sífilis?",
+    "opciones": ["Identificarlos y tratarlos", "Informarles sobre los síntomas", "Realizar solo análisis de sangre", "No es necesario hacer nada"],
+    "respuesta": "Identificarlos y tratarlos"
+  },
+  {
+    "pregunta": "¿Qué debe incluir la educación sanitaria sobre la sífilis?",
+    "opciones": ["Información sobre síntomas, transmisión y consecuencias de la enfermedad", "Instrucciones sobre el uso de medicamentos", "Datos sobre las fases de la infección", "Consejos para la prevención del VIH"],
+    "respuesta": "Información sobre síntomas, transmisión y consecuencias de la enfermedad"
+  },
+  {
+    "pregunta": "¿Qué tipo de prueba serológica se utiliza con mayor frecuencia para diagnosticar la sífilis?",
+    "opciones": ["La serología para detectar anticuerpos contra T. pallidum", "Pruebas de PCR", "Pruebas de aliento con urea", "Pruebas de antígenos en heces"],
+    "respuesta": "La serología para detectar anticuerpos contra T. pallidum"
+  },
+  {
+    "pregunta": "¿Qué tipo de antibióticos deben evitarse durante el embarazo para tratar la sífilis?",
+    "opciones": ["Tetraciclinas", "Penicilina G Benzatina", "Doxiciclina", "Azitromicina"],
+    "respuesta": "Tetraciclinas"
+  },
+  {
+    "pregunta": "¿Qué hace la desensibilización a la penicilina en mujeres embarazadas alérgicas?",
+    "opciones": ["Permite que reciban penicilina de manera segura", "Hace que la penicilina sea más efectiva", "Evita efectos secundarios", "Elimina la alergia a la penicilina"],
+    "respuesta": "Permite que reciban penicilina de manera segura"
+  }
+]

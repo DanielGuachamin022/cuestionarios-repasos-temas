@@ -1,0 +1,152 @@
+[
+  {
+    "pregunta": "¿Qué grupo de fármacos ha reemplazado en gran parte a los barbitúricos?",
+    "opciones": ["Antidepresivos", "Benzodiacepinas", "Antipsicóticos", "Opioides"],
+    "respuesta": "Benzodiacepinas"
+  },
+  {
+    "pregunta": "¿Cuál es una ventaja de las benzodiacepinas frente a los barbitúricos?",
+    "opciones": ["Mayor toxicidad", "Menor margen terapéutico", "Mayor seguridad terapéutica", "Mayor dependencia"],
+    "respuesta": "Mayor seguridad terapéutica"
+  },
+  {
+    "pregunta": "¿Qué neurotransmisor potencian las benzodiacepinas?",
+    "opciones": ["Dopamina", "Serotonina", "GABA", "Glutamato"],
+    "respuesta": "GABA"
+  },
+  {
+    "pregunta": "¿Sobre qué receptor actúan las benzodiacepinas?",
+    "opciones": ["NMDA", "GABA-A", "D2", "5-HT"],
+    "respuesta": "GABA-A"
+  },
+  {
+    "pregunta": "¿Qué efecto produce la apertura de canales de cloruro?",
+    "opciones": ["Despolarización", "Hiperpolarización neuronal", "Excitación neuronal", "Liberación de dopamina"],
+    "respuesta": "Hiperpolarización neuronal"
+  },
+  {
+    "pregunta": "¿Cuál es una benzodiacepina de acción breve?",
+    "opciones": ["Diazepam", "Midazolam", "Clonazepam", "Lorazepam"],
+    "respuesta": "Midazolam"
+  },
+  {
+    "pregunta": "¿Cuál es una benzodiacepina de acción prolongada?",
+    "opciones": ["Alprazolam", "Lorazepam", "Diazepam", "Midazolam"],
+    "respuesta": "Diazepam"
+  },
+  {
+    "pregunta": "¿Cuál es una benzodiacepina de acción intermedia?",
+    "opciones": ["Midazolam", "Diazepam", "Alprazolam", "Tiopental"],
+    "respuesta": "Alprazolam"
+  },
+  {
+    "pregunta": "¿Para qué se utiliza el midazolam principalmente?",
+    "opciones": ["Hipertensión", "Sedación preoperatoria", "Diabetes", "Dolor crónico"],
+    "respuesta": "Sedación preoperatoria"
+  },
+  {
+    "pregunta": "¿Qué benzodiacepina se usa en crisis de pánico?",
+    "opciones": ["Fenobarbital", "Alprazolam", "Tiopental", "Zolpidem"],
+    "respuesta": "Alprazolam"
+  },
+  {
+    "pregunta": "¿Qué benzodiacepina se usa en epilepsia refractaria?",
+    "opciones": ["Clonazepam", "Zopiclona", "Pentobarbital", "Amobarbital"],
+    "respuesta": "Clonazepam"
+  },
+  {
+    "pregunta": "¿Qué fármaco se usa para la abstinencia alcohólica?",
+    "opciones": ["Clorodiazepóxido", "Zolpidem", "Fenitoína", "Gabapentina"],
+    "respuesta": "Clorodiazepóxido"
+  },
+  {
+    "pregunta": "¿Cuál es un efecto adverso neurológico de las benzodiacepinas?",
+    "opciones": ["Hipoglucemia", "Sedación", "Hipertensión", "Ceguera"],
+    "respuesta": "Sedación"
+  },
+  {
+    "pregunta": "¿Qué efecto cognitivo pueden causar las benzodiacepinas?",
+    "opciones": ["Hipermnesia", "Amnesia anterógrada", "Mejor concentración", "Euforia permanente"],
+    "respuesta": "Amnesia anterógrada"
+  },
+  {
+    "pregunta": "¿Qué ocurre al suspender bruscamente benzodiacepinas?",
+    "opciones": ["Mejora inmediata", "Insomnio de rebote", "Curación total", "Hipotermia"],
+    "respuesta": "Insomnio de rebote"
+  },
+  {
+    "pregunta": "¿Qué grupo es más susceptible a efectos adversos?",
+    "opciones": ["Niños", "Adultos mayores", "Atletas", "Adolescentes"],
+    "respuesta": "Adultos mayores"
+  },
+  {
+    "pregunta": "¿Cuál es el antagonista de las benzodiacepinas?",
+    "opciones": ["Naloxona", "Flumazenil", "Atropina", "Propranolol"],
+    "respuesta": "Flumazenil"
+  },
+  {
+    "pregunta": "¿Cuál es una indicación del flumazenil?",
+    "opciones": ["Dolor crónico", "Reversión de sedación", "Hipertensión", "Depresión"],
+    "respuesta": "Reversión de sedación"
+  },
+  {
+    "pregunta": "¿Cuál es la vía de administración del flumazenil?",
+    "opciones": ["Oral", "Intramuscular", "Intravenosa", "Subcutánea"],
+    "respuesta": "Intravenosa"
+  },
+  {
+    "pregunta": "¿Qué riesgo existe tras administrar flumazenil?",
+    "opciones": ["Hipoglucemia", "Resedación", "Hipotermia", "Anemia"],
+    "respuesta": "Resedación"
+  },
+  {
+    "pregunta": "¿Qué barbitúrico se usa para inducción anestésica?",
+    "opciones": ["Fenobarbital", "Tiopental", "Zolpidem", "Clonazepam"],
+    "respuesta": "Tiopental"
+  },
+  {
+    "pregunta": "¿Qué barbitúrico se usa como anticonvulsivo crónico?",
+    "opciones": ["Pentobarbital", "Fenobarbital", "Amobarbital", "Midazolam"],
+    "respuesta": "Fenobarbital"
+  },
+  {
+    "pregunta": "¿Qué característica tienen los barbitúricos?",
+    "opciones": ["Alta seguridad", "Ventana terapéutica estrecha", "Sin dependencia", "Sin efectos adversos"],
+    "respuesta": "Ventana terapéutica estrecha"
+  },
+  {
+    "pregunta": "¿Qué fármacos pertenecen a los hipnóticos no benzodiacepínicos?",
+    "opciones": ["Diazepam y Lorazepam", "Zolpidem y Zopiclona", "Fenitoína y Valproato", "Haloperidol y Risperidona"],
+    "respuesta": "Zolpidem y Zopiclona"
+  },
+  {
+    "pregunta": "¿Cuál es una ventaja de los hipnóticos Z?",
+    "opciones": ["Mayor dependencia", "Mayor sedación residual", "Menor dependencia", "Mayor toxicidad"],
+    "respuesta": "Menor dependencia"
+  },
+  {
+    "pregunta": "¿Por cuánto tiempo se recomienda usar hipnóticos Z?",
+    "opciones": ["1 año", "6 meses", "2-4 semanas", "Indefinidamente"],
+    "respuesta": "2-4 semanas"
+  },
+  {
+    "pregunta": "¿Qué se debe evaluar antes de administrar sedantes?",
+    "opciones": ["Color de piel", "Nivel de conciencia", "Altura", "Grupo sanguíneo"],
+    "respuesta": "Nivel de conciencia"
+  },
+  {
+    "pregunta": "¿Qué se debe vigilar tras administrar sedantes?",
+    "opciones": ["Solo temperatura", "Signos vitales", "Color de ojos", "Peso corporal"],
+    "respuesta": "Signos vitales"
+  },
+  {
+    "pregunta": "¿Qué se debe evitar durante el tratamiento con sedantes?",
+    "opciones": ["Agua", "Alcohol", "Ejercicio", "Vitaminas"],
+    "respuesta": "Alcohol"
+  },
+  {
+    "pregunta": "¿Qué hacer ante depresión respiratoria?",
+    "opciones": ["Esperar", "Administrar antibióticos", "Soporte ventilatorio", "Dar líquidos"],
+    "respuesta": "Soporte ventilatorio"
+  }
+]

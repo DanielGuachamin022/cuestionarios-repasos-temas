@@ -1,0 +1,12 @@
+[
+  {
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "opciones": ["París", "Madrid", "Berlín", "Roma"],
+    "respuesta": "París"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de 2 + 2?",
+    "opciones": ["3", "4", "5", "6"],
+    "respuesta": "4"
+  }
+]

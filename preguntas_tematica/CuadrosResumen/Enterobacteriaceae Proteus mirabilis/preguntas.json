@@ -1,0 +1,82 @@
+[
+  {
+    "pregunta": "¿Qué enzima produce *Proteus mirabilis* en grandes cantidades?",
+    "opciones": ["Ureasa", "Amilasa", "Lipasa", "Proteasa"],
+    "respuesta": "Ureasa"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene la ureasa de *Proteus mirabilis* sobre la urea?",
+    "opciones": ["La escinde en dióxido de carbono y amonio", "La convierte en ácido úrico", "La desintegra en amoniaco", "La transforma en nitrógeno"],
+    "respuesta": "La escinde en dióxido de carbono y amonio"
+  },
+  {
+    "pregunta": "¿Cómo afecta la actividad de la ureasa al pH urinario?",
+    "opciones": ["Lo eleva significativamente", "Lo reduce", "No tiene efecto", "Lo mantiene constante"],
+    "respuesta": "Lo eleva significativamente"
+  },
+  {
+    "pregunta": "¿Qué sucede con el pH urinario en presencia de ureasa de *Proteus mirabilis*?",
+    "opciones": ["Se vuelve alcalino", "Se vuelve ácido", "Se mantiene neutro", "Se vuelve más ácido al principio y luego alcalino"],
+    "respuesta": "Se vuelve alcalino"
+  },
+  {
+    "pregunta": "¿Qué componentes precipitan en la orina alcalina causada por la ureasa?",
+    "opciones": ["Magnesio y calcio", "Sodio y potasio", "Sodio y magnesio", "Potasio y calcio"],
+    "respuesta": "Magnesio y calcio"
+  },
+  {
+    "pregunta": "¿Qué cristales se forman en la orina alcalina debido a la actividad de la ureasa?",
+    "opciones": ["Estruvita y apatita", "Ácido úrico y calcio", "Oxalato de calcio y fosfato", "Cristales de cistina"],
+    "respuesta": "Estruvita y apatita"
+  },
+  {
+    "pregunta": "¿Qué se acumula al formarse los cristales de estruvita y apatita?",
+    "opciones": ["Cálculos renales", "Proteínas", "Bacterias", "Ácido úrico"],
+    "respuesta": "Cálculos renales"
+  },
+  {
+    "pregunta": "¿Dónde suele colonizar *Proteus mirabilis* en el cuerpo humano?",
+    "opciones": ["Tracto urinario", "Tracto respiratorio", "Sistema digestivo", "Piel"],
+    "respuesta": "Tracto urinario"
+  },
+  {
+    "pregunta": "¿Qué consecuencia patológica está relacionada con la alcalinización del pH urinario por *Proteus mirabilis*?",
+    "opciones": ["Formación de cálculos renales", "Infección sistémica", "Aumento de la diuresis", "Reducción de la acidez urinaria"],
+    "respuesta": "Formación de cálculos renales"
+  },
+  {
+    "pregunta": "¿Qué parte del cuerpo se ve afectada por *Proteus mirabilis* al causar cálculos renales?",
+    "opciones": ["Urotelio", "Corazón", "Pulmones", "Hígado"],
+    "respuesta": "Urotelio"
+  },
+  {
+    "pregunta": "¿Qué consecuencias patológicas puede generar la infección urinaria por *Proteus mirabilis*?",
+    "opciones": ["Formación de cálculos y daño al urotelio", "Ceguera temporal", "Lesión hepática", "Disminución de la producción urinaria"],
+    "respuesta": "Formación de cálculos y daño al urotelio"
+  },
+  {
+    "pregunta": "¿Qué sucede con el dióxido de carbono (CO₂) y el amonio producido por la ureasa?",
+    "opciones": ["Elevan el pH urinario", "Provocan acidosis", "Son absorbidos por los riñones", "Destruyen las células del urotelio"],
+    "respuesta": "Elevan el pH urinario"
+  },
+  {
+    "pregunta": "¿Qué tipo de infecciones suele causar *Proteus mirabilis* en el tracto urinario?",
+    "opciones": ["Infecciones urinarias", "Infecciones respiratorias", "Infecciones cutáneas", "Infecciones gastrointestinales"],
+    "respuesta": "Infecciones urinarias"
+  },
+  {
+    "pregunta": "¿Cómo se llama el proceso en el que los cristales se forman y se acumulan para generar cálculos renales?",
+    "opciones": ["Cristalización", "Fermentación", "Metabolización", "Oxidación"],
+    "respuesta": "Cristalización"
+  },
+  {
+    "pregunta": "¿Qué puede causar la formación de cálculos renales en pacientes con infección por *Proteus mirabilis*?",
+    "opciones": ["Alcalinización del pH urinario", "Deshidratación", "Inmunodeficiencia", "Aumento de la acidez urinaria"],
+    "respuesta": "Alcalinización del pH urinario"
+  },
+  {
+    "pregunta": "¿Qué tipo de cálculos se asocian comúnmente a la infección urinaria por *Proteus mirabilis*?",
+    "opciones": ["Cálculos de estruvita", "Cálculos de ácido úrico", "Cálculos de cistina", "Cálculos de oxalato de calcio"],
+    "respuesta": "Cálculos de estruvita"
+  }
+]

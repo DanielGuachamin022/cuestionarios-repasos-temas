@@ -1,0 +1,202 @@
+[
+  {
+    "pregunta": "¿Qué tipo de bacteria es morfológicamente el agente del tétanos?",
+    "opciones": ["Coco Grampositivo", "Bacilo Grampositivo", "Bacilo Gramnegativo", "Coco Gramnegativo"],
+    "respuesta": "Bacilo Grampositivo"
+  },
+  {
+    "pregunta": "¿Cómo suelen disponerse las bacterias del tétanos?",
+    "opciones": ["En racimos", "Aisladas, en parejas o cadenas largas en forma de serpentina", "En forma de diplococos", "En agregados"],
+    "respuesta": "Aisladas, en parejas o cadenas largas en forma de serpentina"
+  },
+  {
+    "pregunta": "¿Qué aspecto otorgan las esporas terminales de Clostridium tetani?",
+    "opciones": ["Aspecto de lenteja", "Aspecto de palillo de tambor", "Aspecto de cápsula", "Aspecto de coco"],
+    "respuesta": "Aspecto de palillo de tambor"
+  },
+  {
+    "pregunta": "¿Qué condición metabólica caracteriza a Clostridium tetani?",
+    "opciones": ["Aerobio estricto", "Anaerobio", "Microaerófilo", "Aerobio facultativo"],
+    "respuesta": "Anaerobio"
+  },
+  {
+    "pregunta": "¿Cuál es la principal neurotoxina responsable de las manifestaciones clínicas del tétanos?",
+    "opciones": ["Lipopolisacárido", "Tetanolisina", "Tetanopasmina", "Hemolisina"],
+    "respuesta": "Tetanopasmina"
+  },
+  {
+    "pregunta": "¿Qué función cumple la tetanolisina?",
+    "opciones": ["Neutraliza anticuerpos", "Contribuye a la patogenicidad", "Favorece la movilidad bacteriana", "Produce esporas"],
+    "respuesta": "Contribuye a la patogenicidad"
+  },
+  {
+    "pregunta": "¿Qué permiten las esporas del tétanos?",
+    "opciones": ["Reproducirse dentro del huésped", "Sobrevivir en condiciones adversas", "Resistir antibióticos", "Infectar directamente los nervios"],
+    "respuesta": "Sobrevivir en condiciones adversas"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene la tetanopasmina sobre el sistema nervioso?",
+    "opciones": ["Activa neurotransmisores excitadores", "Inactiva proteínas que liberan neurotransmisores inhibidores", "Destruye neuronas sensoriales", "Bloquea el impulso auditivo"],
+    "respuesta": "Inactiva proteínas que liberan neurotransmisores inhibidores"
+  },
+  {
+    "pregunta": "¿Cuál es el número estimado de casos de tétanos al año en el mundo?",
+    "opciones": ["100 mil", "500 mil", "1 millón", "10 millones"],
+    "respuesta": "1 millón"
+  },
+  {
+    "pregunta": "¿Cuál es la tasa de mortalidad del tétanos sin vacunación?",
+    "opciones": ["5–10%", "10–20%", "20–30%", "30–50%"],
+    "respuesta": "30–50%"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de muertes por tétanos corresponden a neonatos?",
+    "opciones": ["10%", "25%", "50%", "75%"],
+    "respuesta": "50%"
+  },
+  {
+    "pregunta": "¿Dónde se encuentran comúnmente las esporas de Clostridium tetani?",
+    "opciones": ["En el agua salada", "En el aire", "En suelo fértil y aparato digestivo de animales", "En la sangre humana"],
+    "respuesta": "En suelo fértil y aparato digestivo de animales"
+  },
+  {
+    "pregunta": "¿Cuál es el foco de infección más típico del tétanos?",
+    "opciones": ["Heridas superficiales", "Heridas punzantes", "Picaduras de insectos", "Roces cutáneos"],
+    "respuesta": "Heridas punzantes"
+  },
+  {
+    "pregunta": "¿Qué circunstancias especiales pueden provocar tétanos?",
+    "opciones": ["Raspones leves", "Quemaduras graves, cirugías o isquemia", "Picaduras de mosquitos", "Abrasiones menores"],
+    "respuesta": "Quemaduras graves, cirugías o isquemia"
+  },
+  {
+    "pregunta": "¿Cómo pueden las drogas ilegales ser un foco de infección de tétanos?",
+    "opciones": ["Por causar heridas en la piel", "Por disminuir el sistema inmune", "Porque pueden contener esporas inyectadas", "Por alterar el pH de la sangre"],
+    "respuesta": "Porque pueden contener esporas inyectadas"
+  },
+  {
+    "pregunta": "¿Cuál es la forma más común y grave de tétanos?",
+    "opciones": ["Tétanos cefálico", "Tétanos localizado", "Tétanos neonatal", "Tétanos generalizado"],
+    "respuesta": "Tétanos generalizado"
+  },
+  {
+    "pregunta": "¿Qué caracteriza al tétanos localizado?",
+    "opciones": ["Afecta a todo el cuerpo", "Afecta principalmente al sistema nervioso autónomo", "Se limita a músculos cercanos a la herida", "Es exclusivo de recién nacidos"],
+    "respuesta": "Se limita a músculos cercanos a la herida"
+  },
+  {
+    "pregunta": "¿Qué tipo de tétanos afecta a los nervios craneales?",
+    "opciones": ["Tétanos generalizado", "Tétanos cefálico", "Tétanos localizado", "Tétanos progresivo"],
+    "respuesta": "Tétanos cefálico"
+  },
+  {
+    "pregunta": "¿En qué región anatómica aparece con mayor frecuencia el tétanos neonatal?",
+    "opciones": ["Piel del tórax", "Cavidad oral", "Muñón umbilical", "Extremidades inferiores"],
+    "respuesta": "Muñón umbilical"
+  },
+  {
+    "pregunta": "¿Qué característica del tétanos neonatal lo hace especialmente preocupante?",
+    "opciones": ["Su baja contagiosidad", "Su leve sintomatología", "Su alta mortalidad", "Afecta solo a prematuros"],
+    "respuesta": "Su alta mortalidad"
+  },
+  {
+    "pregunta": "¿En cuánto tiempo pueden aparecer los primeros síntomas del tétanos?",
+    "opciones": ["En horas", "En pocos días hasta semanas", "En meses", "Solo después de un año"],
+    "respuesta": "En pocos días hasta semanas"
+  },
+  {
+    "pregunta": "¿Qué factor influye en la variabilidad del período de incubación?",
+    "opciones": ["La edad del paciente", "La localización de la herida", "El grupo sanguíneo", "El clima"],
+    "respuesta": "La localización de la herida"
+  },
+  {
+    "pregunta": "¿De qué depende la rapidez con la que se manifiesta completamente el tétanos?",
+    "opciones": ["Del tipo de antibiótico usado", "De la distancia al sistema nervioso central", "De la cantidad de toxina en sangre", "De la alimentación del paciente"],
+    "respuesta": "De la distancia al sistema nervioso central"
+  },
+  {
+    "pregunta": "¿Qué ocurre cuando la herida está más cerca del sistema nervioso central?",
+    "opciones": ["El período de incubación es más largo", "El período de incubación es más corto", "La enfermedad no se desarrolla", "La bacteria deja de producir toxina"],
+    "respuesta": "El período de incubación es más corto"
+  },
+  {
+    "pregunta": "¿Cuál es el método principal para diagnosticar el tétanos?",
+    "opciones": ["Resonancia magnética", "Diagnóstico clínico", "Prueba de anticuerpos", "Biopsia"],
+    "respuesta": "Diagnóstico clínico"
+  },
+  {
+    "pregunta": "¿Qué porcentaje de casos tiene cultivo microbiológico positivo para tétanos?",
+    "opciones": ["5%", "30%", "50%", "90%"],
+    "respuesta": "30%"
+  },
+  {
+    "pregunta": "¿Por qué el cultivo microbiológico del tétanos suele ser negativo?",
+    "opciones": ["Las bacterias no producen toxinas", "Las bacterias mueren rápidamente al exponerse al aire", "No se pueden observar al microscopio", "El agar sangre inhibe su crecimiento"],
+    "respuesta": "Las bacterias mueren rápidamente al exponerse al aire"
+  },
+  {
+    "pregunta": "¿Qué tipo de crecimiento se observa en agar sangre anaerobio para Clostridium tetani?",
+    "opciones": ["Crecimiento en espiral", "Crecimiento en enjambre", "Crecimiento en racimos", "Crecimiento uniforme"],
+    "respuesta": "Crecimiento en enjambre"
+  },
+  {
+    "pregunta": "¿Qué se observa al microscopio en Clostridium tetani?",
+    "opciones": ["Cocos en cadena", "Bacilos cortos sin esporas", "Bacilos largos y finos con esporas terminales redondas", "Células esféricas con cápsula"],
+    "respuesta": "Bacilos largos y finos con esporas terminales redondas"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo del desbridamiento en el tratamiento del tétanos?",
+    "opciones": ["Estimular la cicatrización", "Eliminar tejido necrótico y limpiar la herida", "Reducir el dolor", "Administrar antibióticos en la herida"],
+    "respuesta": "Eliminar tejido necrótico y limpiar la herida"
+  },
+  {
+    "pregunta": "¿Qué antibióticos se recomiendan para tratar el tétanos?",
+    "opciones": ["Amoxicilina o cefalexina", "Penicilina o metronidazol", "Azitromicina o clindamicina", "Rifampicina o tetraciclina"],
+    "respuesta": "Penicilina o metronidazol"
+  },
+  {
+    "pregunta": "¿Cuál es la función de la inmunoglobulina tetánica humana?",
+    "opciones": ["Estimular la producción de esporas", "Neutralizar la toxina libre", "Eliminar bacterias en sangre", "Aumentar la síntesis de anticuerpos a largo plazo"],
+    "respuesta": "Neutralizar la toxina libre"
+  },
+  {
+    "pregunta": "¿Por qué se recomienda la vacunación después de un episodio de tétanos?",
+    "opciones": ["Porque la infección no confiere inmunidad", "Porque potencia el efecto de los antibióticos", "Porque reduce la inflamación", "Porque acelera la cicatrización"],
+    "respuesta": "Porque la infección no confiere inmunidad"
+  },
+  {
+    "pregunta": "¿Cuántas dosis incluye la vacunación primaria contra el tétanos?",
+    "opciones": ["Una dosis", "Dos dosis", "Tres dosis", "Cuatro dosis"],
+    "respuesta": "Tres dosis"
+  },
+  {
+    "pregunta": "¿Cada cuánto tiempo se debe aplicar una dosis de recuerdo del toxoide tetánico?",
+    "opciones": ["Cada año", "Cada 5 años", "Cada 10 años", "Cada 20 años"],
+    "respuesta": "Cada 10 años"
+  },
+  {
+    "pregunta": "¿Qué tan eficaz es la vacunación contra el tétanos?",
+    "opciones": ["Poco eficaz", "Moderadamente eficaz", "Previene eficazmente el tétanos", "Solo reduce la mortalidad"],
+    "respuesta": "Previene eficazmente el tétanos"
+  },
+  {
+    "pregunta": "¿Qué acción es fundamental en países en desarrollo para reducir la mortalidad por tétanos?",
+    "opciones": ["Reducir el uso de antibióticos", "Aumentar la cobertura de vacunación", "Disminuir las hospitalizaciones", "Eliminar cirugías innecesarias"],
+    "respuesta": "Aumentar la cobertura de vacunación"
+  },
+  {
+    "pregunta": "¿Qué componente se utiliza en la vacuna contra el tétanos?",
+    "opciones": ["Bacteria viva atenuada", "Toxoide tetánico", "Anticuerpos preformados", "Esporas inactivadas"],
+    "respuesta": "Toxoide tetánico"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes métodos NO forma parte del diagnóstico del tétanos?",
+    "opciones": ["Diagnóstico clínico", "Cultivo microbiológico", "Microscopía", "Electrocardiograma"],
+    "respuesta": "Electrocardiograma"
+  },
+  {
+    "pregunta": "¿Qué característica hace útil el examen microscópico en el diagnóstico del tétanos?",
+    "opciones": ["Permite detectar toxina libre", "Observa la morfología característica del bacilo", "Mide la respuesta inmunológica", "Detecta anticuerpos específicos"],
+    "respuesta": "Observa la morfología característica del bacilo"
+  }
+]

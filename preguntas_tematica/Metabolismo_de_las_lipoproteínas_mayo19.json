@@ -1,0 +1,402 @@
+[
+    {
+        "pregunta": "¿Qué letra se utiliza para designar a las apolipoproteínas?",
+        "opciones": [
+            "APO",
+            "LIP",
+            "PRO",
+            "HDL"
+        ],
+        "respuesta": "APO"
+    },
+    {
+        "pregunta": "¿Cuál es la función principal de la apolipoproteína Apo AI?",
+        "opciones": [
+            "Transportar triglicéridos a los tejidos",
+            "Regular la actividad de la lipasa hepática",
+            "Participar en el transporte inverso de colesterol",
+            "Captar lipoproteínas ricas en triglicéridos"
+        ],
+        "respuesta": "Participar en el transporte inverso de colesterol"
+    },
+    {
+        "pregunta": "¿Qué enfermedades se asocian con un déficit de Apo AI?",
+        "opciones": [
+            "Alzheimer y dislipidemia",
+            "Aterosclerosis y resistencia a la insulina",
+            "Hipertrigliceridemia y pancreatitis",
+            "Enfermedad cardiovascular y dislipidemia"
+        ],
+        "respuesta": "Enfermedad cardiovascular y dislipidemia"
+    },
+    {
+        "pregunta": "¿Dónde se sintetiza principalmente la apolipoproteína Apo AII?",
+        "opciones": [
+            "Intestino",
+            "Cerebro",
+            "Hígado",
+            "Riñón"
+        ],
+        "respuesta": "Hígado"
+    },
+    {
+        "pregunta": "¿Qué apolipoproteína regula enzimas involucradas en el metabolismo de triglicéridos?",
+        "opciones": [
+            "Apo AI",
+            "Apo B",
+            "Apo C",
+            "Apo E"
+        ],
+        "respuesta": "Apo C"
+    },
+    {
+        "pregunta": "¿Qué función cumple el receptor LDL o APOB/E?",
+        "opciones": [
+            "Eliminar colesterol del cuerpo",
+            "Regular la síntesis de HDL",
+            "Mediar la endocitosis de lipoproteínas",
+            "Regular la actividad de la lipasa hepática"
+        ],
+        "respuesta": "Mediar la endocitosis de lipoproteínas"
+    },
+    {
+        "pregunta": "¿Qué controla la expresión del receptor LDL?",
+        "opciones": [
+            "Cantidad de HDL en sangre",
+            "Síntesis de triglicéridos",
+            "Concentración intracelular de colesterol",
+            "Niveles de glucosa en plasma"
+        ],
+        "respuesta": "Concentración intracelular de colesterol"
+    },
+    {
+        "pregunta": "¿Cuál es el órgano de síntesis principal de Apo B?",
+        "opciones": [
+            "Hígado y enterocitos",
+            "Riñón",
+            "Intestino",
+            "Cerebro"
+        ],
+        "respuesta": "Hígado y enterocitos"
+    },
+    {
+        "pregunta": "¿Qué apolipoproteína está asociada con la enfermedad de Alzheimer?",
+        "opciones": [
+            "Apo AI",
+            "Apo B",
+            "Apo C",
+            "Apo E"
+        ],
+        "respuesta": "Apo E"
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo del transporte inverso de colesterol?",
+        "opciones": [
+            "Llevar triglicéridos a los tejidos musculares",
+            "Transportar colesterol desde tejidos periféricos al hígado",
+            "Distribuir proteínas a través del plasma",
+            "Transportar glucosa a las células"
+        ],
+        "respuesta": "Transportar colesterol desde tejidos periféricos al hígado"
+    },
+    {
+        "pregunta": "¿En qué tipo de células se encuentran los receptores depuradores inespecíficos?",
+        "opciones": [
+            "Células musculares",
+            "Células hepáticas",
+            "Células fagocíticas como los macrófagos",
+            "Células neuronales"
+        ],
+        "respuesta": "Células fagocíticas como los macrófagos"
+    },
+    {
+        "pregunta": "¿Qué tipo de LDL reconocen los receptores depuradores inespecíficos?",
+        "opciones": [
+            "LDL naturales",
+            "LDL oxidadas o modificadas",
+            "HDL",
+            "VLDL"
+        ],
+        "respuesta": "LDL oxidadas o modificadas"
+    },
+    {
+        "pregunta": "¿Qué característica distingue a los receptores depuradores inespecíficos en cuanto a su regulación?",
+        "opciones": [
+            "Están regulados por colesterol plasmático",
+            "Están regulados por insulina",
+            "No están sujetos a regulación",
+            "Solo se activan en el hígado"
+        ],
+        "respuesta": "No están sujetos a regulación"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes es un tipo de receptor depurador inespecífico?",
+        "opciones": [
+            "CD36",
+            "LDLR",
+            "ABCA1",
+            "SR-B1"
+        ],
+        "respuesta": "CD36"
+    },
+    {
+        "pregunta": "¿Cuál es una función importante del receptor CD36?",
+        "opciones": [
+            "Transportar glucosa al interior celular",
+            "Unirse a LDL naturales",
+            "Actuar como receptor de lípidos en múltiples tipos celulares",
+            "Regular la presión arterial"
+        ],
+        "respuesta": "Actuar como receptor de lípidos en múltiples tipos celulares"
+    },
+    {
+        "pregunta": "¿Qué efecto tiene el colesterol libre en la síntesis celular de colesterol?",
+        "opciones": [
+            "Estimula la síntesis de colesterol",
+            "No tiene efecto sobre la síntesis",
+            "Inhibe la síntesis mediante retroalimentación negativa",
+            "Activa los receptores CD36"
+        ],
+        "respuesta": "Inhibe la síntesis mediante retroalimentación negativa"
+    },
+    {
+        "pregunta": "¿Qué sucede cuando hay un agotamiento de colesterol libre en la célula?",
+        "opciones": [
+            "Disminuye la expresión del receptor LDL",
+            "Aumenta la expresión del receptor LDL",
+            "Se reduce la actividad de los receptores scavenger",
+            "Se activa la síntesis de VLDL"
+        ],
+        "respuesta": "Aumenta la expresión del receptor LDL"
+    },
+    {
+        "pregunta": "¿Cuál es la principal función del transporte inverso de colesterol?",
+        "opciones": [
+            "Transportar colesterol desde el hígado a los tejidos",
+            "Reducir la placa ateromatosa",
+            "Aumentar la síntesis de triglicéridos",
+            "Favorecer la acumulación de LDL"
+        ],
+        "respuesta": "Reducir la placa ateromatosa"
+    },
+    {
+        "pregunta": "¿Dónde se produce inicialmente la partícula pobre en lípidos responsable del transporte inverso de colesterol?",
+        "opciones": [
+            "Riñón",
+            "Intestino e hígado",
+            "Macrófagos",
+            "Cerebro"
+        ],
+        "respuesta": "Intestino e hígado"
+    },
+    {
+        "pregunta": "¿Qué transportador facilita el paso de colesterol desde los macrófagos durante el transporte inverso?",
+        "opciones": [
+            "CD36",
+            "ABCA1",
+            "LDLR",
+            "Apo B"
+        ],
+        "respuesta": "ABCA1"
+    },
+    {
+        "pregunta": "¿Cuáles son las dos vías de eliminación del colesterol en el transporte reverso?",
+        "opciones": [
+            "Activa y pasiva",
+            "Directa e indirecta",
+            "Hepática y renal",
+            "Celular y extracelular"
+        ],
+        "respuesta": "Directa e indirecta"
+    },
+    {
+        "pregunta": "¿Qué receptor hepático está involucrado en la eliminación directa del colesterol?",
+        "opciones": [
+            "LDLR",
+            "CD36",
+            "SR-B1",
+            "ABCG1"
+        ],
+        "respuesta": "SR-B1"
+    },
+    {
+        "pregunta": "¿Qué tipo de lipoproteína facilita la eliminación de colesterol desde las células hacia el hígado?",
+        "opciones": [
+            "LDL",
+            "HDL",
+            "VLDL",
+            "Quilomicrones"
+        ],
+        "respuesta": "HDL"
+    },
+    {
+        "pregunta": "¿Qué células espumosas están implicadas en el transporte inverso de colesterol?",
+        "opciones": [
+            "Eritrocitos",
+            "Monocitos",
+            "Macrófagos",
+            "Plaquetas"
+        ],
+        "respuesta": "Macrófagos"
+    },
+    {
+        "pregunta": "¿Cuál es la relevancia del transporte inverso de colesterol en la salud cardiovascular?",
+        "opciones": [
+            "Favorece la síntesis de ácidos biliares",
+            "Promueve la absorción intestinal de lípidos",
+            "Es relevante para la aterogénesis",
+            "Estimula la formación de triglicéridos"
+        ],
+        "respuesta": "Es relevante para la aterogénesis"
+    },
+    {
+        "pregunta": "¿Qué ocurre durante la primera etapa de la aterogénesis?",
+        "opciones": [
+            "Ruptura de placa y formación de trombo",
+            "Formación de células espumosas",
+            "Lesión endotelial causada por factores como hipertensión y LDL elevado",
+            "Depósito de calcio en la arteria"
+        ],
+        "respuesta": "Lesión endotelial causada por factores como hipertensión y LDL elevado"
+    },
+    {
+        "pregunta": "¿Qué sucede después de que el colesterol LDL se infiltra en la pared del vaso?",
+        "opciones": [
+            "Se convierte en HDL",
+            "Se oxida y desencadena una respuesta inflamatoria",
+            "Es eliminado por los riñones",
+            "Se transporta al hígado por los quilomicrones"
+        ],
+        "respuesta": "Se oxida y desencadena una respuesta inflamatoria"
+    },
+    {
+        "pregunta": "¿Qué tipo de células se convierten en macrófagos y luego en células espumosas en la aterogénesis?",
+        "opciones": [
+            "Neutrófilos",
+            "Plaquetas",
+            "Monocitos",
+            "Células endoteliales"
+        ],
+        "respuesta": "Monocitos"
+    },
+    {
+        "pregunta": "¿Qué puede causar la ruptura de una placa aterosclerótica?",
+        "opciones": [
+            "La conversión de HDL en LDL",
+            "Un aumento de ABCA1",
+            "Liberación de su contenido que activa la coagulación",
+            "Una disminución del colesterol HDL"
+        ],
+        "respuesta": "Liberación de su contenido que activa la coagulación"
+    },
+    {
+        "pregunta": "¿Cuál es una consecuencia grave de la ruptura de una placa aterosclerótica?",
+        "opciones": [
+            "Hipoglucemia",
+            "Infartos o accidentes cerebrovasculares",
+            "Aumento de la presión venosa",
+            "Deshidratación celular"
+        ],
+        "respuesta": "Infartos o accidentes cerebrovasculares"
+    },
+    {
+        "pregunta": "¿Qué caracteriza a la hipercolesterolemia?",
+        "opciones": [
+            "Elevación anormal de triglicéridos",
+            "Elevación anormal de colesterol total o LDL",
+            "Disminución del colesterol HDL",
+            "Aumento de quilomicrones"
+        ],
+        "respuesta": "Elevación anormal de colesterol total o LDL"
+    },
+    {
+        "pregunta": "¿Cuál es el lípido principal alterado en la hipertrigliceridemia?",
+        "opciones": [
+            "Colesterol total",
+            "LDL",
+            "Triglicéridos",
+            "HDL"
+        ],
+        "respuesta": "Triglicéridos"
+    },
+    {
+        "pregunta": "¿Qué tipo de dislipidemia implica una elevación combinada de colesterol y triglicéridos?",
+        "opciones": [
+            "Hipercolesterolemia",
+            "Hipertrigliceridemia",
+            "Dislipidemia mixta",
+            "Hipolipidemia"
+        ],
+        "respuesta": "Dislipidemia mixta"
+    },
+    {
+        "pregunta": "¿Cuál es una causa común de la hipercolesterolemia?",
+        "opciones": [
+            "Obesidad",
+            "Consumo excesivo de alcohol",
+            "Genética (hipercolesterolemia familiar), dieta rica en grasas saturadas",
+            "Dieta rica en carbohidratos simples"
+        ],
+        "respuesta": "Genética (hipercolesterolemia familiar), dieta rica en grasas saturadas"
+    },
+    {
+        "pregunta": "¿Qué condición puede causar hipertrigliceridemia?",
+        "opciones": [
+            "Hipotiroidismo",
+            "Diabetes, obesidad, alcoholismo",
+            "Deficiencia de vitamina B12",
+            "Sedentarismo leve"
+        ],
+        "respuesta": "Diabetes, obesidad, alcoholismo"
+    },
+    {
+        "pregunta": "¿Cuál es el riesgo cardiovascular asociado a la dislipidemia mixta?",
+        "opciones": [
+            "Bajo",
+            "Moderado",
+            "Muy alto",
+            "Depende del nivel de HDL"
+        ],
+        "respuesta": "Muy alto"
+    },
+    {
+        "pregunta": "¿Cómo se ve típicamente el plasma en un paciente con hipercolesterolemia?",
+        "opciones": [
+            "Lechoso",
+            "Turbio",
+            "Claro",
+            "Espumoso"
+        ],
+        "respuesta": "Claro"
+    },
+    {
+        "pregunta": "¿Qué aspecto puede tener el plasma cuando los triglicéridos superan los 500 mg/dL?",
+        "opciones": [
+            "Claro",
+            "Rojo",
+            "Lechoso",
+            "Verdoso"
+        ],
+        "respuesta": "Lechoso"
+    },
+    {
+        "pregunta": "¿Cuál es el tratamiento inicial recomendado para la hipercolesterolemia?",
+        "opciones": [
+            "Fibratos y dieta rica en grasas",
+            "Dieta baja en grasas saturadas y estatinas",
+            "Ejercicio únicamente",
+            "Fibratos y ejercicio"
+        ],
+        "respuesta": "Dieta baja en grasas saturadas y estatinas"
+    },
+    {
+        "pregunta": "¿Qué combinación de tratamiento puede usarse en dislipidemia mixta?",
+        "opciones": [
+            "Estatinas únicamente",
+            "Fibratos solamente",
+            "Estatinas y fibratos o ezetimiba según el caso",
+            "Insulina y dieta cetogénica"
+        ],
+        "respuesta": "Estatinas y fibratos o ezetimiba según el caso"
+    }
+]
