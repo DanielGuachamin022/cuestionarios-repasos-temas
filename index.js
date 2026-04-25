@@ -15,7 +15,7 @@ function shuffle(array) {
 
 // Temáticas disponibles
 const TEMAS = {};
-const basePath = path.join(__dirname, "preguntas_tematica/PreguntasCuartoSemestre");
+const basePath = path.join(__dirname, "preguntas_tematica/AnestesicosGenerales");
 
 // Leer todas las carpetas dentro de preguntas_tematica
 fs.readdirSync(basePath).forEach(nombreCarpeta => {
@@ -55,7 +55,7 @@ app.get("/quiz/:tema", (req, res) => {
     return res.status(404).send("Tema no encontrado");
   }
 
-  const ruta = path.join(__dirname, "preguntas_tematica/PreguntasCuartoSemestre", archivo);
+  const ruta = path.join(__dirname, "preguntas_tematica/AnestesicosGenerales", archivo);
   let preguntas = JSON.parse(fs.readFileSync(ruta, "utf8"));
   preguntas = shuffle(preguntas);
 
@@ -71,7 +71,7 @@ app.post("/resultado/:tema", (req, res) => {
     return res.status(404).send("Tema no encontrado");
   }
 
-  const ruta = path.join(__dirname, "preguntas_tematica/PreguntasCuartoSemestre", archivo);
+  const ruta = path.join(__dirname, "preguntas_tematica/AnestesicosGenerales", archivo);
   let preguntas = JSON.parse(fs.readFileSync(ruta, "utf8"));
 
   const respuestasUsuario = req.body;

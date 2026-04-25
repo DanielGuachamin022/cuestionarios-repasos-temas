@@ -1,0 +1,197 @@
+[
+  {
+    "pregunta": "¿Qué característica define a la anestesia general?",
+    "opciones": ["Aumento del estado de alerta", "Pérdida reversible de la conciencia", "Estimulación del SNC", "Aumento del dolor"],
+    "respuesta": "Pérdida reversible de la conciencia"
+  },
+  {
+    "pregunta": "¿Cuál es el efecto principal sobre el SNC de los anestésicos generales?",
+    "opciones": ["Estimulación", "Depresión", "Activación motora", "Aumento de reflejos"],
+    "respuesta": "Depresión"
+  },
+  {
+    "pregunta": "¿Qué efecto NO forma parte de la anestesia general?",
+    "opciones": ["Amnesia", "Inmovilidad", "Aumento de reflejos", "Pérdida de conciencia"],
+    "respuesta": "Aumento de reflejos"
+  },
+  {
+    "pregunta": "¿Cuál es la primera fase de la anestesia general?",
+    "opciones": ["Mantenimiento", "Despertar", "Inducción", "Recuperación"],
+    "respuesta": "Inducción"
+  },
+  {
+    "pregunta": "¿Qué ocurre en la fase de inducción?",
+    "opciones": ["Eliminación del fármaco", "Pérdida de conciencia", "Aumento del dolor", "Recuperación de reflejos"],
+    "respuesta": "Pérdida de conciencia"
+  },
+  {
+    "pregunta": "¿Qué tipo de fármacos se usan principalmente en la inducción?",
+    "opciones": ["Acción lenta", "Acción prolongada", "Acción rápida y corta", "Acción acumulativa"],
+    "respuesta": "Acción rápida y corta"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes grupos forma parte de la anestesia general?",
+    "opciones": ["Antibióticos", "Hipnóticos", "Antihistamínicos", "Diuréticos"],
+    "respuesta": "Hipnóticos"
+  },
+  {
+    "pregunta": "¿Qué efecto hemodinámico es común en anestesia general?",
+    "opciones": ["Hipertensión", "Hipotensión", "Bradicardia extrema", "Aumento del gasto cardíaco"],
+    "respuesta": "Hipotensión"
+  },
+  {
+    "pregunta": "¿Por qué disminuye la presión arterial?",
+    "opciones": ["Vasoconstricción", "Vasodilatación", "Aumento del tono simpático", "Aumento del gasto cardíaco"],
+    "respuesta": "Vasodilatación"
+  },
+  {
+    "pregunta": "¿Qué efecto respiratorio producen los anestésicos?",
+    "opciones": ["Aumento de la ventilación", "Disminución del impulso ventilatorio", "Broncoconstricción severa", "Hiperventilación"],
+    "respuesta": "Disminución del impulso ventilatorio"
+  },
+  {
+    "pregunta": "¿Qué reflejo se suprime durante la anestesia?",
+    "opciones": ["Reflejo pupilar", "Reflejo nauseoso", "Reflejo osteotendinoso", "Reflejo plantar"],
+    "respuesta": "Reflejo nauseoso"
+  },
+  {
+    "pregunta": "¿Qué ocurre con la temperatura corporal?",
+    "opciones": ["Aumenta", "Permanece igual", "Disminuye", "Se vuelve inestable"],
+    "respuesta": "Disminuye"
+  },
+  {
+    "pregunta": "¿Cuál es un efecto adverso frecuente?",
+    "opciones": ["Hiperglucemia", "Náuseas y vómitos", "Hipertrofia muscular", "Convulsiones"],
+    "respuesta": "Náuseas y vómitos"
+  },
+  {
+    "pregunta": "¿Qué grupo se utiliza para inducir el sueño?",
+    "opciones": ["Analgésicos", "Hipnóticos", "Relajantes musculares", "Antibióticos"],
+    "respuesta": "Hipnóticos"
+  },
+  {
+    "pregunta": "¿Cuál de estos es un hipnótico intravenoso?",
+    "opciones": ["Fentanilo", "Propofol", "Lidocaína", "Rocuronio"],
+    "respuesta": "Propofol"
+  },
+  {
+    "pregunta": "¿Qué fármaco se usa ampliamente para TIVA?",
+    "opciones": ["Ketamina", "Propofol", "Midazolam", "Etomidato"],
+    "respuesta": "Propofol"
+  },
+  {
+    "pregunta": "¿Qué neurotransmisor potencia el propofol?",
+    "opciones": ["Dopamina", "Serotonina", "GABA", "Glutamato"],
+    "respuesta": "GABA"
+  },
+  {
+    "pregunta": "¿Cuál es un efecto del propofol?",
+    "opciones": ["Aumento de presión intracraneal", "Disminución de presión intracraneal", "Aumento del dolor", "Convulsiones"],
+    "respuesta": "Disminución de presión intracraneal"
+  },
+  {
+    "pregunta": "¿Qué efecto cardiovascular tiene el propofol?",
+    "opciones": ["Hipertensión", "Aumento del gasto cardíaco", "Hipotensión", "Taquicardia intensa"],
+    "respuesta": "Hipotensión"
+  },
+  {
+    "pregunta": "¿Qué hipnótico es más estable hemodinámicamente?",
+    "opciones": ["Propofol", "Etomidato", "Ketamina", "Midazolam"],
+    "respuesta": "Etomidato"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene el etomidato sobre el cortisol?",
+    "opciones": ["Lo aumenta", "No lo modifica", "Lo inhibe", "Lo duplica"],
+    "respuesta": "Lo inhibe"
+  },
+  {
+    "pregunta": "¿Qué hipnótico tiene efecto analgésico?",
+    "opciones": ["Propofol", "Midazolam", "Etomidato", "Ketamina"],
+    "respuesta": "Ketamina"
+  },
+  {
+    "pregunta": "¿Qué efecto cardiovascular produce la ketamina?",
+    "opciones": ["Disminuye presión arterial", "Aumenta presión arterial", "No cambia presión", "Produce paro cardíaco"],
+    "respuesta": "Aumenta presión arterial"
+  },
+  {
+    "pregunta": "¿Qué efecto respiratorio tiene la ketamina?",
+    "opciones": ["Depresión severa", "Broncoconstricción", "Broncodilatación", "Apnea"],
+    "respuesta": "Broncodilatación"
+  },
+  {
+    "pregunta": "¿Cuál es un efecto adverso de la ketamina?",
+    "opciones": ["Somnolencia leve", "Alucinaciones", "Hipoglucemia", "Bradicardia"],
+    "respuesta": "Alucinaciones"
+  },
+  {
+    "pregunta": "¿Qué benzodiacepina se usa en anestesia?",
+    "opciones": ["Diazepam", "Midazolam", "Lorazepam", "Clonazepam"],
+    "respuesta": "Midazolam"
+  },
+  {
+    "pregunta": "¿Cuál es el antídoto de las benzodiacepinas?",
+    "opciones": ["Naloxona", "Atropina", "Flumazenil", "Adrenalina"],
+    "respuesta": "Flumazenil"
+  },
+  {
+    "pregunta": "¿Qué grupo proporciona analgesia durante anestesia?",
+    "opciones": ["Hipnóticos", "Opiáceos", "Relajantes", "Anestésicos locales"],
+    "respuesta": "Opiáceos"
+  },
+  {
+    "pregunta": "¿Qué receptor activan los opiáceos?",
+    "opciones": ["Beta", "Alfa", "Mu", "NMDA"],
+    "respuesta": "Mu"
+  },
+  {
+    "pregunta": "¿Cuál es el opioide de acción más corta?",
+    "opciones": ["Fentanilo", "Morfina", "Remifentanilo", "Alfentanilo"],
+    "respuesta": "Remifentanilo"
+  },
+  {
+    "pregunta": "¿Qué efecto adverso producen los opioides?",
+    "opciones": ["Hipertensión", "Depresión respiratoria", "Hiperglucemia", "Hipertermia"],
+    "respuesta": "Depresión respiratoria"
+  },
+  {
+    "pregunta": "¿Cuál es un relajante muscular despolarizante?",
+    "opciones": ["Rocuronio", "Vecuronio", "Succinilcolina", "Cisatracurio"],
+    "respuesta": "Succinilcolina"
+  },
+  {
+    "pregunta": "¿Para qué se usa la succinilcolina?",
+    "opciones": ["Sedación", "Intubación rápida", "Analgesia", "Anestesia local"],
+    "respuesta": "Intubación rápida"
+  },
+  {
+    "pregunta": "¿Cuál es una contraindicación de la succinilcolina?",
+    "opciones": ["Hipoglucemia", "Hiperpotasemia", "Anemia", "Hipotiroidismo"],
+    "respuesta": "Hiperpotasemia"
+  },
+  {
+    "pregunta": "¿Cuál es un relajante no despolarizante?",
+    "opciones": ["Succinilcolina", "Rocuronio", "Ketamina", "Propofol"],
+    "respuesta": "Rocuronio"
+  },
+  {
+    "pregunta": "¿Qué tipo de anestésico local tiene mayor riesgo de alergia?",
+    "opciones": ["Amidas", "Ésteres", "Mixtos", "Ninguno"],
+    "respuesta": "Ésteres"
+  },
+  {
+    "pregunta": "¿Qué metabolito produce alergias en anestésicos tipo éster?",
+    "opciones": ["GABA", "PABA", "Serotonina", "Dopamina"],
+    "respuesta": "PABA"
+  },
+  {
+    "pregunta": "¿Qué tipo de anestésico local se metaboliza en el hígado?",
+    "opciones": ["Éster", "Amida", "Proteico", "Lípido"],
+    "respuesta": "Amida"
+  },
+  {
+    "pregunta": "¿Cuál es un anestésico local tipo amida?",
+    "opciones": ["Cocaína", "Benzocaína", "Lidocaína", "Tetracaína"],
+    "respuesta": "Lidocaína"
+  }
+]
