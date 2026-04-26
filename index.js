@@ -59,7 +59,7 @@ app.get("/quiz/:tema", (req, res) => {
   let preguntas = JSON.parse(fs.readFileSync(ruta, "utf8"));
   preguntas = shuffle(preguntas);
 
-  res.render("quiz", { preguntas, tema });
+  res.render("quiz", { preguntas, tema, resultado: null });
 });
 
 // Procesar resultados
@@ -87,6 +87,7 @@ app.post("/resultado/:tema", (req, res) => {
     } else {
       errores.push({
         pregunta: pregunta.pregunta,
+        imagen: pregunta.imagen,
         respuestaCorrecta,
         respuestaUsuario
       });

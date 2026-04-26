@@ -1,0 +1,104 @@
+[
+  {
+    "pregunta": "¿Qué instrumento quirúrgico se muestra en la imagen?",
+    "opciones": ["Portaagujas", "Alice", "Bisturí", "Pinza de campo"],
+    "respuesta": "Alice",
+    "imagen": "/images/alice.png"
+  },
+  {
+    "pregunta": "Identifique el siguiente instrumento quirúrgico:",
+    "opciones": ["Bisturí", "Airbenibi", "Sonda", "Riñonera"],
+    "respuesta": "Airbenibi",
+    "imagen": "/images/airbenibi.png"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de este instrumento?",
+    "opciones": ["Pinza Kelly", "Pinza anatómica", "Pinza mosquito", "Pinza quirúrgica"],
+    "respuesta": "Pinza anatómica",
+    "imagen": "/images/anatomica.png"
+  },
+  {
+    "pregunta": "¿Qué instrumento quirúrgico es este?",
+    "opciones": ["Retractor", "Aro", "Gancho", "Separador"],
+    "respuesta": "Aro",
+    "imagen": "/images/aro.png"
+  },
+  {
+    "pregunta": "Seleccione el instrumento mostrado:",
+    "opciones": ["Pinza", "Sonda", "Bisturí", "Tijeras"],
+    "respuesta": "Bisturí",
+    "imagen": "/images/bisturi.png"
+  },
+  {
+    "pregunta": "¿Cómo se denomina este instrumento?",
+    "opciones": ["Pinza Allis", "Pinza Kocher", "Pinza mosquito", "Pinza Kelly"],
+    "respuesta": "Pinza Kocher",
+    "imagen": "/images/cotcher.png"
+  },
+  {
+    "pregunta": "Identifique el instrumento quirúrgico:",
+    "opciones": ["Pinza", "Diber", "Separador", "Portaagujas"],
+    "respuesta": "Diber",
+    "imagen": "/images/diber.png"
+  },
+  {
+    "pregunta": "¿Qué instrumento se muestra en la imagen?",
+    "opciones": ["Separador de Richardson", "Farabeuf", "Gancho", "Separador de Volkman"],
+    "respuesta": "Farabeuf",
+    "imagen": "/images/farabeu.png"
+  },
+  {
+    "pregunta": "Seleccione el nombre correcto del instrumento:",
+    "opciones": ["Pinza Kocher", "Pinza Allis", "Pinza Kelly", "Pinza mosquito"],
+    "respuesta": "Pinza Kelly",
+    "imagen": "/images/kely.png"
+  },
+  {
+    "pregunta": "¿Qué instrumento quirúrgico es este?",
+    "opciones": ["Tijera curva", "Mayo", "Tijera Iris", "Tijera Metzembaum"],
+    "respuesta": "Mayo",
+    "imagen": "/images/mayo.png"
+  },
+  {
+    "pregunta": "Identifique el siguiente instrumento:",
+    "opciones": ["Lister", "Metzenbaum", "Mayo", "Iris"],
+    "respuesta": "Metzenbaum",
+    "imagen": "/images/metsembau.png"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de este instrumento?",
+    "opciones": ["Pinza Allis", "Pinza de campo", "Pinza Kelly", "Pinza Kocher"],
+    "respuesta": "Pinza de campo",
+    "imagen": "/images/pinzasdecampo.png"
+  },
+  {
+    "pregunta": "Seleccione el instrumento correcto:",
+    "opciones": ["Tijera", "Portaagujas", "Bisturí", "Pinza"],
+    "respuesta": "Portaagujas",
+    "imagen": "/images/portaagujas.png"
+  },
+  {
+    "pregunta": "¿Qué instrumento se observa en la imagen?",
+    "opciones": ["Pinza Kelly", "Pinza anatómica", "Pinza quirúrgica", "Pinza Allis"],
+    "respuesta": "Pinza quirúrgica",
+    "imagen": "/images/quirurgica.png"
+  },
+  {
+    "pregunta": "Identifique el instrumento:",
+    "opciones": ["Tijera", "Sistica", "Pinza", "Bisturí"],
+    "respuesta": "Sistica",
+    "imagen": "/images/sistica.png"
+  },
+  {
+    "pregunta": "¿Qué instrumento quirúrgico es este?",
+    "opciones": ["Aspirador", "Vacov", "Pinza", "Sonda"],
+    "respuesta": "Vacov",
+    "imagen": "/images/vacov.png"
+  },
+  {
+    "pregunta": "Seleccione el nombre del instrumento:",
+    "opciones": ["Cánula", "Yankauer", "Sonda", "Aspirador"],
+    "respuesta": "Yankauer",
+    "imagen": "/images/yancaguer.png"
+  }
+]
